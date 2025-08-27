@@ -1,0 +1,733 @@
+{
+  "feed": {
+    "title": "ML in Production",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://mlinproduction.com/feed/",
+      "value": "ML in Production"
+    },
+    "links": [
+      {
+        "href": "https://mlinproduction.com/feed/",
+        "rel": "self",
+        "type": "application/rss+xml"
+      },
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://mlinproduction.com/"
+      }
+    ],
+    "link": "https://mlinproduction.com/",
+    "subtitle": "Best practices for building real world machine learning systems",
+    "subtitle_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://mlinproduction.com/feed/",
+      "value": "Best practices for building real world machine learning systems"
+    },
+    "updated": "Sun, 08 May 2022 16:14:20 +0000",
+    "updated_parsed": [
+      2022,
+      5,
+      8,
+      16,
+      14,
+      20,
+      6,
+      128,
+      0
+    ],
+    "language": "en-US",
+    "sy_updateperiod": "hourly",
+    "sy_updatefrequency": "1",
+    "generator_detail": {
+      "name": "https://wordpress.org/?v=6.8.2"
+    },
+    "generator": "https://wordpress.org/?v=6.8.2",
+    "site": "159133505"
+  },
+  "entries": [
+    {
+      "title": "Driving Experimentation Forward through a Working Group (Experimentation Program Series: Guide 03)",
+      "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://mlinproduction.com/feed/",
+        "value": "Driving Experimentation Forward through a Working Group (Experimentation Program Series: Guide 03)"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://mlinproduction.com/experimentation-program-working-group/?utm_source=rss&utm_medium=rss&utm_campaign=experimentation-program-working-group"
+        }
+      ],
+      "link": "https://mlinproduction.com/experimentation-program-working-group/?utm_source=rss&utm_medium=rss&utm_campaign=experimentation-program-working-group",
+      "comments": "https://mlinproduction.com/experimentation-program-working-group/#respond",
+      "authors": [
+        {
+          "name": "Luigi"
+        }
+      ],
+      "author": "Luigi",
+      "author_detail": {
+        "name": "Luigi"
+      },
+      "published": "Sun, 08 May 2022 16:11:55 +0000",
+      "published_parsed": [
+        2022,
+        5,
+        8,
+        16,
+        11,
+        55,
+        6,
+        128,
+        0
+      ],
+      "tags": [
+        {
+          "term": "Experimentation",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "Management",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "id": "https://mlinproduction.com/?p=948",
+      "guidislink": false,
+      "summary": "<p>In my previous post, I defined an experimentation program (ExPr) as the mechanism by which a company uses randomized controlled experiments to generate positive business results. An ExPr is composed of the people, processes, and infrastructure for running experiments at&#8230; <a class=\"read-more\" href=\"https://mlinproduction.com/experimentation-program-working-group/\">Read More </a></p>\n<p>The post <a href=\"https://mlinproduction.com/experimentation-program-working-group/\">Driving Experimentation Forward through a Working Group (Experimentation Program Series: Guide 03)</a> appeared first on <a href=\"https://mlinproduction.com\">ML in Production</a>.</p>",
+      "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://mlinproduction.com/feed/",
+        "value": "<p>In my previous post, I defined an experimentation program (ExPr) as the mechanism by which a company uses randomized controlled experiments to generate positive business results. An ExPr is composed of the people, processes, and infrastructure for running experiments at&#8230; <a class=\"read-more\" href=\"https://mlinproduction.com/experimentation-program-working-group/\">Read More </a></p>\n<p>The post <a href=\"https://mlinproduction.com/experimentation-program-working-group/\">Driving Experimentation Forward through a Working Group (Experimentation Program Series: Guide 03)</a> appeared first on <a href=\"https://mlinproduction.com\">ML in Production</a>.</p>"
+      },
+      "content": [
+        {
+          "type": "text/html",
+          "language": null,
+          "base": "https://mlinproduction.com/feed/",
+          "value": "In my previous post, I defined an experimentation program (ExPr) as the mechanism by which a company uses randomized controlled experiments to generate positive business results. An ExPr is composed of the people, processes, and infrastructure for running experiments at&hellip; <a class=\"read-more\" href=\"https://mlinproduction.com/experimentation-program-working-group/\">Read More </a><p>The post <a href=\"https://mlinproduction.com/experimentation-program-working-group/\">Driving Experimentation Forward through a Working Group (Experimentation Program Series: Guide 03)</a> appeared first on <a href=\"https://mlinproduction.com\">ML in Production</a>.</p>"
+        }
+      ],
+      "wfw_commentrss": "https://mlinproduction.com/experimentation-program-working-group/feed/",
+      "slash_comments": "0",
+      "post-id": "948"
+    },
+    {
+      "title": "What is an Experimentation program and Who is Involved? (Experimentation Program Series: Guide 02)",
+      "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://mlinproduction.com/feed/",
+        "value": "What is an Experimentation program and Who is Involved? (Experimentation Program Series: Guide 02)"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://mlinproduction.com/experimentation-program-stakeholders/?utm_source=rss&utm_medium=rss&utm_campaign=experimentation-program-stakeholders"
+        }
+      ],
+      "link": "https://mlinproduction.com/experimentation-program-stakeholders/?utm_source=rss&utm_medium=rss&utm_campaign=experimentation-program-stakeholders",
+      "comments": "https://mlinproduction.com/experimentation-program-stakeholders/#comments",
+      "authors": [
+        {
+          "name": "Luigi"
+        }
+      ],
+      "author": "Luigi",
+      "author_detail": {
+        "name": "Luigi"
+      },
+      "published": "Sat, 02 Apr 2022 14:03:58 +0000",
+      "published_parsed": [
+        2022,
+        4,
+        2,
+        14,
+        3,
+        58,
+        5,
+        92,
+        0
+      ],
+      "tags": [
+        {
+          "term": "Experimentation",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "Management",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "id": "https://mlinproduction.com/?p=936",
+      "guidislink": false,
+      "summary": "<p>In my previous post, I briefly described how leading companies use experimentation to optimize their products and services and evolve them to the point of feeling elegant, efficient, and magical. These companies have developed mature experimentation programs (ExPrs), including the&#8230; <a class=\"read-more\" href=\"https://mlinproduction.com/experimentation-program-stakeholders/\">Read More </a></p>\n<p>The post <a href=\"https://mlinproduction.com/experimentation-program-stakeholders/\">What is an Experimentation program and Who is Involved? (Experimentation Program Series: Guide 02)</a> appeared first on <a href=\"https://mlinproduction.com\">ML in Production</a>.</p>",
+      "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://mlinproduction.com/feed/",
+        "value": "<p>In my previous post, I briefly described how leading companies use experimentation to optimize their products and services and evolve them to the point of feeling elegant, efficient, and magical. These companies have developed mature experimentation programs (ExPrs), including the&#8230; <a class=\"read-more\" href=\"https://mlinproduction.com/experimentation-program-stakeholders/\">Read More </a></p>\n<p>The post <a href=\"https://mlinproduction.com/experimentation-program-stakeholders/\">What is an Experimentation program and Who is Involved? (Experimentation Program Series: Guide 02)</a> appeared first on <a href=\"https://mlinproduction.com\">ML in Production</a>.</p>"
+      },
+      "content": [
+        {
+          "type": "text/html",
+          "language": null,
+          "base": "https://mlinproduction.com/feed/",
+          "value": "In my previous post, I briefly described how leading companies use experimentation to optimize their products and services and evolve them to the point of feeling elegant, efficient, and magical. These companies have developed mature experimentation programs (ExPrs), including the&hellip; <a class=\"read-more\" href=\"https://mlinproduction.com/experimentation-program-stakeholders/\">Read More </a><p>The post <a href=\"https://mlinproduction.com/experimentation-program-stakeholders/\">What is an Experimentation program and Who is Involved? (Experimentation Program Series: Guide 02)</a> appeared first on <a href=\"https://mlinproduction.com\">ML in Production</a>.</p>"
+        }
+      ],
+      "wfw_commentrss": "https://mlinproduction.com/experimentation-program-stakeholders/feed/",
+      "slash_comments": "2",
+      "post-id": "936"
+    },
+    {
+      "title": "Building An Effective Experimentation Program (Experimentation Program Series: Guide 01)",
+      "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://mlinproduction.com/feed/",
+        "value": "Building An Effective Experimentation Program (Experimentation Program Series: Guide 01)"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://mlinproduction.com/experimentation-program-introduction/?utm_source=rss&utm_medium=rss&utm_campaign=experimentation-program-introduction"
+        }
+      ],
+      "link": "https://mlinproduction.com/experimentation-program-introduction/?utm_source=rss&utm_medium=rss&utm_campaign=experimentation-program-introduction",
+      "comments": "https://mlinproduction.com/experimentation-program-introduction/#comments",
+      "authors": [
+        {
+          "name": "Luigi"
+        }
+      ],
+      "author": "Luigi",
+      "author_detail": {
+        "name": "Luigi"
+      },
+      "published": "Sun, 20 Mar 2022 14:48:21 +0000",
+      "published_parsed": [
+        2022,
+        3,
+        20,
+        14,
+        48,
+        21,
+        6,
+        79,
+        0
+      ],
+      "tags": [
+        {
+          "term": "Experimentation",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "Management",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "id": "https://mlinproduction.com/?p=926",
+      "guidislink": false,
+      "summary": "<p>Seamless. Frictionless. Elegant. Efficient.<br />\nThese are some of the words used to describe the products and services offered by the world&#8217;s largest and most successful businesses. For instance, unwrapping a package and holding the physical copy of a book whose&#8230; <a class=\"read-more\" href=\"https://mlinproduction.com/experimentation-program-introduction/\">Read More </a></p>\n<p>The post <a href=\"https://mlinproduction.com/experimentation-program-introduction/\">Building An Effective Experimentation Program (Experimentation Program Series: Guide 01)</a> appeared first on <a href=\"https://mlinproduction.com\">ML in Production</a>.</p>",
+      "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://mlinproduction.com/feed/",
+        "value": "<p>Seamless. Frictionless. Elegant. Efficient.<br />\nThese are some of the words used to describe the products and services offered by the world&#8217;s largest and most successful businesses. For instance, unwrapping a package and holding the physical copy of a book whose&#8230; <a class=\"read-more\" href=\"https://mlinproduction.com/experimentation-program-introduction/\">Read More </a></p>\n<p>The post <a href=\"https://mlinproduction.com/experimentation-program-introduction/\">Building An Effective Experimentation Program (Experimentation Program Series: Guide 01)</a> appeared first on <a href=\"https://mlinproduction.com\">ML in Production</a>.</p>"
+      },
+      "content": [
+        {
+          "type": "text/html",
+          "language": null,
+          "base": "https://mlinproduction.com/feed/",
+          "value": "Seamless. Frictionless. Elegant. Efficient.\nThese are some of the words used to describe the products and services offered by the world&#8217;s largest and most successful businesses. For instance, unwrapping a package and holding the physical copy of a book whose&hellip; <a class=\"read-more\" href=\"https://mlinproduction.com/experimentation-program-introduction/\">Read More </a><p>The post <a href=\"https://mlinproduction.com/experimentation-program-introduction/\">Building An Effective Experimentation Program (Experimentation Program Series: Guide 01)</a> appeared first on <a href=\"https://mlinproduction.com\">ML in Production</a>.</p>"
+        }
+      ],
+      "wfw_commentrss": "https://mlinproduction.com/experimentation-program-introduction/feed/",
+      "slash_comments": "2",
+      "post-id": "926"
+    },
+    {
+      "title": "Lessons Learned from Writing Online",
+      "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://mlinproduction.com/feed/",
+        "value": "Lessons Learned from Writing Online"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://mlinproduction.com/lessons-learned-from-writing-online/?utm_source=rss&utm_medium=rss&utm_campaign=lessons-learned-from-writing-online"
+        }
+      ],
+      "link": "https://mlinproduction.com/lessons-learned-from-writing-online/?utm_source=rss&utm_medium=rss&utm_campaign=lessons-learned-from-writing-online",
+      "comments": "https://mlinproduction.com/lessons-learned-from-writing-online/#comments",
+      "authors": [
+        {
+          "name": "Luigi"
+        }
+      ],
+      "author": "Luigi",
+      "author_detail": {
+        "name": "Luigi"
+      },
+      "published": "Sat, 05 Feb 2022 16:16:26 +0000",
+      "published_parsed": [
+        2022,
+        2,
+        5,
+        16,
+        16,
+        26,
+        5,
+        36,
+        0
+      ],
+      "tags": [
+        {
+          "term": "Personal",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "business",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "id": "https://mlinproduction.com/?p=901",
+      "guidislink": false,
+      "summary": "<p>It&#8217;s been one year since I published the last issue of my newsletter. At that time I decided to step back from writing in order to spend more time with my family and focus on my growing responsibilities as the&#8230; <a class=\"read-more\" href=\"https://mlinproduction.com/lessons-learned-from-writing-online/\">Read More </a></p>\n<p>The post <a href=\"https://mlinproduction.com/lessons-learned-from-writing-online/\">Lessons Learned from Writing Online</a> appeared first on <a href=\"https://mlinproduction.com\">ML in Production</a>.</p>",
+      "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://mlinproduction.com/feed/",
+        "value": "<p>It&#8217;s been one year since I published the last issue of my newsletter. At that time I decided to step back from writing in order to spend more time with my family and focus on my growing responsibilities as the&#8230; <a class=\"read-more\" href=\"https://mlinproduction.com/lessons-learned-from-writing-online/\">Read More </a></p>\n<p>The post <a href=\"https://mlinproduction.com/lessons-learned-from-writing-online/\">Lessons Learned from Writing Online</a> appeared first on <a href=\"https://mlinproduction.com\">ML in Production</a>.</p>"
+      },
+      "content": [
+        {
+          "type": "text/html",
+          "language": null,
+          "base": "https://mlinproduction.com/feed/",
+          "value": "It&#8217;s been one year since I published the last issue of my newsletter. At that time I decided to step back from writing in order to spend more time with my family and focus on my growing responsibilities as the&hellip; <a class=\"read-more\" href=\"https://mlinproduction.com/lessons-learned-from-writing-online/\">Read More </a><p>The post <a href=\"https://mlinproduction.com/lessons-learned-from-writing-online/\">Lessons Learned from Writing Online</a> appeared first on <a href=\"https://mlinproduction.com\">ML in Production</a>.</p>"
+        }
+      ],
+      "wfw_commentrss": "https://mlinproduction.com/lessons-learned-from-writing-online/feed/",
+      "slash_comments": "2",
+      "post-id": "901"
+    },
+    {
+      "title": "Newsletter #087",
+      "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://mlinproduction.com/feed/",
+        "value": "Newsletter #087"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://mlinproduction.com/newsletter-087/?utm_source=rss&utm_medium=rss&utm_campaign=newsletter-087"
+        }
+      ],
+      "link": "https://mlinproduction.com/newsletter-087/?utm_source=rss&utm_medium=rss&utm_campaign=newsletter-087",
+      "comments": "https://mlinproduction.com/newsletter-087/#comments",
+      "authors": [
+        {
+          "name": "Luigi"
+        }
+      ],
+      "author": "Luigi",
+      "author_detail": {
+        "name": "Luigi"
+      },
+      "published": "Tue, 01 Dec 2020 18:00:00 +0000",
+      "published_parsed": [
+        2020,
+        12,
+        1,
+        18,
+        0,
+        0,
+        1,
+        336,
+        0
+      ],
+      "tags": [
+        {
+          "term": "newsletter",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "id": "https://mlinproduction.com/?p=894",
+      "guidislink": false,
+      "summary": "<p>After a lot of thought, I&#8217;ve decided to stop publishing my weekly newsletter for the time being. It wasn&#8217;t an easy decision to make, but I feel that it&#8217;s the right one for me, given where I&#8217;m at in my&#8230; <a class=\"read-more\" href=\"https://mlinproduction.com/newsletter-087/\">Read More </a></p>\n<p>The post <a href=\"https://mlinproduction.com/newsletter-087/\">Newsletter #087</a> appeared first on <a href=\"https://mlinproduction.com\">ML in Production</a>.</p>",
+      "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://mlinproduction.com/feed/",
+        "value": "<p>After a lot of thought, I&#8217;ve decided to stop publishing my weekly newsletter for the time being. It wasn&#8217;t an easy decision to make, but I feel that it&#8217;s the right one for me, given where I&#8217;m at in my&#8230; <a class=\"read-more\" href=\"https://mlinproduction.com/newsletter-087/\">Read More </a></p>\n<p>The post <a href=\"https://mlinproduction.com/newsletter-087/\">Newsletter #087</a> appeared first on <a href=\"https://mlinproduction.com\">ML in Production</a>.</p>"
+      },
+      "content": [
+        {
+          "type": "text/html",
+          "language": null,
+          "base": "https://mlinproduction.com/feed/",
+          "value": "After a lot of thought, I&#8217;ve decided to stop publishing my weekly newsletter for the time being. It wasn&#8217;t an easy decision to make, but I feel that it&#8217;s the right one for me, given where I&#8217;m at in my&hellip; <a class=\"read-more\" href=\"https://mlinproduction.com/newsletter-087/\">Read More </a><p>The post <a href=\"https://mlinproduction.com/newsletter-087/\">Newsletter #087</a> appeared first on <a href=\"https://mlinproduction.com\">ML in Production</a>.</p>"
+        }
+      ],
+      "wfw_commentrss": "https://mlinproduction.com/newsletter-087/feed/",
+      "slash_comments": "2",
+      "post-id": "894"
+    },
+    {
+      "title": "Newsletter #086",
+      "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://mlinproduction.com/feed/",
+        "value": "Newsletter #086"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://mlinproduction.com/newsletter-086/?utm_source=rss&utm_medium=rss&utm_campaign=newsletter-086"
+        }
+      ],
+      "link": "https://mlinproduction.com/newsletter-086/?utm_source=rss&utm_medium=rss&utm_campaign=newsletter-086",
+      "comments": "https://mlinproduction.com/newsletter-086/#respond",
+      "authors": [
+        {
+          "name": "Luigi"
+        }
+      ],
+      "author": "Luigi",
+      "author_detail": {
+        "name": "Luigi"
+      },
+      "published": "Mon, 23 Nov 2020 18:00:00 +0000",
+      "published_parsed": [
+        2020,
+        11,
+        23,
+        18,
+        0,
+        0,
+        0,
+        328,
+        0
+      ],
+      "tags": [
+        {
+          "term": "newsletter",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "id": "https://mlinproduction.com/?p=891",
+      "guidislink": false,
+      "summary": "<p>A common belief is that individual contributors (IC) in technical roles who transition into management have to sacrifice the amount of technical work they perform. To some extent, I think this is true, at least in the sense of the&#8230; <a class=\"read-more\" href=\"https://mlinproduction.com/newsletter-086/\">Read More </a></p>\n<p>The post <a href=\"https://mlinproduction.com/newsletter-086/\">Newsletter #086</a> appeared first on <a href=\"https://mlinproduction.com\">ML in Production</a>.</p>",
+      "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://mlinproduction.com/feed/",
+        "value": "<p>A common belief is that individual contributors (IC) in technical roles who transition into management have to sacrifice the amount of technical work they perform. To some extent, I think this is true, at least in the sense of the&#8230; <a class=\"read-more\" href=\"https://mlinproduction.com/newsletter-086/\">Read More </a></p>\n<p>The post <a href=\"https://mlinproduction.com/newsletter-086/\">Newsletter #086</a> appeared first on <a href=\"https://mlinproduction.com\">ML in Production</a>.</p>"
+      },
+      "content": [
+        {
+          "type": "text/html",
+          "language": null,
+          "base": "https://mlinproduction.com/feed/",
+          "value": "A common belief is that individual contributors (IC) in technical roles who transition into management have to sacrifice the amount of technical work they perform. To some extent, I think this is true, at least in the sense of the&hellip; <a class=\"read-more\" href=\"https://mlinproduction.com/newsletter-086/\">Read More </a><p>The post <a href=\"https://mlinproduction.com/newsletter-086/\">Newsletter #086</a> appeared first on <a href=\"https://mlinproduction.com\">ML in Production</a>.</p>"
+        }
+      ],
+      "wfw_commentrss": "https://mlinproduction.com/newsletter-086/feed/",
+      "slash_comments": "0",
+      "post-id": "891"
+    },
+    {
+      "title": "Newsletter #085",
+      "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://mlinproduction.com/feed/",
+        "value": "Newsletter #085"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://mlinproduction.com/newsletter-085/?utm_source=rss&utm_medium=rss&utm_campaign=newsletter-085"
+        }
+      ],
+      "link": "https://mlinproduction.com/newsletter-085/?utm_source=rss&utm_medium=rss&utm_campaign=newsletter-085",
+      "comments": "https://mlinproduction.com/newsletter-085/#respond",
+      "authors": [
+        {
+          "name": "Luigi"
+        }
+      ],
+      "author": "Luigi",
+      "author_detail": {
+        "name": "Luigi"
+      },
+      "published": "Tue, 17 Nov 2020 18:00:00 +0000",
+      "published_parsed": [
+        2020,
+        11,
+        17,
+        18,
+        0,
+        0,
+        1,
+        322,
+        0
+      ],
+      "tags": [
+        {
+          "term": "newsletter",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "id": "https://mlinproduction.com/?p=888",
+      "guidislink": false,
+      "summary": "<p>This week a data scientist on my team discovered a pretty bad bug in one of our production applications. While it&#8217;s important to diagnose and fix every bug, what made this bug special was how it was diagnosed. The data&#8230; <a class=\"read-more\" href=\"https://mlinproduction.com/newsletter-085/\">Read More </a></p>\n<p>The post <a href=\"https://mlinproduction.com/newsletter-085/\">Newsletter #085</a> appeared first on <a href=\"https://mlinproduction.com\">ML in Production</a>.</p>",
+      "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://mlinproduction.com/feed/",
+        "value": "<p>This week a data scientist on my team discovered a pretty bad bug in one of our production applications. While it&#8217;s important to diagnose and fix every bug, what made this bug special was how it was diagnosed. The data&#8230; <a class=\"read-more\" href=\"https://mlinproduction.com/newsletter-085/\">Read More </a></p>\n<p>The post <a href=\"https://mlinproduction.com/newsletter-085/\">Newsletter #085</a> appeared first on <a href=\"https://mlinproduction.com\">ML in Production</a>.</p>"
+      },
+      "content": [
+        {
+          "type": "text/html",
+          "language": null,
+          "base": "https://mlinproduction.com/feed/",
+          "value": "This week a data scientist on my team discovered a pretty bad bug in one of our production applications. While it&#8217;s important to diagnose and fix every bug, what made this bug special was how it was diagnosed. The data&hellip; <a class=\"read-more\" href=\"https://mlinproduction.com/newsletter-085/\">Read More </a><p>The post <a href=\"https://mlinproduction.com/newsletter-085/\">Newsletter #085</a> appeared first on <a href=\"https://mlinproduction.com\">ML in Production</a>.</p>"
+        }
+      ],
+      "wfw_commentrss": "https://mlinproduction.com/newsletter-085/feed/",
+      "slash_comments": "0",
+      "post-id": "888"
+    },
+    {
+      "title": "Newsletter #084",
+      "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://mlinproduction.com/feed/",
+        "value": "Newsletter #084"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://mlinproduction.com/newsletter-084/?utm_source=rss&utm_medium=rss&utm_campaign=newsletter-084"
+        }
+      ],
+      "link": "https://mlinproduction.com/newsletter-084/?utm_source=rss&utm_medium=rss&utm_campaign=newsletter-084",
+      "comments": "https://mlinproduction.com/newsletter-084/#respond",
+      "authors": [
+        {
+          "name": "Luigi"
+        }
+      ],
+      "author": "Luigi",
+      "author_detail": {
+        "name": "Luigi"
+      },
+      "published": "Tue, 10 Nov 2020 18:00:00 +0000",
+      "published_parsed": [
+        2020,
+        11,
+        10,
+        18,
+        0,
+        0,
+        1,
+        315,
+        0
+      ],
+      "tags": [
+        {
+          "term": "newsletter",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "id": "https://mlinproduction.com/?p=885",
+      "guidislink": false,
+      "summary": "<p>Last week I wrote that companies fall into one of two groups when it comes to machine learning and data science. The first class contains companies where ML/DS is a core competency. Without their machine learning models, datasets, and expertise,&#8230; <a class=\"read-more\" href=\"https://mlinproduction.com/newsletter-084/\">Read More </a></p>\n<p>The post <a href=\"https://mlinproduction.com/newsletter-084/\">Newsletter #084</a> appeared first on <a href=\"https://mlinproduction.com\">ML in Production</a>.</p>",
+      "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://mlinproduction.com/feed/",
+        "value": "<p>Last week I wrote that companies fall into one of two groups when it comes to machine learning and data science. The first class contains companies where ML/DS is a core competency. Without their machine learning models, datasets, and expertise,&#8230; <a class=\"read-more\" href=\"https://mlinproduction.com/newsletter-084/\">Read More </a></p>\n<p>The post <a href=\"https://mlinproduction.com/newsletter-084/\">Newsletter #084</a> appeared first on <a href=\"https://mlinproduction.com\">ML in Production</a>.</p>"
+      },
+      "content": [
+        {
+          "type": "text/html",
+          "language": null,
+          "base": "https://mlinproduction.com/feed/",
+          "value": "Last week I wrote that companies fall into one of two groups when it comes to machine learning and data science. The first class contains companies where ML/DS is a core competency. Without their machine learning models, datasets, and expertise,&hellip; <a class=\"read-more\" href=\"https://mlinproduction.com/newsletter-084/\">Read More </a><p>The post <a href=\"https://mlinproduction.com/newsletter-084/\">Newsletter #084</a> appeared first on <a href=\"https://mlinproduction.com\">ML in Production</a>.</p>"
+        }
+      ],
+      "wfw_commentrss": "https://mlinproduction.com/newsletter-084/feed/",
+      "slash_comments": "0",
+      "post-id": "885"
+    },
+    {
+      "title": "Newsletter #083",
+      "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://mlinproduction.com/feed/",
+        "value": "Newsletter #083"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://mlinproduction.com/newsletter-083/?utm_source=rss&utm_medium=rss&utm_campaign=newsletter-083"
+        }
+      ],
+      "link": "https://mlinproduction.com/newsletter-083/?utm_source=rss&utm_medium=rss&utm_campaign=newsletter-083",
+      "comments": "https://mlinproduction.com/newsletter-083/#comments",
+      "authors": [
+        {
+          "name": "Luigi"
+        }
+      ],
+      "author": "Luigi",
+      "author_detail": {
+        "name": "Luigi"
+      },
+      "published": "Tue, 03 Nov 2020 18:00:27 +0000",
+      "published_parsed": [
+        2020,
+        11,
+        3,
+        18,
+        0,
+        27,
+        1,
+        308,
+        0
+      ],
+      "tags": [
+        {
+          "term": "newsletter",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "id": "https://mlinproduction.com/?p=879",
+      "guidislink": false,
+      "summary": "<p>The data scientist role is one of the most sought after jobs in technology today. However, it&#8217;s also one of the most misunderstood. And this contributes to a lot of the dissatisfaction that many data scientists experience in industry.<br />\nI&#8230; <a class=\"read-more\" href=\"https://mlinproduction.com/newsletter-083/\">Read More </a></p>\n<p>The post <a href=\"https://mlinproduction.com/newsletter-083/\">Newsletter #083</a> appeared first on <a href=\"https://mlinproduction.com\">ML in Production</a>.</p>",
+      "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://mlinproduction.com/feed/",
+        "value": "<p>The data scientist role is one of the most sought after jobs in technology today. However, it&#8217;s also one of the most misunderstood. And this contributes to a lot of the dissatisfaction that many data scientists experience in industry.<br />\nI&#8230; <a class=\"read-more\" href=\"https://mlinproduction.com/newsletter-083/\">Read More </a></p>\n<p>The post <a href=\"https://mlinproduction.com/newsletter-083/\">Newsletter #083</a> appeared first on <a href=\"https://mlinproduction.com\">ML in Production</a>.</p>"
+      },
+      "content": [
+        {
+          "type": "text/html",
+          "language": null,
+          "base": "https://mlinproduction.com/feed/",
+          "value": "The data scientist role is one of the most sought after jobs in technology today. However, it&#8217;s also one of the most misunderstood. And this contributes to a lot of the dissatisfaction that many data scientists experience in industry.\nI&hellip; <a class=\"read-more\" href=\"https://mlinproduction.com/newsletter-083/\">Read More </a><p>The post <a href=\"https://mlinproduction.com/newsletter-083/\">Newsletter #083</a> appeared first on <a href=\"https://mlinproduction.com\">ML in Production</a>.</p>"
+        }
+      ],
+      "wfw_commentrss": "https://mlinproduction.com/newsletter-083/feed/",
+      "slash_comments": "3",
+      "post-id": "879"
+    },
+    {
+      "title": "Newsletter #082",
+      "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://mlinproduction.com/feed/",
+        "value": "Newsletter #082"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://mlinproduction.com/newsletter-082/?utm_source=rss&utm_medium=rss&utm_campaign=newsletter-082"
+        }
+      ],
+      "link": "https://mlinproduction.com/newsletter-082/?utm_source=rss&utm_medium=rss&utm_campaign=newsletter-082",
+      "comments": "https://mlinproduction.com/newsletter-082/#respond",
+      "authors": [
+        {
+          "name": "Luigi"
+        }
+      ],
+      "author": "Luigi",
+      "author_detail": {
+        "name": "Luigi"
+      },
+      "published": "Tue, 27 Oct 2020 11:00:00 +0000",
+      "published_parsed": [
+        2020,
+        10,
+        27,
+        11,
+        0,
+        0,
+        1,
+        301,
+        0
+      ],
+      "tags": [
+        {
+          "term": "newsletter",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "id": "https://mlinproduction.com/?p=875",
+      "guidislink": false,
+      "summary": "<p>After a several week hiatus, the newsletter is back! I&#8217;ve been pretty busy moving across the country (super happy to be a San Diego resident 😀 ) and tending to my now 6 month old firstborn (I can&#8217;t believe it&#8217;s&#8230; <a class=\"read-more\" href=\"https://mlinproduction.com/newsletter-082/\">Read More </a></p>\n<p>The post <a href=\"https://mlinproduction.com/newsletter-082/\">Newsletter #082</a> appeared first on <a href=\"https://mlinproduction.com\">ML in Production</a>.</p>",
+      "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://mlinproduction.com/feed/",
+        "value": "<p>After a several week hiatus, the newsletter is back! I&#8217;ve been pretty busy moving across the country (super happy to be a San Diego resident 😀 ) and tending to my now 6 month old firstborn (I can&#8217;t believe it&#8217;s&#8230; <a class=\"read-more\" href=\"https://mlinproduction.com/newsletter-082/\">Read More </a></p>\n<p>The post <a href=\"https://mlinproduction.com/newsletter-082/\">Newsletter #082</a> appeared first on <a href=\"https://mlinproduction.com\">ML in Production</a>.</p>"
+      },
+      "content": [
+        {
+          "type": "text/html",
+          "language": null,
+          "base": "https://mlinproduction.com/feed/",
+          "value": "After a several week hiatus, the newsletter is back! I&#8217;ve been pretty busy moving across the country (super happy to be a San Diego resident <img alt=\"😀\" class=\"wp-smiley\" src=\"https://s.w.org/images/core/emoji/16.0.1/72x72/1f600.png\" style=\"height: 1em;\" /> ) and tending to my now 6 month old firstborn (I can&#8217;t believe it&#8217;s&hellip; <a class=\"read-more\" href=\"https://mlinproduction.com/newsletter-082/\">Read More </a><p>The post <a href=\"https://mlinproduction.com/newsletter-082/\">Newsletter #082</a> appeared first on <a href=\"https://mlinproduction.com\">ML in Production</a>.</p>"
+        }
+      ],
+      "wfw_commentrss": "https://mlinproduction.com/newsletter-082/feed/",
+      "slash_comments": "0",
+      "post-id": "875"
+    }
+  ]
+}

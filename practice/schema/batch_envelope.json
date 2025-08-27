@@ -1,0 +1,27 @@
+{
+  "_id": "ulid",
+  "run": {
+    "run_id": "ulid",
+    "exec_ts": "2025-08-27T06:10:00Z"
+  },
+  "partition": { "y": 2025, "m": 8, "d": 27 },
+  "items": [
+    {
+      "source": {
+        "feed_id": "hash(feed_url)",
+        "feed_url": "https://example.com/rss",
+        "feed_name": "Example Blog",
+        "group": "frontier_lab"
+      },
+      "rss": { /* RSS_UNIFIED_SCHEMA */ }
+    },
+    {
+      "source": { "feed_id": "...", "feed_url": "...", "feed_name": "..."},
+      "rss": { /* RSS_UNIFIED_SCHEMA */ }
+    }
+  ],
+  "audit": {
+    "created_at": "2025-08-27T06:10:08Z",
+    "updated_at": "2025-08-27T06:10:08Z"
+  }
+}

@@ -1,0 +1,1998 @@
+{
+  "feed": {
+    "tags": [
+      {
+        "term": "MachineLearning",
+        "scheme": null,
+        "label": "r/MachineLearning"
+      }
+    ],
+    "updated": "2025-08-27T06:25:08+00:00",
+    "updated_parsed": [
+      2025,
+      8,
+      27,
+      6,
+      25,
+      8,
+      2,
+      239,
+      0
+    ],
+    "icon": "https://www.redditstatic.com/icon.png/",
+    "id": "https://www.reddit.com/r/MachineLearning/.rss",
+    "guidislink": true,
+    "link": "https://www.reddit.com/r/MachineLearning/",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://www.reddit.com/r/MachineLearning/.rss",
+        "type": "application/atom+xml"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://www.reddit.com/r/MachineLearning/",
+        "type": "text/html"
+      }
+    ],
+    "logo": "https://b.thumbs.redditmedia.com/18a2I44a4l7fNrTWHDoJuWVy79_ptU7Y-a2sqWt4YKQ.png",
+    "subtitle": "Beginners -> /r/mlquestions or /r/learnmachinelearning , AGI -> /r/singularity, career advices -> /r/cscareerquestions, datasets -> r/datasets",
+    "subtitle_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.reddit.com/r/MachineLearning/.rss",
+      "value": "Beginners -> /r/mlquestions or /r/learnmachinelearning , AGI -> /r/singularity, career advices -> /r/cscareerquestions, datasets -> r/datasets"
+    },
+    "title": "Machine Learning",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.reddit.com/r/MachineLearning/.rss",
+      "value": "Machine Learning"
+    }
+  },
+  "entries": [
+    {
+      "authors": [
+        {
+          "name": "/u/AutoModerator",
+          "href": "https://www.reddit.com/user/AutoModerator"
+        }
+      ],
+      "author_detail": {
+        "name": "/u/AutoModerator",
+        "href": "https://www.reddit.com/user/AutoModerator"
+      },
+      "href": "https://www.reddit.com/user/AutoModerator",
+      "author": "/u/AutoModerator",
+      "tags": [
+        {
+          "term": "MachineLearning",
+          "scheme": null,
+          "label": "r/MachineLearning"
+        }
+      ],
+      "content": [
+        {
+          "type": "text/html",
+          "language": null,
+          "base": "https://www.reddit.com/r/MachineLearning/.rss",
+          "value": "<!-- SC_OFF --><div class=\"md\"><p>Please post your questions here instead of creating a new thread. Encourage others who create new posts for questions to post here instead!</p> <p>Thread will stay alive until next one so keep posting after the date in the title.</p> <p>Thanks to everyone for answering questions in the previous thread!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AutoModerator\"> /u/AutoModerator </a> <br /> <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1meysr1/d_simple_questions_thread/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1meysr1/d_simple_questions_thread/\">[comments]</a></span>"
+        }
+      ],
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Please post your questions here instead of creating a new thread. Encourage others who create new posts for questions to post here instead!</p> <p>Thread will stay alive until next one so keep posting after the date in the title.</p> <p>Thanks to everyone for answering questions in the previous thread!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AutoModerator\"> /u/AutoModerator </a> <br /> <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1meysr1/d_simple_questions_thread/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1meysr1/d_simple_questions_thread/\">[comments]</a></span>",
+      "id": "https://www.reddit.com/r/MachineLearning/t3_1meysr1",
+      "guidislink": true,
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1meysr1/d_simple_questions_thread/",
+      "links": [
+        {
+          "href": "https://www.reddit.com/r/MachineLearning/comments/1meysr1/d_simple_questions_thread/",
+          "rel": "alternate",
+          "type": "text/html"
+        }
+      ],
+      "updated": "2025-08-01T15:01:19+00:00",
+      "updated_parsed": [
+        2025,
+        8,
+        1,
+        15,
+        1,
+        19,
+        4,
+        213,
+        0
+      ],
+      "published": "2025-08-01T15:01:19+00:00",
+      "published_parsed": [
+        2025,
+        8,
+        1,
+        15,
+        1,
+        19,
+        4,
+        213,
+        0
+      ],
+      "title": "[D] Simple Questions Thread",
+      "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.reddit.com/r/MachineLearning/.rss",
+        "value": "[D] Simple Questions Thread"
+      }
+    },
+    {
+      "authors": [
+        {
+          "name": "/u/AutoModerator",
+          "href": "https://www.reddit.com/user/AutoModerator"
+        }
+      ],
+      "author_detail": {
+        "name": "/u/AutoModerator",
+        "href": "https://www.reddit.com/user/AutoModerator"
+      },
+      "href": "https://www.reddit.com/user/AutoModerator",
+      "author": "/u/AutoModerator",
+      "tags": [
+        {
+          "term": "MachineLearning",
+          "scheme": null,
+          "label": "r/MachineLearning"
+        }
+      ],
+      "content": [
+        {
+          "type": "text/html",
+          "language": null,
+          "base": "https://www.reddit.com/r/MachineLearning/.rss",
+          "value": "<!-- SC_OFF --><div class=\"md\"><p>Please post your personal projects, startups, product placements, collaboration needs, blogs etc.</p> <p>Please mention the payment and pricing requirements for products and services.</p> <p>Please do not post link shorteners, link aggregator websites , or auto-subscribe links.</p> <p>--</p> <p>Any abuse of trust will lead to bans.</p> <p>Encourage others who create new posts for questions to post here instead!</p> <p>Thread will stay alive until next one so keep posting after the date in the title.</p> <p>--</p> <p>Meta: This is an experiment. If the community doesnt like this, we will cancel it. This is to encourage those in the community to promote their work by not spamming the main threads.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AutoModerator\"> /u/AutoModerator </a> <br /> <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1mfezri/d_selfpromotion_thread/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1mfezri/d_selfpromotion_thread/\">[comments]</a></span>"
+        }
+      ],
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Please post your personal projects, startups, product placements, collaboration needs, blogs etc.</p> <p>Please mention the payment and pricing requirements for products and services.</p> <p>Please do not post link shorteners, link aggregator websites , or auto-subscribe links.</p> <p>--</p> <p>Any abuse of trust will lead to bans.</p> <p>Encourage others who create new posts for questions to post here instead!</p> <p>Thread will stay alive until next one so keep posting after the date in the title.</p> <p>--</p> <p>Meta: This is an experiment. If the community doesnt like this, we will cancel it. This is to encourage those in the community to promote their work by not spamming the main threads.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AutoModerator\"> /u/AutoModerator </a> <br /> <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1mfezri/d_selfpromotion_thread/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1mfezri/d_selfpromotion_thread/\">[comments]</a></span>",
+      "id": "https://www.reddit.com/r/MachineLearning/t3_1mfezri",
+      "guidislink": true,
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1mfezri/d_selfpromotion_thread/",
+      "links": [
+        {
+          "href": "https://www.reddit.com/r/MachineLearning/comments/1mfezri/d_selfpromotion_thread/",
+          "rel": "alternate",
+          "type": "text/html"
+        }
+      ],
+      "updated": "2025-08-02T02:15:29+00:00",
+      "updated_parsed": [
+        2025,
+        8,
+        2,
+        2,
+        15,
+        29,
+        5,
+        214,
+        0
+      ],
+      "published": "2025-08-02T02:15:29+00:00",
+      "published_parsed": [
+        2025,
+        8,
+        2,
+        2,
+        15,
+        29,
+        5,
+        214,
+        0
+      ],
+      "title": "[D] Self-Promotion Thread",
+      "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.reddit.com/r/MachineLearning/.rss",
+        "value": "[D] Self-Promotion Thread"
+      }
+    },
+    {
+      "authors": [
+        {
+          "name": "/u/FutureIncrease",
+          "href": "https://www.reddit.com/user/FutureIncrease"
+        }
+      ],
+      "author_detail": {
+        "name": "/u/FutureIncrease",
+        "href": "https://www.reddit.com/user/FutureIncrease"
+      },
+      "href": "",
+      "author": "/u/FutureIncrease",
+      "tags": [
+        {
+          "term": "MachineLearning",
+          "scheme": null,
+          "label": "r/MachineLearning"
+        }
+      ],
+      "content": [
+        {
+          "type": "text/html",
+          "language": null,
+          "base": "https://www.reddit.com/r/MachineLearning/.rss",
+          "value": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1n0r8b7/i_built_a_tool_to_benchmark_tokenizers_across_100/\"> <img alt=\"I built a tool to benchmark tokenizers across 100+ languages and found some wild disparities [R]\" src=\"https://external-preview.redd.it/1OMsmM_qW0gdqLBiU4gcSzW8JynPfaD5QQ_XaTqdAn4.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=7799d71e73cd382b332b860aa9c8b27e11f7d733\" title=\"I built a tool to benchmark tokenizers across 100+ languages and found some wild disparities [R]\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><strong>TL;DR:</strong> Created <a href=\"https://tokka-bench.streamlit.app/\">tokka-bench</a> to compare tokenizers across languages. Turns out your fine-tune's multilingual performance might suck because of tokenization, not architecture. Also explains why proprietary models (Claude, GPT, Gemini) are so much better at non-English tasks.</p> <p><strong>Links:</strong></p> <ul> <li><a href=\"https://tokka-bench.streamlit.app/\">Live dashboard</a></li> <li><a href=\"https://www.bengubler.com/posts/2025-08-25-tokka-bench-evaluate-tokenizers-multilingual\">Full blog post</a></li> <li><a href=\"https://github.com/bgub/tokka-bench\">GitHub repo</a></li> </ul> <p><a href=\"https://preview.redd.it/7i03jela9elf1.png?width=1724&amp;format=png&amp;auto=webp&amp;s=95378457970e6337b147e71d7a8f0ab2dd67cb91\">https://preview.redd.it/7i03jela9elf1.png?width=1724&amp;format=png&amp;auto=webp&amp;s=95378457970e6337b147e71d7a8f0ab2dd67cb91</a></p> <h1>The Problem Nobody Talks About</h1> <p>I started this as a side quest while pretraining a multilingual model, but tokenization turned out to be way more important than expected. There are two hidden layers creating massive efficiency gaps:</p> <p><strong>UTF-8 encoding differences:</strong></p> <ul> <li>English: ~1 byte per character</li> <li>Arabic: 2+ bytes per character</li> <li>Chinese: 3+ bytes per character</li> </ul> <p><strong>Tokenization bias:</strong> Most tokenizers are trained on English-heavy data, so they allocate way more vocabulary to English patterns. These compound into serious problems.</p> <h1>Why This Affects Performance</h1> <p><strong>During training:</strong> If you allocate tokens proportionally (10M English, 1M Khmer), the Khmer text has WAY less semantic content because it needs more tokens per word. Plus Khmer tokens end up being character-level instead of semantic units, making concept storage much harder.</p> <p><strong>During inference:</strong> Low-resource languages need 2-3x more tokens per sentence:</p> <ul> <li>Slower throughput (costs more to serve)</li> <li>Context windows fill up faster</li> <li>More chances to mess up during generation</li> </ul> <h1>What I Built</h1> <p>tokka-bench measures four key things:</p> <ol> <li><strong>Efficiency</strong> - bytes per token (compression quality)</li> <li><strong>Coverage</strong> - unique tokens used (script representation)</li> <li><strong>Word splitting</strong> - how often semantic units get fragmented</li> <li><strong>Subword fertility</strong> - average tokens per semantic unit</li> </ol> <h1>Interesting Findings</h1> <p>You can actually reverse-engineer training data from tokenizer performance:</p> <ul> <li>Kimi K2: Exceptional Mandarin coverage (obviously Chinese-trained)</li> <li>Gemma 3: Strong Urdu/Hindi performance</li> <li>gpt-oss: Good Arabic/Gujarati coverage</li> </ul> <p>Weirdest finding: Programming languages show almost identical efficiency across all tokenizers. Probably because everyone trains on GitHub with similar language distributions.</p> <h1>Technical Details</h1> <p>Built on high-quality datasets (FineWeb, FineWeb-2, StarCoder). Samples 2MB per language and calculates per-language metrics. Has some limitations around cross-linguistic comparison due to UTF-8 differences, but great for comparing tokenizers on the same language.</p> <p>Shoutout to Judit Ács for the original subword fertility metrics and Rust et al's ACL paper that laid the groundwork.</p> <p><strong>PS:</strong> if you're from an AI lab and want to contribute your tokenizer's metrics (even if proprietary), please reach out! The community would benefit a lot from understanding how SOTA systems handle this stuff.</p> <p><em>Posted this on LinkedIn/Twitter already but figured</em> <a href=\"https://www.reddit.com/r/MachineLearning\">r/MachineLearning</a> <em>would appreciate the technical details. Happy to answer questions about methodology or findings!</em></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/FutureIncrease\"> /u/FutureIncrease </a> <br /> <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1n0r8b7/i_built_a_tool_to_benchmark_tokenizers_across_100/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1n0r8b7/i_built_a_tool_to_benchmark_tokenizers_across_100/\">[comments]</a></span> </td></tr></table>"
+        }
+      ],
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1n0r8b7/i_built_a_tool_to_benchmark_tokenizers_across_100/\"> <img alt=\"I built a tool to benchmark tokenizers across 100+ languages and found some wild disparities [R]\" src=\"https://external-preview.redd.it/1OMsmM_qW0gdqLBiU4gcSzW8JynPfaD5QQ_XaTqdAn4.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=7799d71e73cd382b332b860aa9c8b27e11f7d733\" title=\"I built a tool to benchmark tokenizers across 100+ languages and found some wild disparities [R]\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><strong>TL;DR:</strong> Created <a href=\"https://tokka-bench.streamlit.app/\">tokka-bench</a> to compare tokenizers across languages. Turns out your fine-tune's multilingual performance might suck because of tokenization, not architecture. Also explains why proprietary models (Claude, GPT, Gemini) are so much better at non-English tasks.</p> <p><strong>Links:</strong></p> <ul> <li><a href=\"https://tokka-bench.streamlit.app/\">Live dashboard</a></li> <li><a href=\"https://www.bengubler.com/posts/2025-08-25-tokka-bench-evaluate-tokenizers-multilingual\">Full blog post</a></li> <li><a href=\"https://github.com/bgub/tokka-bench\">GitHub repo</a></li> </ul> <p><a href=\"https://preview.redd.it/7i03jela9elf1.png?width=1724&amp;format=png&amp;auto=webp&amp;s=95378457970e6337b147e71d7a8f0ab2dd67cb91\">https://preview.redd.it/7i03jela9elf1.png?width=1724&amp;format=png&amp;auto=webp&amp;s=95378457970e6337b147e71d7a8f0ab2dd67cb91</a></p> <h1>The Problem Nobody Talks About</h1> <p>I started this as a side quest while pretraining a multilingual model, but tokenization turned out to be way more important than expected. There are two hidden layers creating massive efficiency gaps:</p> <p><strong>UTF-8 encoding differences:</strong></p> <ul> <li>English: ~1 byte per character</li> <li>Arabic: 2+ bytes per character</li> <li>Chinese: 3+ bytes per character</li> </ul> <p><strong>Tokenization bias:</strong> Most tokenizers are trained on English-heavy data, so they allocate way more vocabulary to English patterns. These compound into serious problems.</p> <h1>Why This Affects Performance</h1> <p><strong>During training:</strong> If you allocate tokens proportionally (10M English, 1M Khmer), the Khmer text has WAY less semantic content because it needs more tokens per word. Plus Khmer tokens end up being character-level instead of semantic units, making concept storage much harder.</p> <p><strong>During inference:</strong> Low-resource languages need 2-3x more tokens per sentence:</p> <ul> <li>Slower throughput (costs more to serve)</li> <li>Context windows fill up faster</li> <li>More chances to mess up during generation</li> </ul> <h1>What I Built</h1> <p>tokka-bench measures four key things:</p> <ol> <li><strong>Efficiency</strong> - bytes per token (compression quality)</li> <li><strong>Coverage</strong> - unique tokens used (script representation)</li> <li><strong>Word splitting</strong> - how often semantic units get fragmented</li> <li><strong>Subword fertility</strong> - average tokens per semantic unit</li> </ol> <h1>Interesting Findings</h1> <p>You can actually reverse-engineer training data from tokenizer performance:</p> <ul> <li>Kimi K2: Exceptional Mandarin coverage (obviously Chinese-trained)</li> <li>Gemma 3: Strong Urdu/Hindi performance</li> <li>gpt-oss: Good Arabic/Gujarati coverage</li> </ul> <p>Weirdest finding: Programming languages show almost identical efficiency across all tokenizers. Probably because everyone trains on GitHub with similar language distributions.</p> <h1>Technical Details</h1> <p>Built on high-quality datasets (FineWeb, FineWeb-2, StarCoder). Samples 2MB per language and calculates per-language metrics. Has some limitations around cross-linguistic comparison due to UTF-8 differences, but great for comparing tokenizers on the same language.</p> <p>Shoutout to Judit Ács for the original subword fertility metrics and Rust et al's ACL paper that laid the groundwork.</p> <p><strong>PS:</strong> if you're from an AI lab and want to contribute your tokenizer's metrics (even if proprietary), please reach out! The community would benefit a lot from understanding how SOTA systems handle this stuff.</p> <p><em>Posted this on LinkedIn/Twitter already but figured</em> <a href=\"https://www.reddit.com/r/MachineLearning\">r/MachineLearning</a> <em>would appreciate the technical details. Happy to answer questions about methodology or findings!</em></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/FutureIncrease\"> /u/FutureIncrease </a> <br /> <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1n0r8b7/i_built_a_tool_to_benchmark_tokenizers_across_100/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1n0r8b7/i_built_a_tool_to_benchmark_tokenizers_across_100/\">[comments]</a></span> </td></tr></table>",
+      "id": "https://www.reddit.com/r/MachineLearning/t3_1n0r8b7",
+      "guidislink": true,
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1n0r8b7/i_built_a_tool_to_benchmark_tokenizers_across_100/",
+      "media_thumbnail": [
+        {
+          "url": "https://external-preview.redd.it/1OMsmM_qW0gdqLBiU4gcSzW8JynPfaD5QQ_XaTqdAn4.png?width=640&crop=smart&auto=webp&s=7799d71e73cd382b332b860aa9c8b27e11f7d733"
+        }
+      ],
+      "links": [
+        {
+          "href": "https://www.reddit.com/r/MachineLearning/comments/1n0r8b7/i_built_a_tool_to_benchmark_tokenizers_across_100/",
+          "rel": "alternate",
+          "type": "text/html"
+        }
+      ],
+      "updated": "2025-08-26T16:54:16+00:00",
+      "updated_parsed": [
+        2025,
+        8,
+        26,
+        16,
+        54,
+        16,
+        1,
+        238,
+        0
+      ],
+      "published": "2025-08-26T16:54:16+00:00",
+      "published_parsed": [
+        2025,
+        8,
+        26,
+        16,
+        54,
+        16,
+        1,
+        238,
+        0
+      ],
+      "title": "I built a tool to benchmark tokenizers across 100+ languages and found some wild disparities [R]",
+      "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.reddit.com/r/MachineLearning/.rss",
+        "value": "I built a tool to benchmark tokenizers across 100+ languages and found some wild disparities [R]"
+      }
+    },
+    {
+      "authors": [
+        {
+          "name": "/u/JustinAngel",
+          "href": "https://www.reddit.com/user/JustinAngel"
+        }
+      ],
+      "author_detail": {
+        "name": "/u/JustinAngel",
+        "href": "https://www.reddit.com/user/JustinAngel"
+      },
+      "href": "",
+      "author": "/u/JustinAngel",
+      "tags": [
+        {
+          "term": "MachineLearning",
+          "scheme": null,
+          "label": "r/MachineLearning"
+        }
+      ],
+      "content": [
+        {
+          "type": "text/html",
+          "language": null,
+          "base": "https://www.reddit.com/r/MachineLearning/.rss",
+          "value": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1n0vcrb/r_δapt_critical_review_aimed_at_maximizing/\"> <img alt=\"[R] ΔAPT: critical review aimed at maximizing clinical outcomes in AI/LLM Psychotherapy\" src=\"https://b.thumbs.redditmedia.com/fvSRVPVa2aKk26DvEoHft0hErge3cPJhtvS9xqYuPiU.jpg\" title=\"[R] ΔAPT: critical review aimed at maximizing clinical outcomes in AI/LLM Psychotherapy\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Hi reddit, wanted to share my thesis on AI / LLM psychotherapy @ <a href=\"https://osf.io/preprints/psyarxiv/4tmde_v1?fbclid=IwZXh0bgNhZW0CMTAAYnJpZBExNHhlVkhlWWpDVE1xN3dTeAEeoTtZ3pOVtRD7ODEFZo_qpyjjOEkW_2OFHqsH36X4xp7THoZC3F7YFDc1zJU_aem_Etq7yhCr4L3eA8v9QqrFgw\">https://osf.io/preprints/psyarxiv/4tmde_v1</a></p> <p>Since the rules for this subreddit require more than just a link, I thought I'd share some surprising conclusions in plain english. </p> <p><strong>1. AI therapy research tends to use arbitrary success metrics:</strong> the majority of LLM research on psychotherapy uses theraputic-sounding ad-hoc metrics (e.g. &quot;empathy&quot; as rated by LLM-as-judge), and not actually improvement in clients or other validated metrics. There's a real risk in AI researchers testing techniques and drawing conclusions when totally unrelated to the purpose of therapy (e.g. quality-of-life improvement). If you're interested in learning more about this issue, section 1.4 focuses on it, and offers the north-star alternatives commonly used in psychotherapy research in sections 1.1-1.3. </p> <p><strong>2. AI therapy tools (APTs) are already comparable to human therapists:</strong> There's two studies from 2025 (Limbic, Therabot) that demonstrate non-inferior clinical outcomes in LLM-driven APTs and human therapists for depression &amp; anxiety symptom reduction. If replicated, that's huge. That's a step-level jump in clinical from the previous generation of rules-based APTs (e.g. Woebot, Wysa), highlighting that maybe the generative properties of LLMs were the key gap to improve clinical performance. There's a lot more to say on these results, and if you're interested sections 2 &amp; 3.1 talk more about them and put them into clinical context. </p> <ol> <li><strong>ΔAPT allows predicting future clinical outcomes :</strong> It's actually surprising that APTs perform at the lower-bounds of human therapists, since they kinda suck right now. The predictive model I proposed is that APTs clinical performance is boosted by advantages therapist can't compete with (e.g. 24/7 availability, low cost), while being depressed by current disadvantages (e.g. poor therapy skills, hallucinations, sycophancy, inconsistencies, bias). All of this playing out while major issues around legality, safety, privacy and ethics are unresolved and could shutdown the field. If you're intersted, you can read more about the model (section 3.3), the advantages of APTs over human therapists (section 3.4), APTs' current limitations (section 3.5), and the key risks (section 3.6). </li> </ol> <p><a href=\"https://preview.redd.it/rof96tmbuelf1.png?width=1162&amp;format=png&amp;auto=webp&amp;s=5a1e81bbb9e8b12b09210967da97b2fe96816df0\">https://preview.redd.it/rof96tmbuelf1.png?width=1162&amp;format=png&amp;auto=webp&amp;s=5a1e81bbb9e8b12b09210967da97b2fe96816df0</a></p> <p><strong>4. Techniques teaching LLM therapy:</strong> Most people on this subreddit won't be surprised to learn you can teach LLM to perform therapy using a combination of context/prompt engineering, fine-tuning, multi-agent architecture, and ML models. What is surprising is that both clinically-validated APTs use ML models to offset the stochastic nature of LLMs, especially for safety purposes. Also surprising is that neither used a multi-agentic architecture. Therabot used fine-tuning on synthetic dialogues, and Limbic used context-engineering techniques. You can learn more about implementing therapy skills in LLM through context/prompt engineering (section 4.1), fine-tuning (section 4.2), multi-agent architectures (section 4.3), ML models (4.4). Around fine-tuning / pretraining there's a really nested conversation about data requirements, ethically sourcing transcripts, and choosing therapy modalities in section 4.1. </p> <p><a href=\"https://preview.redd.it/lbcoovvc0flf1.png?width=2246&amp;format=png&amp;auto=webp&amp;s=f029fed00649b4cca0ddb84d9830ded03f5f94ea\">https://preview.redd.it/lbcoovvc0flf1.png?width=2246&amp;format=png&amp;auto=webp&amp;s=f029fed00649b4cca0ddb84d9830ded03f5f94ea</a></p> <ol> <li><strong>Overall, most disadvantages of LLMs are addressable in AI therapy</strong>: Reading the literature critiquing APTs it's really easy to get discouraged thinking for examples &quot;oh wow, hallucinations are going to make AI therapy impossible&quot;. But actually, there's a bunch of techniques that can be used to mitigate the issues LLMs currently have. Combining the lowering rates of issues in newer LLMs released with mitigation techniques, most issues can theoretically be significantly mitigated in production. The outlier here being sycophancy which doesn't appear to have great mitigations on subjective topics. You can read more about the issues of LLMs in APTs and how to mitigate those in section 5. </li> </ol> <p><strong>6. video therapy with multi-modal audio/video LLMs:</strong> One surprising fact from psychotherapy research is that therapy done over video (e.g. zoom) is actually as effective as in-person therapy. Ideally, LLMs would be able to pickup and transmit non-verbal cues over video-audio. Having an virtual therapy avatar using audio &amp; video to attune to clients isn't actually that far off based on my literature review. Surprisingly it seems that emotional speech, and attuning to clients facial and body expressions are ready for implementation in AI therapy today. More on that in section 6.</p> <p>Happy to have a conversation, receive critique, and answer questions here. This summary above was meant to offer informal insights into what is an otherwise quite lengthy paper. For more formal discussion and details, it's really best to read the paper. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/JustinAngel\"> /u/JustinAngel </a> <br /> <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1n0vcrb/r_δapt_critical_review_aimed_at_maximizing/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1n0vcrb/r_δapt_critical_review_aimed_at_maximizing/\">[comments]</a></span> </td></tr></table>"
+        }
+      ],
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1n0vcrb/r_δapt_critical_review_aimed_at_maximizing/\"> <img alt=\"[R] ΔAPT: critical review aimed at maximizing clinical outcomes in AI/LLM Psychotherapy\" src=\"https://b.thumbs.redditmedia.com/fvSRVPVa2aKk26DvEoHft0hErge3cPJhtvS9xqYuPiU.jpg\" title=\"[R] ΔAPT: critical review aimed at maximizing clinical outcomes in AI/LLM Psychotherapy\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Hi reddit, wanted to share my thesis on AI / LLM psychotherapy @ <a href=\"https://osf.io/preprints/psyarxiv/4tmde_v1?fbclid=IwZXh0bgNhZW0CMTAAYnJpZBExNHhlVkhlWWpDVE1xN3dTeAEeoTtZ3pOVtRD7ODEFZo_qpyjjOEkW_2OFHqsH36X4xp7THoZC3F7YFDc1zJU_aem_Etq7yhCr4L3eA8v9QqrFgw\">https://osf.io/preprints/psyarxiv/4tmde_v1</a></p> <p>Since the rules for this subreddit require more than just a link, I thought I'd share some surprising conclusions in plain english. </p> <p><strong>1. AI therapy research tends to use arbitrary success metrics:</strong> the majority of LLM research on psychotherapy uses theraputic-sounding ad-hoc metrics (e.g. &quot;empathy&quot; as rated by LLM-as-judge), and not actually improvement in clients or other validated metrics. There's a real risk in AI researchers testing techniques and drawing conclusions when totally unrelated to the purpose of therapy (e.g. quality-of-life improvement). If you're interested in learning more about this issue, section 1.4 focuses on it, and offers the north-star alternatives commonly used in psychotherapy research in sections 1.1-1.3. </p> <p><strong>2. AI therapy tools (APTs) are already comparable to human therapists:</strong> There's two studies from 2025 (Limbic, Therabot) that demonstrate non-inferior clinical outcomes in LLM-driven APTs and human therapists for depression &amp; anxiety symptom reduction. If replicated, that's huge. That's a step-level jump in clinical from the previous generation of rules-based APTs (e.g. Woebot, Wysa), highlighting that maybe the generative properties of LLMs were the key gap to improve clinical performance. There's a lot more to say on these results, and if you're interested sections 2 &amp; 3.1 talk more about them and put them into clinical context. </p> <ol> <li><strong>ΔAPT allows predicting future clinical outcomes :</strong> It's actually surprising that APTs perform at the lower-bounds of human therapists, since they kinda suck right now. The predictive model I proposed is that APTs clinical performance is boosted by advantages therapist can't compete with (e.g. 24/7 availability, low cost), while being depressed by current disadvantages (e.g. poor therapy skills, hallucinations, sycophancy, inconsistencies, bias). All of this playing out while major issues around legality, safety, privacy and ethics are unresolved and could shutdown the field. If you're intersted, you can read more about the model (section 3.3), the advantages of APTs over human therapists (section 3.4), APTs' current limitations (section 3.5), and the key risks (section 3.6). </li> </ol> <p><a href=\"https://preview.redd.it/rof96tmbuelf1.png?width=1162&amp;format=png&amp;auto=webp&amp;s=5a1e81bbb9e8b12b09210967da97b2fe96816df0\">https://preview.redd.it/rof96tmbuelf1.png?width=1162&amp;format=png&amp;auto=webp&amp;s=5a1e81bbb9e8b12b09210967da97b2fe96816df0</a></p> <p><strong>4. Techniques teaching LLM therapy:</strong> Most people on this subreddit won't be surprised to learn you can teach LLM to perform therapy using a combination of context/prompt engineering, fine-tuning, multi-agent architecture, and ML models. What is surprising is that both clinically-validated APTs use ML models to offset the stochastic nature of LLMs, especially for safety purposes. Also surprising is that neither used a multi-agentic architecture. Therabot used fine-tuning on synthetic dialogues, and Limbic used context-engineering techniques. You can learn more about implementing therapy skills in LLM through context/prompt engineering (section 4.1), fine-tuning (section 4.2), multi-agent architectures (section 4.3), ML models (4.4). Around fine-tuning / pretraining there's a really nested conversation about data requirements, ethically sourcing transcripts, and choosing therapy modalities in section 4.1. </p> <p><a href=\"https://preview.redd.it/lbcoovvc0flf1.png?width=2246&amp;format=png&amp;auto=webp&amp;s=f029fed00649b4cca0ddb84d9830ded03f5f94ea\">https://preview.redd.it/lbcoovvc0flf1.png?width=2246&amp;format=png&amp;auto=webp&amp;s=f029fed00649b4cca0ddb84d9830ded03f5f94ea</a></p> <ol> <li><strong>Overall, most disadvantages of LLMs are addressable in AI therapy</strong>: Reading the literature critiquing APTs it's really easy to get discouraged thinking for examples &quot;oh wow, hallucinations are going to make AI therapy impossible&quot;. But actually, there's a bunch of techniques that can be used to mitigate the issues LLMs currently have. Combining the lowering rates of issues in newer LLMs released with mitigation techniques, most issues can theoretically be significantly mitigated in production. The outlier here being sycophancy which doesn't appear to have great mitigations on subjective topics. You can read more about the issues of LLMs in APTs and how to mitigate those in section 5. </li> </ol> <p><strong>6. video therapy with multi-modal audio/video LLMs:</strong> One surprising fact from psychotherapy research is that therapy done over video (e.g. zoom) is actually as effective as in-person therapy. Ideally, LLMs would be able to pickup and transmit non-verbal cues over video-audio. Having an virtual therapy avatar using audio &amp; video to attune to clients isn't actually that far off based on my literature review. Surprisingly it seems that emotional speech, and attuning to clients facial and body expressions are ready for implementation in AI therapy today. More on that in section 6.</p> <p>Happy to have a conversation, receive critique, and answer questions here. This summary above was meant to offer informal insights into what is an otherwise quite lengthy paper. For more formal discussion and details, it's really best to read the paper. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/JustinAngel\"> /u/JustinAngel </a> <br /> <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1n0vcrb/r_δapt_critical_review_aimed_at_maximizing/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1n0vcrb/r_δapt_critical_review_aimed_at_maximizing/\">[comments]</a></span> </td></tr></table>",
+      "id": "https://www.reddit.com/r/MachineLearning/t3_1n0vcrb",
+      "guidislink": true,
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1n0vcrb/r_δapt_critical_review_aimed_at_maximizing/",
+      "media_thumbnail": [
+        {
+          "url": "https://b.thumbs.redditmedia.com/fvSRVPVa2aKk26DvEoHft0hErge3cPJhtvS9xqYuPiU.jpg"
+        }
+      ],
+      "links": [
+        {
+          "href": "https://www.reddit.com/r/MachineLearning/comments/1n0vcrb/r_δapt_critical_review_aimed_at_maximizing/",
+          "rel": "alternate",
+          "type": "text/html"
+        }
+      ],
+      "updated": "2025-08-26T19:28:44+00:00",
+      "updated_parsed": [
+        2025,
+        8,
+        26,
+        19,
+        28,
+        44,
+        1,
+        238,
+        0
+      ],
+      "published": "2025-08-26T19:28:44+00:00",
+      "published_parsed": [
+        2025,
+        8,
+        26,
+        19,
+        28,
+        44,
+        1,
+        238,
+        0
+      ],
+      "title": "[R] ΔAPT: critical review aimed at maximizing clinical outcomes in AI/LLM Psychotherapy",
+      "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.reddit.com/r/MachineLearning/.rss",
+        "value": "[R] ΔAPT: critical review aimed at maximizing clinical outcomes in AI/LLM Psychotherapy"
+      }
+    },
+    {
+      "authors": [
+        {
+          "name": "/u/ChoiceStranger2898",
+          "href": "https://www.reddit.com/user/ChoiceStranger2898"
+        }
+      ],
+      "author_detail": {
+        "name": "/u/ChoiceStranger2898",
+        "href": "https://www.reddit.com/user/ChoiceStranger2898"
+      },
+      "href": "https://www.reddit.com/user/ChoiceStranger2898",
+      "author": "/u/ChoiceStranger2898",
+      "tags": [
+        {
+          "term": "MachineLearning",
+          "scheme": null,
+          "label": "r/MachineLearning"
+        }
+      ],
+      "content": [
+        {
+          "type": "text/html",
+          "language": null,
+          "base": "https://www.reddit.com/r/MachineLearning/.rss",
+          "value": "<!-- SC_OFF --><div class=\"md\"><p>Hi y’all, I have a optimisation paper that is not quite ready for conference yet, and I see there are a few Neurips workshop coming up that fits my research direction. I’m wondering if it’s good to submit the work to the workshop?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/ChoiceStranger2898\"> /u/ChoiceStranger2898 </a> <br /> <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1n127sr/are_neurips_workshop_competitive_r/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1n127sr/are_neurips_workshop_competitive_r/\">[comments]</a></span>"
+        }
+      ],
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi y’all, I have a optimisation paper that is not quite ready for conference yet, and I see there are a few Neurips workshop coming up that fits my research direction. I’m wondering if it’s good to submit the work to the workshop?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/ChoiceStranger2898\"> /u/ChoiceStranger2898 </a> <br /> <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1n127sr/are_neurips_workshop_competitive_r/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1n127sr/are_neurips_workshop_competitive_r/\">[comments]</a></span>",
+      "id": "https://www.reddit.com/r/MachineLearning/t3_1n127sr",
+      "guidislink": true,
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1n127sr/are_neurips_workshop_competitive_r/",
+      "links": [
+        {
+          "href": "https://www.reddit.com/r/MachineLearning/comments/1n127sr/are_neurips_workshop_competitive_r/",
+          "rel": "alternate",
+          "type": "text/html"
+        }
+      ],
+      "updated": "2025-08-27T00:06:40+00:00",
+      "updated_parsed": [
+        2025,
+        8,
+        27,
+        0,
+        6,
+        40,
+        2,
+        239,
+        0
+      ],
+      "published": "2025-08-27T00:06:40+00:00",
+      "published_parsed": [
+        2025,
+        8,
+        27,
+        0,
+        6,
+        40,
+        2,
+        239,
+        0
+      ],
+      "title": "Are Neurips workshop competitive? [R]",
+      "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.reddit.com/r/MachineLearning/.rss",
+        "value": "Are Neurips workshop competitive? [R]"
+      }
+    },
+    {
+      "authors": [
+        {
+          "name": "/u/SoggyClue",
+          "href": "https://www.reddit.com/user/SoggyClue"
+        }
+      ],
+      "author_detail": {
+        "name": "/u/SoggyClue",
+        "href": "https://www.reddit.com/user/SoggyClue"
+      },
+      "href": "https://www.reddit.com/user/SoggyClue",
+      "author": "/u/SoggyClue",
+      "tags": [
+        {
+          "term": "MachineLearning",
+          "scheme": null,
+          "label": "r/MachineLearning"
+        }
+      ],
+      "content": [
+        {
+          "type": "text/html",
+          "language": null,
+          "base": "https://www.reddit.com/r/MachineLearning/.rss",
+          "value": "<!-- SC_OFF --><div class=\"md\"><p>I'm a PhD student in HCI, and I recently had a paper accepted at a B-ranked ML conference. While I have prior experience presenting at HCI venues, this will be my first time presenting at an ML conference.</p> <p>I want to know if there are any tips or best practices for preparing slides and giving talks in the ML community. Are there particular presentation styles, slide formats, or expectations that differ from HCI conferences?</p> <p>Thanks in advance for your advice!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/SoggyClue\"> /u/SoggyClue </a> <br /> <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1n10vyv/d_tips_tricks_for_preparing_slidestalks_for_ml/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1n10vyv/d_tips_tricks_for_preparing_slidestalks_for_ml/\">[comments]</a></span>"
+        }
+      ],
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I'm a PhD student in HCI, and I recently had a paper accepted at a B-ranked ML conference. While I have prior experience presenting at HCI venues, this will be my first time presenting at an ML conference.</p> <p>I want to know if there are any tips or best practices for preparing slides and giving talks in the ML community. Are there particular presentation styles, slide formats, or expectations that differ from HCI conferences?</p> <p>Thanks in advance for your advice!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/SoggyClue\"> /u/SoggyClue </a> <br /> <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1n10vyv/d_tips_tricks_for_preparing_slidestalks_for_ml/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1n10vyv/d_tips_tricks_for_preparing_slidestalks_for_ml/\">[comments]</a></span>",
+      "id": "https://www.reddit.com/r/MachineLearning/t3_1n10vyv",
+      "guidislink": true,
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1n10vyv/d_tips_tricks_for_preparing_slidestalks_for_ml/",
+      "links": [
+        {
+          "href": "https://www.reddit.com/r/MachineLearning/comments/1n10vyv/d_tips_tricks_for_preparing_slidestalks_for_ml/",
+          "rel": "alternate",
+          "type": "text/html"
+        }
+      ],
+      "updated": "2025-08-26T23:08:01+00:00",
+      "updated_parsed": [
+        2025,
+        8,
+        26,
+        23,
+        8,
+        1,
+        1,
+        238,
+        0
+      ],
+      "published": "2025-08-26T23:08:01+00:00",
+      "published_parsed": [
+        2025,
+        8,
+        26,
+        23,
+        8,
+        1,
+        1,
+        238,
+        0
+      ],
+      "title": "[D] Tips & tricks for preparing slides/talks for ML Conferences?",
+      "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.reddit.com/r/MachineLearning/.rss",
+        "value": "[D] Tips & tricks for preparing slides/talks for ML Conferences?"
+      }
+    },
+    {
+      "authors": [
+        {
+          "name": "/u/LostAmbassador6872",
+          "href": "https://www.reddit.com/user/LostAmbassador6872"
+        }
+      ],
+      "author_detail": {
+        "name": "/u/LostAmbassador6872",
+        "href": "https://www.reddit.com/user/LostAmbassador6872"
+      },
+      "href": "",
+      "author": "/u/LostAmbassador6872",
+      "tags": [
+        {
+          "term": "MachineLearning",
+          "scheme": null,
+          "label": "r/MachineLearning"
+        }
+      ],
+      "content": [
+        {
+          "type": "text/html",
+          "language": null,
+          "base": "https://www.reddit.com/r/MachineLearning/.rss",
+          "value": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1n0jwj7/p_docstrange_structured_data_extraction_from/\"> <img alt=\"[P] DocStrange - Structured data extraction from images/pdfs/docs\" src=\"https://b.thumbs.redditmedia.com/T9fUYB3UUsiiAIxiLKZp9svKFk9XPqh5qjACUifqPLg.jpg\" title=\"[P] DocStrange - Structured data extraction from images/pdfs/docs\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I previously shared the open‑source library DocStrange. Now I have hosted it as a free to use web app to upload pdfs/images/docs to get clean structured data in Markdown/CSV/JSON/Specific-fields and other formats.</p> <p><strong>Live Demo:</strong> <a href=\"https://docstrange.nanonets.com/\"><strong>https://docstrange.nanonets.com</strong></a></p> <p><strong>Github:</strong> <a href=\"https://github.com/NanoNets/docstrange\"><strong>https://github.com/NanoNets/docstrange</strong></a></p> <p>Would love to hear feedbacks!</p> <p><a href=\"https://i.redd.it/gl23k00osclf1.gif\">https://i.redd.it/gl23k00osclf1.gif</a></p> <p>Original Post - <a href=\"https://www.reddit.com/r/MachineLearning/comments/1mh9g3r/p_docstrange_open_source_document_data_extractor/\">https://www.reddit.com/r/MachineLearning/comments/1mh9g3r/p_docstrange_open_source_document_data_extractor/</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/LostAmbassador6872\"> /u/LostAmbassador6872 </a> <br /> <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1n0jwj7/p_docstrange_structured_data_extraction_from/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1n0jwj7/p_docstrange_structured_data_extraction_from/\">[comments]</a></span> </td></tr></table>"
+        }
+      ],
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1n0jwj7/p_docstrange_structured_data_extraction_from/\"> <img alt=\"[P] DocStrange - Structured data extraction from images/pdfs/docs\" src=\"https://b.thumbs.redditmedia.com/T9fUYB3UUsiiAIxiLKZp9svKFk9XPqh5qjACUifqPLg.jpg\" title=\"[P] DocStrange - Structured data extraction from images/pdfs/docs\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I previously shared the open‑source library DocStrange. Now I have hosted it as a free to use web app to upload pdfs/images/docs to get clean structured data in Markdown/CSV/JSON/Specific-fields and other formats.</p> <p><strong>Live Demo:</strong> <a href=\"https://docstrange.nanonets.com/\"><strong>https://docstrange.nanonets.com</strong></a></p> <p><strong>Github:</strong> <a href=\"https://github.com/NanoNets/docstrange\"><strong>https://github.com/NanoNets/docstrange</strong></a></p> <p>Would love to hear feedbacks!</p> <p><a href=\"https://i.redd.it/gl23k00osclf1.gif\">https://i.redd.it/gl23k00osclf1.gif</a></p> <p>Original Post - <a href=\"https://www.reddit.com/r/MachineLearning/comments/1mh9g3r/p_docstrange_open_source_document_data_extractor/\">https://www.reddit.com/r/MachineLearning/comments/1mh9g3r/p_docstrange_open_source_document_data_extractor/</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/LostAmbassador6872\"> /u/LostAmbassador6872 </a> <br /> <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1n0jwj7/p_docstrange_structured_data_extraction_from/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1n0jwj7/p_docstrange_structured_data_extraction_from/\">[comments]</a></span> </td></tr></table>",
+      "id": "https://www.reddit.com/r/MachineLearning/t3_1n0jwj7",
+      "guidislink": true,
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1n0jwj7/p_docstrange_structured_data_extraction_from/",
+      "media_thumbnail": [
+        {
+          "url": "https://b.thumbs.redditmedia.com/T9fUYB3UUsiiAIxiLKZp9svKFk9XPqh5qjACUifqPLg.jpg"
+        }
+      ],
+      "links": [
+        {
+          "href": "https://www.reddit.com/r/MachineLearning/comments/1n0jwj7/p_docstrange_structured_data_extraction_from/",
+          "rel": "alternate",
+          "type": "text/html"
+        }
+      ],
+      "updated": "2025-08-26T12:01:41+00:00",
+      "updated_parsed": [
+        2025,
+        8,
+        26,
+        12,
+        1,
+        41,
+        1,
+        238,
+        0
+      ],
+      "published": "2025-08-26T12:01:41+00:00",
+      "published_parsed": [
+        2025,
+        8,
+        26,
+        12,
+        1,
+        41,
+        1,
+        238,
+        0
+      ],
+      "title": "[P] DocStrange - Structured data extraction from images/pdfs/docs",
+      "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.reddit.com/r/MachineLearning/.rss",
+        "value": "[P] DocStrange - Structured data extraction from images/pdfs/docs"
+      }
+    },
+    {
+      "authors": [
+        {
+          "name": "/u/beautiful-potato",
+          "href": "https://www.reddit.com/user/beautiful-potato"
+        }
+      ],
+      "author_detail": {
+        "name": "/u/beautiful-potato",
+        "href": "https://www.reddit.com/user/beautiful-potato"
+      },
+      "href": "https://www.reddit.com/user/beautiful-potato",
+      "author": "/u/beautiful-potato",
+      "tags": [
+        {
+          "term": "MachineLearning",
+          "scheme": null,
+          "label": "r/MachineLearning"
+        }
+      ],
+      "content": [
+        {
+          "type": "text/html",
+          "language": null,
+          "base": "https://www.reddit.com/r/MachineLearning/.rss",
+          "value": "<!-- SC_OFF --><div class=\"md\"><p>I looked through 402 healthcare AI repos on GitHub and found almost 50% of infrastructure tools are just solving data format conversion problems, suggesting a systematic gap between ML research and deployment in clinical settings.</p> <p>Built HealthChain to bridge Python ML workflows with healthcare data standards (FHIR, HL7, etc.) without the usual pain. 4 years of NHS NLP development experience went into making this feel like normal Python.</p> <p>Post + pretty graphs: <a href=\"https://open.substack.com/pub/jenniferjiangkells/p/healthchain-building-the-tool-i-wish?r=4o6h4\">https://open.substack.com/pub/jenniferjiangkells/p/healthchain-building-the-tool-i-wish?r=4o6h4</a></p> <p>Code: <a href=\"https://github.com/dotimplement/HealthChain\">https://github.com/dotimplement/HealthChain</a></p> <p>Anyone else work in healthcare AI here? Would love to learn what you’re working on!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/beautiful-potato\"> /u/beautiful-potato </a> <br /> <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1n0qwzm/d_analyzed_402_healthcare_ai_repos_and_built_the/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1n0qwzm/d_analyzed_402_healthcare_ai_repos_and_built_the/\">[comments]</a></span>"
+        }
+      ],
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I looked through 402 healthcare AI repos on GitHub and found almost 50% of infrastructure tools are just solving data format conversion problems, suggesting a systematic gap between ML research and deployment in clinical settings.</p> <p>Built HealthChain to bridge Python ML workflows with healthcare data standards (FHIR, HL7, etc.) without the usual pain. 4 years of NHS NLP development experience went into making this feel like normal Python.</p> <p>Post + pretty graphs: <a href=\"https://open.substack.com/pub/jenniferjiangkells/p/healthchain-building-the-tool-i-wish?r=4o6h4\">https://open.substack.com/pub/jenniferjiangkells/p/healthchain-building-the-tool-i-wish?r=4o6h4</a></p> <p>Code: <a href=\"https://github.com/dotimplement/HealthChain\">https://github.com/dotimplement/HealthChain</a></p> <p>Anyone else work in healthcare AI here? Would love to learn what you’re working on!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/beautiful-potato\"> /u/beautiful-potato </a> <br /> <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1n0qwzm/d_analyzed_402_healthcare_ai_repos_and_built_the/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1n0qwzm/d_analyzed_402_healthcare_ai_repos_and_built_the/\">[comments]</a></span>",
+      "id": "https://www.reddit.com/r/MachineLearning/t3_1n0qwzm",
+      "guidislink": true,
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1n0qwzm/d_analyzed_402_healthcare_ai_repos_and_built_the/",
+      "links": [
+        {
+          "href": "https://www.reddit.com/r/MachineLearning/comments/1n0qwzm/d_analyzed_402_healthcare_ai_repos_and_built_the/",
+          "rel": "alternate",
+          "type": "text/html"
+        }
+      ],
+      "updated": "2025-08-26T16:42:45+00:00",
+      "updated_parsed": [
+        2025,
+        8,
+        26,
+        16,
+        42,
+        45,
+        1,
+        238,
+        0
+      ],
+      "published": "2025-08-26T16:42:45+00:00",
+      "published_parsed": [
+        2025,
+        8,
+        26,
+        16,
+        42,
+        45,
+        1,
+        238,
+        0
+      ],
+      "title": "[D] Analyzed 402 healthcare ai repos and built the missing piece",
+      "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.reddit.com/r/MachineLearning/.rss",
+        "value": "[D] Analyzed 402 healthcare ai repos and built the missing piece"
+      }
+    },
+    {
+      "authors": [
+        {
+          "name": "/u/ZealousidealSalt7133",
+          "href": "https://www.reddit.com/user/ZealousidealSalt7133"
+        }
+      ],
+      "author_detail": {
+        "name": "/u/ZealousidealSalt7133",
+        "href": "https://www.reddit.com/user/ZealousidealSalt7133"
+      },
+      "href": "https://www.reddit.com/user/ZealousidealSalt7133",
+      "author": "/u/ZealousidealSalt7133",
+      "tags": [
+        {
+          "term": "MachineLearning",
+          "scheme": null,
+          "label": "r/MachineLearning"
+        }
+      ],
+      "content": [
+        {
+          "type": "text/html",
+          "language": null,
+          "base": "https://www.reddit.com/r/MachineLearning/.rss",
+          "value": "<!-- SC_OFF --><div class=\"md\"><p>I have started working on implementing actual research papers in machine learning and I have started with &quot;Attention is all you need&quot; paper.</p> <p>I have implemented all the code and it is an educational attempt. I would like you to get some eyes on the repo from the members of this subreddit and get your opinion. This is still a work in progress but your reviews and PRs are really appreciated. I have written the code focusing on educational purposes and not optimisations. Please take a look below.</p> <p><a href=\"https://github.com/MayukhSobo/Transformer\">https://github.com/MayukhSobo/Transformer</a></p> <p>Edit: I would like to clarify that some of the code related to helper functions and all the doc strings are implemented by Claude not because they are difficult to do but they are simply boring. The core architecture is implemented by me. Also at no point I claimed that this is my own work and I haven't used AI. The part which really required me to code and not use AI, I did it on my own. If you really think that the complete code is just a result of some vibe coding, I welcome you to try that with most advanced AI tools and see if you can reproduce even 70% of what I did or not. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/ZealousidealSalt7133\"> /u/ZealousidealSalt7133 </a> <br /> <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1n0d12h/d_an_honest_attempt_to_implement_attention_is_all/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1n0d12h/d_an_honest_attempt_to_implement_attention_is_all/\">[comments]</a></span>"
+        }
+      ],
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I have started working on implementing actual research papers in machine learning and I have started with &quot;Attention is all you need&quot; paper.</p> <p>I have implemented all the code and it is an educational attempt. I would like you to get some eyes on the repo from the members of this subreddit and get your opinion. This is still a work in progress but your reviews and PRs are really appreciated. I have written the code focusing on educational purposes and not optimisations. Please take a look below.</p> <p><a href=\"https://github.com/MayukhSobo/Transformer\">https://github.com/MayukhSobo/Transformer</a></p> <p>Edit: I would like to clarify that some of the code related to helper functions and all the doc strings are implemented by Claude not because they are difficult to do but they are simply boring. The core architecture is implemented by me. Also at no point I claimed that this is my own work and I haven't used AI. The part which really required me to code and not use AI, I did it on my own. If you really think that the complete code is just a result of some vibe coding, I welcome you to try that with most advanced AI tools and see if you can reproduce even 70% of what I did or not. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/ZealousidealSalt7133\"> /u/ZealousidealSalt7133 </a> <br /> <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1n0d12h/d_an_honest_attempt_to_implement_attention_is_all/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1n0d12h/d_an_honest_attempt_to_implement_attention_is_all/\">[comments]</a></span>",
+      "id": "https://www.reddit.com/r/MachineLearning/t3_1n0d12h",
+      "guidislink": true,
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1n0d12h/d_an_honest_attempt_to_implement_attention_is_all/",
+      "links": [
+        {
+          "href": "https://www.reddit.com/r/MachineLearning/comments/1n0d12h/d_an_honest_attempt_to_implement_attention_is_all/",
+          "rel": "alternate",
+          "type": "text/html"
+        }
+      ],
+      "updated": "2025-08-26T05:01:32+00:00",
+      "updated_parsed": [
+        2025,
+        8,
+        26,
+        5,
+        1,
+        32,
+        1,
+        238,
+        0
+      ],
+      "published": "2025-08-26T05:01:32+00:00",
+      "published_parsed": [
+        2025,
+        8,
+        26,
+        5,
+        1,
+        32,
+        1,
+        238,
+        0
+      ],
+      "title": "[D] An honest attempt to implement \"Attention is all you need\" paper",
+      "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.reddit.com/r/MachineLearning/.rss",
+        "value": "[D] An honest attempt to implement \"Attention is all you need\" paper"
+      }
+    },
+    {
+      "authors": [
+        {
+          "name": "/u/Look-Asleep",
+          "href": "https://www.reddit.com/user/Look-Asleep"
+        }
+      ],
+      "author_detail": {
+        "name": "/u/Look-Asleep",
+        "href": "https://www.reddit.com/user/Look-Asleep"
+      },
+      "href": "https://www.reddit.com/user/Look-Asleep",
+      "author": "/u/Look-Asleep",
+      "tags": [
+        {
+          "term": "MachineLearning",
+          "scheme": null,
+          "label": "r/MachineLearning"
+        }
+      ],
+      "content": [
+        {
+          "type": "text/html",
+          "language": null,
+          "base": "https://www.reddit.com/r/MachineLearning/.rss",
+          "value": "<!-- SC_OFF --><div class=\"md\"><p>Basically the title. Obviously the quality of the work and relevance to the role is very important, but all else being equal, what is the perceived prestige difference between Findings and Main in NLP conferences? This would be with regard to getting research internships and research scientist positions.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Look-Asleep\"> /u/Look-Asleep </a> <br /> <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1n0t4hu/d_do_industry_research_roles_care_about_findings/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1n0t4hu/d_do_industry_research_roles_care_about_findings/\">[comments]</a></span>"
+        }
+      ],
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Basically the title. Obviously the quality of the work and relevance to the role is very important, but all else being equal, what is the perceived prestige difference between Findings and Main in NLP conferences? This would be with regard to getting research internships and research scientist positions.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Look-Asleep\"> /u/Look-Asleep </a> <br /> <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1n0t4hu/d_do_industry_research_roles_care_about_findings/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1n0t4hu/d_do_industry_research_roles_care_about_findings/\">[comments]</a></span>",
+      "id": "https://www.reddit.com/r/MachineLearning/t3_1n0t4hu",
+      "guidislink": true,
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1n0t4hu/d_do_industry_research_roles_care_about_findings/",
+      "links": [
+        {
+          "href": "https://www.reddit.com/r/MachineLearning/comments/1n0t4hu/d_do_industry_research_roles_care_about_findings/",
+          "rel": "alternate",
+          "type": "text/html"
+        }
+      ],
+      "updated": "2025-08-26T18:03:23+00:00",
+      "updated_parsed": [
+        2025,
+        8,
+        26,
+        18,
+        3,
+        23,
+        1,
+        238,
+        0
+      ],
+      "published": "2025-08-26T18:03:23+00:00",
+      "published_parsed": [
+        2025,
+        8,
+        26,
+        18,
+        3,
+        23,
+        1,
+        238,
+        0
+      ],
+      "title": "[D] Do Industry Research Roles Care about Findings vs. Main (in ACL, NAACL, EMNLP, etc.)?",
+      "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.reddit.com/r/MachineLearning/.rss",
+        "value": "[D] Do Industry Research Roles Care about Findings vs. Main (in ACL, NAACL, EMNLP, etc.)?"
+      }
+    },
+    {
+      "authors": [
+        {
+          "name": "/u/Illustrious_Ear_5728",
+          "href": "https://www.reddit.com/user/Illustrious_Ear_5728"
+        }
+      ],
+      "author_detail": {
+        "name": "/u/Illustrious_Ear_5728",
+        "href": "https://www.reddit.com/user/Illustrious_Ear_5728"
+      },
+      "href": "https://www.reddit.com/user/Illustrious_Ear_5728",
+      "author": "/u/Illustrious_Ear_5728",
+      "tags": [
+        {
+          "term": "MachineLearning",
+          "scheme": null,
+          "label": "r/MachineLearning"
+        }
+      ],
+      "content": [
+        {
+          "type": "text/html",
+          "language": null,
+          "base": "https://www.reddit.com/r/MachineLearning/.rss",
+          "value": "<!-- SC_OFF --><div class=\"md\"><p>I’m still pretty new to reinforcement learning (and machine learning in general), but I thought it would be fun to try building my own CartPole agent from scratch in C++.</p> <p>It currently supports PPO, Actor-Critic, and REINFORCE policy gradients, each with Adam and SGD (with and without momentum) optimizers.</p> <p>I wrote the physics engine from scratch in an Entity-Component-System architecture, and built a simple renderer using SFML.</p> <p>Repo: <a href=\"http://www.github.com/RobinLmn/cart-pole-rl\">www.github.com/RobinLmn/cart-pole-rl</a></p> <p>Would love to hear what you think, and any ideas for making it better!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Illustrious_Ear_5728\"> /u/Illustrious_Ear_5728 </a> <br /> <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1n12su6/p_building_a_cartpole_agent_from_scratch_in_c/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1n12su6/p_building_a_cartpole_agent_from_scratch_in_c/\">[comments]</a></span>"
+        }
+      ],
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I’m still pretty new to reinforcement learning (and machine learning in general), but I thought it would be fun to try building my own CartPole agent from scratch in C++.</p> <p>It currently supports PPO, Actor-Critic, and REINFORCE policy gradients, each with Adam and SGD (with and without momentum) optimizers.</p> <p>I wrote the physics engine from scratch in an Entity-Component-System architecture, and built a simple renderer using SFML.</p> <p>Repo: <a href=\"http://www.github.com/RobinLmn/cart-pole-rl\">www.github.com/RobinLmn/cart-pole-rl</a></p> <p>Would love to hear what you think, and any ideas for making it better!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Illustrious_Ear_5728\"> /u/Illustrious_Ear_5728 </a> <br /> <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1n12su6/p_building_a_cartpole_agent_from_scratch_in_c/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1n12su6/p_building_a_cartpole_agent_from_scratch_in_c/\">[comments]</a></span>",
+      "id": "https://www.reddit.com/r/MachineLearning/t3_1n12su6",
+      "guidislink": true,
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1n12su6/p_building_a_cartpole_agent_from_scratch_in_c/",
+      "links": [
+        {
+          "href": "https://www.reddit.com/r/MachineLearning/comments/1n12su6/p_building_a_cartpole_agent_from_scratch_in_c/",
+          "rel": "alternate",
+          "type": "text/html"
+        }
+      ],
+      "updated": "2025-08-27T00:33:39+00:00",
+      "updated_parsed": [
+        2025,
+        8,
+        27,
+        0,
+        33,
+        39,
+        2,
+        239,
+        0
+      ],
+      "published": "2025-08-27T00:33:39+00:00",
+      "published_parsed": [
+        2025,
+        8,
+        27,
+        0,
+        33,
+        39,
+        2,
+        239,
+        0
+      ],
+      "title": "[P] Building a CartPole agent from scratch, in C++",
+      "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.reddit.com/r/MachineLearning/.rss",
+        "value": "[P] Building a CartPole agent from scratch, in C++"
+      }
+    },
+    {
+      "authors": [
+        {
+          "name": "/u/illustriousplit",
+          "href": "https://www.reddit.com/user/illustriousplit"
+        }
+      ],
+      "author_detail": {
+        "name": "/u/illustriousplit",
+        "href": "https://www.reddit.com/user/illustriousplit"
+      },
+      "href": "",
+      "author": "/u/illustriousplit",
+      "tags": [
+        {
+          "term": "MachineLearning",
+          "scheme": null,
+          "label": "r/MachineLearning"
+        }
+      ],
+      "content": [
+        {
+          "type": "text/html",
+          "language": null,
+          "base": "https://www.reddit.com/r/MachineLearning/.rss",
+          "value": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1n0njtk/r_exploring_interpretable_ml_with_piecewiselinear/\"> <img alt=\"[R] Exploring interpretable ML with piecewise-linear regression trees (TRUST algorithm)\" src=\"https://b.thumbs.redditmedia.com/bLcE1suvldo86T-k3BBOj9wxZ2N4kzu2GtFgD9kyDNY.jpg\" title=\"[R] Exploring interpretable ML with piecewise-linear regression trees (TRUST algorithm)\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>A recurring challenge in ML is balancing <strong>interpretability</strong> and <strong>predictive performance</strong>. We all know the classic tradeoff: simple models like linear regression or short CART-style regression trees are transparent but often lack enough accuracy, while complex ensembles like Random Forests and XGBoost are accurate but opaque.</p> <p>We’ve been working on a method called <strong>TRUST</strong> (<em>Transparent, Robust and Ultra-Sparse Trees</em>). The core idea is to go beyond constant values in the leaves of a tree. Instead, TRUST fits a sparse regression model (either linear or constant) in each leaf, resulting in a <strong>piecewise-linear tree</strong> that remains interpretable.</p> <p>In our <a href=\"https://arxiv.org/abs/2506.15791\">recent paper</a>, accepted at PRICAI 2025, we compared this method against a range of models on 60 datasets. While we were encouraged by the results — TRUST consistently outperformed other interpretable models and closed much of the accuracy gap with Random Forests — we'd like to hear your thoughts on this topic.</p> <p>The problem we’re tackling is widespread. In many real-world applications, a &quot;black box&quot; model isn't an option. We've often found ourselves in situations where we had to choose between a sub-par interpretable model or an accurate but untrustworthy one.</p> <p>Here’s a concrete example from a <a href=\"https://github.com/adc-trust-ai/trust-free/blob/main/notebooks/trust-free_tutorial.ipynb\">tutorial on explaining EU life satisfaction</a>.</p> <p><a href=\"https://preview.redd.it/3tzdaim3kdlf1.png?width=2600&amp;format=png&amp;auto=webp&amp;s=e289771608b0d74498dc83b39c1efd2670ed8ea9\">TRUST produces a single interpretable tree, while Random Forest uses hundreds of deep trees to achieve similar accuracy.</a></p> <p>As the image above shows, both TRUST and a Random Forest achieve ~85% test R² — but one produces a <strong>single interpretable tree</strong>.</p> <p>TRUST is implemented as a free Python package on PyPI called <code>trust-free</code>.</p> <p><strong>Discussion:</strong> How do you usually handle the interpretability vs. accuracy tradeoff in your own regression projects? What methods, beyond the standard ones, have you found effective? We’re looking forward to hearing your perspectives.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/illustriousplit\"> /u/illustriousplit </a> <br /> <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1n0njtk/r_exploring_interpretable_ml_with_piecewiselinear/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1n0njtk/r_exploring_interpretable_ml_with_piecewiselinear/\">[comments]</a></span> </td></tr></table>"
+        }
+      ],
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1n0njtk/r_exploring_interpretable_ml_with_piecewiselinear/\"> <img alt=\"[R] Exploring interpretable ML with piecewise-linear regression trees (TRUST algorithm)\" src=\"https://b.thumbs.redditmedia.com/bLcE1suvldo86T-k3BBOj9wxZ2N4kzu2GtFgD9kyDNY.jpg\" title=\"[R] Exploring interpretable ML with piecewise-linear regression trees (TRUST algorithm)\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>A recurring challenge in ML is balancing <strong>interpretability</strong> and <strong>predictive performance</strong>. We all know the classic tradeoff: simple models like linear regression or short CART-style regression trees are transparent but often lack enough accuracy, while complex ensembles like Random Forests and XGBoost are accurate but opaque.</p> <p>We’ve been working on a method called <strong>TRUST</strong> (<em>Transparent, Robust and Ultra-Sparse Trees</em>). The core idea is to go beyond constant values in the leaves of a tree. Instead, TRUST fits a sparse regression model (either linear or constant) in each leaf, resulting in a <strong>piecewise-linear tree</strong> that remains interpretable.</p> <p>In our <a href=\"https://arxiv.org/abs/2506.15791\">recent paper</a>, accepted at PRICAI 2025, we compared this method against a range of models on 60 datasets. While we were encouraged by the results — TRUST consistently outperformed other interpretable models and closed much of the accuracy gap with Random Forests — we'd like to hear your thoughts on this topic.</p> <p>The problem we’re tackling is widespread. In many real-world applications, a &quot;black box&quot; model isn't an option. We've often found ourselves in situations where we had to choose between a sub-par interpretable model or an accurate but untrustworthy one.</p> <p>Here’s a concrete example from a <a href=\"https://github.com/adc-trust-ai/trust-free/blob/main/notebooks/trust-free_tutorial.ipynb\">tutorial on explaining EU life satisfaction</a>.</p> <p><a href=\"https://preview.redd.it/3tzdaim3kdlf1.png?width=2600&amp;format=png&amp;auto=webp&amp;s=e289771608b0d74498dc83b39c1efd2670ed8ea9\">TRUST produces a single interpretable tree, while Random Forest uses hundreds of deep trees to achieve similar accuracy.</a></p> <p>As the image above shows, both TRUST and a Random Forest achieve ~85% test R² — but one produces a <strong>single interpretable tree</strong>.</p> <p>TRUST is implemented as a free Python package on PyPI called <code>trust-free</code>.</p> <p><strong>Discussion:</strong> How do you usually handle the interpretability vs. accuracy tradeoff in your own regression projects? What methods, beyond the standard ones, have you found effective? We’re looking forward to hearing your perspectives.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/illustriousplit\"> /u/illustriousplit </a> <br /> <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1n0njtk/r_exploring_interpretable_ml_with_piecewiselinear/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1n0njtk/r_exploring_interpretable_ml_with_piecewiselinear/\">[comments]</a></span> </td></tr></table>",
+      "id": "https://www.reddit.com/r/MachineLearning/t3_1n0njtk",
+      "guidislink": true,
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1n0njtk/r_exploring_interpretable_ml_with_piecewiselinear/",
+      "media_thumbnail": [
+        {
+          "url": "https://b.thumbs.redditmedia.com/bLcE1suvldo86T-k3BBOj9wxZ2N4kzu2GtFgD9kyDNY.jpg"
+        }
+      ],
+      "links": [
+        {
+          "href": "https://www.reddit.com/r/MachineLearning/comments/1n0njtk/r_exploring_interpretable_ml_with_piecewiselinear/",
+          "rel": "alternate",
+          "type": "text/html"
+        }
+      ],
+      "updated": "2025-08-26T14:35:44+00:00",
+      "updated_parsed": [
+        2025,
+        8,
+        26,
+        14,
+        35,
+        44,
+        1,
+        238,
+        0
+      ],
+      "published": "2025-08-26T14:35:44+00:00",
+      "published_parsed": [
+        2025,
+        8,
+        26,
+        14,
+        35,
+        44,
+        1,
+        238,
+        0
+      ],
+      "title": "[R] Exploring interpretable ML with piecewise-linear regression trees (TRUST algorithm)",
+      "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.reddit.com/r/MachineLearning/.rss",
+        "value": "[R] Exploring interpretable ML with piecewise-linear regression trees (TRUST algorithm)"
+      }
+    },
+    {
+      "authors": [
+        {
+          "name": "/u/AaronSpalding",
+          "href": "https://www.reddit.com/user/AaronSpalding"
+        }
+      ],
+      "author_detail": {
+        "name": "/u/AaronSpalding",
+        "href": "https://www.reddit.com/user/AaronSpalding"
+      },
+      "href": "https://www.reddit.com/user/AaronSpalding",
+      "author": "/u/AaronSpalding",
+      "tags": [
+        {
+          "term": "MachineLearning",
+          "scheme": null,
+          "label": "r/MachineLearning"
+        }
+      ],
+      "content": [
+        {
+          "type": "text/html",
+          "language": null,
+          "base": "https://www.reddit.com/r/MachineLearning/.rss",
+          "value": "<!-- SC_OFF --><div class=\"md\"><p>Maybe I am confused between two terms &quot;active learning&quot; and &quot;self-learning&quot;. But the basic idea is to use a trained model to classify bunch of unannotated data to generate pseudo labels, and train the model again with these generated pseudo labels. Not sure &quot;bootstraping&quot; is relevant in this context.</p> <p>A lot of existing works seem to use such techniques to handle data. For example, SAM (Segment Anything) and lots of LLM related paper, in which they use LLM to generate text data or image-text pairs and then use such generated data to finetune the LLM.</p> <p>My question is why such methods work? Will the error be accumulated since the pseudo labels might be wrong?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AaronSpalding\"> /u/AaronSpalding </a> <br /> <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1n0wdsi/r_what_makes_active_learning_or_self_learning/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1n0wdsi/r_what_makes_active_learning_or_self_learning/\">[comments]</a></span>"
+        }
+      ],
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Maybe I am confused between two terms &quot;active learning&quot; and &quot;self-learning&quot;. But the basic idea is to use a trained model to classify bunch of unannotated data to generate pseudo labels, and train the model again with these generated pseudo labels. Not sure &quot;bootstraping&quot; is relevant in this context.</p> <p>A lot of existing works seem to use such techniques to handle data. For example, SAM (Segment Anything) and lots of LLM related paper, in which they use LLM to generate text data or image-text pairs and then use such generated data to finetune the LLM.</p> <p>My question is why such methods work? Will the error be accumulated since the pseudo labels might be wrong?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AaronSpalding\"> /u/AaronSpalding </a> <br /> <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1n0wdsi/r_what_makes_active_learning_or_self_learning/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1n0wdsi/r_what_makes_active_learning_or_self_learning/\">[comments]</a></span>",
+      "id": "https://www.reddit.com/r/MachineLearning/t3_1n0wdsi",
+      "guidislink": true,
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1n0wdsi/r_what_makes_active_learning_or_self_learning/",
+      "links": [
+        {
+          "href": "https://www.reddit.com/r/MachineLearning/comments/1n0wdsi/r_what_makes_active_learning_or_self_learning/",
+          "rel": "alternate",
+          "type": "text/html"
+        }
+      ],
+      "updated": "2025-08-26T20:08:04+00:00",
+      "updated_parsed": [
+        2025,
+        8,
+        26,
+        20,
+        8,
+        4,
+        1,
+        238,
+        0
+      ],
+      "published": "2025-08-26T20:08:04+00:00",
+      "published_parsed": [
+        2025,
+        8,
+        26,
+        20,
+        8,
+        4,
+        1,
+        238,
+        0
+      ],
+      "title": "[R] What makes active learning or self learning successful ?",
+      "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.reddit.com/r/MachineLearning/.rss",
+        "value": "[R] What makes active learning or self learning successful ?"
+      }
+    },
+    {
+      "authors": [
+        {
+          "name": "/u/devops_to",
+          "href": "https://www.reddit.com/user/devops_to"
+        }
+      ],
+      "author_detail": {
+        "name": "/u/devops_to",
+        "href": "https://www.reddit.com/user/devops_to"
+      },
+      "href": "https://www.reddit.com/user/devops_to",
+      "author": "/u/devops_to",
+      "tags": [
+        {
+          "term": "MachineLearning",
+          "scheme": null,
+          "label": "r/MachineLearning"
+        }
+      ],
+      "content": [
+        {
+          "type": "text/html",
+          "language": null,
+          "base": "https://www.reddit.com/r/MachineLearning/.rss",
+          "value": "<!-- SC_OFF --><div class=\"md\"><p>Hey folks </p> <p>I've been using <a href=\"http://Modal.com\">Modal.com</a> (I am not affiliated) for a while to run machine learning workloads in the cloud, and I really like its simplicity, container-based execution, and ability to scale on demand. However, I'm starting to explore more self-hosted options due to cost reasons and to gain more control over the infrastructure while building apps.</p> <p>Does anyone know of good self-hosted alternatives that offer similar functionality? Ideally, something that:</p> <p>- Supports containerized jobs (Docker or similar)</p> <p>- Can run Python/ML workloads easily</p> <p>- Has a nice API for launching jobs (this is important) </p> <p>- Offers some kind of job orchestration or scheduling</p> <p>- Bonus: GPU support and autoscaling would be amazing</p> <p>Thanks in advance </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/devops_to\"> /u/devops_to </a> <br /> <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1n0q4d9/d_looking_for_a_selfhosted_alternative_to/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1n0q4d9/d_looking_for_a_selfhosted_alternative_to/\">[comments]</a></span>"
+        }
+      ],
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey folks </p> <p>I've been using <a href=\"http://Modal.com\">Modal.com</a> (I am not affiliated) for a while to run machine learning workloads in the cloud, and I really like its simplicity, container-based execution, and ability to scale on demand. However, I'm starting to explore more self-hosted options due to cost reasons and to gain more control over the infrastructure while building apps.</p> <p>Does anyone know of good self-hosted alternatives that offer similar functionality? Ideally, something that:</p> <p>- Supports containerized jobs (Docker or similar)</p> <p>- Can run Python/ML workloads easily</p> <p>- Has a nice API for launching jobs (this is important) </p> <p>- Offers some kind of job orchestration or scheduling</p> <p>- Bonus: GPU support and autoscaling would be amazing</p> <p>Thanks in advance </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/devops_to\"> /u/devops_to </a> <br /> <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1n0q4d9/d_looking_for_a_selfhosted_alternative_to/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1n0q4d9/d_looking_for_a_selfhosted_alternative_to/\">[comments]</a></span>",
+      "id": "https://www.reddit.com/r/MachineLearning/t3_1n0q4d9",
+      "guidislink": true,
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1n0q4d9/d_looking_for_a_selfhosted_alternative_to/",
+      "links": [
+        {
+          "href": "https://www.reddit.com/r/MachineLearning/comments/1n0q4d9/d_looking_for_a_selfhosted_alternative_to/",
+          "rel": "alternate",
+          "type": "text/html"
+        }
+      ],
+      "updated": "2025-08-26T16:13:01+00:00",
+      "updated_parsed": [
+        2025,
+        8,
+        26,
+        16,
+        13,
+        1,
+        1,
+        238,
+        0
+      ],
+      "published": "2025-08-26T16:13:01+00:00",
+      "published_parsed": [
+        2025,
+        8,
+        26,
+        16,
+        13,
+        1,
+        1,
+        238,
+        0
+      ],
+      "title": "[D] Looking for a self-hosted alternative to Modal.com for running ML workloads",
+      "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.reddit.com/r/MachineLearning/.rss",
+        "value": "[D] Looking for a self-hosted alternative to Modal.com for running ML workloads"
+      }
+    },
+    {
+      "authors": [
+        {
+          "name": "/u/snayppyfingerss",
+          "href": "https://www.reddit.com/user/snayppyfingerss"
+        }
+      ],
+      "author_detail": {
+        "name": "/u/snayppyfingerss",
+        "href": "https://www.reddit.com/user/snayppyfingerss"
+      },
+      "href": "https://www.reddit.com/user/snayppyfingerss",
+      "author": "/u/snayppyfingerss",
+      "tags": [
+        {
+          "term": "MachineLearning",
+          "scheme": null,
+          "label": "r/MachineLearning"
+        }
+      ],
+      "content": [
+        {
+          "type": "text/html",
+          "language": null,
+          "base": "https://www.reddit.com/r/MachineLearning/.rss",
+          "value": "<!-- SC_OFF --><div class=\"md\"><p>I’d love to hear your views. before building aquanode, I used runpod, vasai, and sometimes voltage park. pricing differences were obvious, but what stood out more was the lack of cloud features, integrations, and the platform lock-in.</p> <p>i’ve noticed a bunch of yc-backed projects in this space too (tensorpool, shadeform, thundercompute) - some focus on aggregation, others on specific ml workloads.</p> <p>which gpu providers have you used or are familiar with? in your experience, what mattered more cheaper pricing or stronger cloud features/integrations?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/snayppyfingerss\"> /u/snayppyfingerss </a> <br /> <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1n0oplw/d_what_gpu_providers_do_you_use_for_your_models/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1n0oplw/d_what_gpu_providers_do_you_use_for_your_models/\">[comments]</a></span>"
+        }
+      ],
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I’d love to hear your views. before building aquanode, I used runpod, vasai, and sometimes voltage park. pricing differences were obvious, but what stood out more was the lack of cloud features, integrations, and the platform lock-in.</p> <p>i’ve noticed a bunch of yc-backed projects in this space too (tensorpool, shadeform, thundercompute) - some focus on aggregation, others on specific ml workloads.</p> <p>which gpu providers have you used or are familiar with? in your experience, what mattered more cheaper pricing or stronger cloud features/integrations?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/snayppyfingerss\"> /u/snayppyfingerss </a> <br /> <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1n0oplw/d_what_gpu_providers_do_you_use_for_your_models/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1n0oplw/d_what_gpu_providers_do_you_use_for_your_models/\">[comments]</a></span>",
+      "id": "https://www.reddit.com/r/MachineLearning/t3_1n0oplw",
+      "guidislink": true,
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1n0oplw/d_what_gpu_providers_do_you_use_for_your_models/",
+      "links": [
+        {
+          "href": "https://www.reddit.com/r/MachineLearning/comments/1n0oplw/d_what_gpu_providers_do_you_use_for_your_models/",
+          "rel": "alternate",
+          "type": "text/html"
+        }
+      ],
+      "updated": "2025-08-26T15:19:29+00:00",
+      "updated_parsed": [
+        2025,
+        8,
+        26,
+        15,
+        19,
+        29,
+        1,
+        238,
+        0
+      ],
+      "published": "2025-08-26T15:19:29+00:00",
+      "published_parsed": [
+        2025,
+        8,
+        26,
+        15,
+        19,
+        29,
+        1,
+        238,
+        0
+      ],
+      "title": "[D] What GPU providers do you use for your models?",
+      "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.reddit.com/r/MachineLearning/.rss",
+        "value": "[D] What GPU providers do you use for your models?"
+      }
+    },
+    {
+      "authors": [
+        {
+          "name": "/u/Adrienkgz",
+          "href": "https://www.reddit.com/user/Adrienkgz"
+        }
+      ],
+      "author_detail": {
+        "name": "/u/Adrienkgz",
+        "href": "https://www.reddit.com/user/Adrienkgz"
+      },
+      "href": "https://www.reddit.com/user/Adrienkgz",
+      "author": "/u/Adrienkgz",
+      "tags": [
+        {
+          "term": "MachineLearning",
+          "scheme": null,
+          "label": "r/MachineLearning"
+        }
+      ],
+      "content": [
+        {
+          "type": "text/html",
+          "language": null,
+          "base": "https://www.reddit.com/r/MachineLearning/.rss",
+          "value": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone,</p> <p>A few weeks ago I shared my first preprint on a new optimizer, Ano, designed for noisy and highly non-convex environments such as deep RL. Thanks to all the feedback I received here, I’ve updated the paper: clarified the positioning, fixed some mistakes, and added an Atari benchmark to strengthen the empirical section.</p> <p>🔗 <strong>arXiv link:</strong> <a href=\"https://arxiv.org/abs/2508.18258\">https://arxiv.org/abs/2508.18258</a><br /> 📦 <strong>Install via pip:</strong> <code>pip install ano-optimizer</code><br /> 💻 <strong>Code &amp; experiments:</strong> <a href=\"https://github.com/Adrienkgz/ano-experiments\">github.com/Adrienkgz/ano-experiments</a></p> <p>Quick recap of the idea: Ano separates the momentum direction from the gradient magnitude, aiming to improve robustness and stability compared to Adam in noisy deep RL training. The updated version also includes a convergence proof in standard non-convex stochastic settings.</p> <p>This is still my first research contribution, so I’d love to hear your thoughts — whether on the method itself, the experiments, or the clarity of the writing. Any feedback, comments, or constructive criticism are very welcome 🙏</p> <p>Thanks again to everyone who took the time to give feedback last time, it really helped me make the work stronger!</p> <p>Adrien</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Adrienkgz\"> /u/Adrienkgz </a> <br /> <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1n0j8u0/d_ano_updated_optimizer_for_noisy_deep_rl_now_on/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1n0j8u0/d_ano_updated_optimizer_for_noisy_deep_rl_now_on/\">[comments]</a></span>"
+        }
+      ],
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone,</p> <p>A few weeks ago I shared my first preprint on a new optimizer, Ano, designed for noisy and highly non-convex environments such as deep RL. Thanks to all the feedback I received here, I’ve updated the paper: clarified the positioning, fixed some mistakes, and added an Atari benchmark to strengthen the empirical section.</p> <p>🔗 <strong>arXiv link:</strong> <a href=\"https://arxiv.org/abs/2508.18258\">https://arxiv.org/abs/2508.18258</a><br /> 📦 <strong>Install via pip:</strong> <code>pip install ano-optimizer</code><br /> 💻 <strong>Code &amp; experiments:</strong> <a href=\"https://github.com/Adrienkgz/ano-experiments\">github.com/Adrienkgz/ano-experiments</a></p> <p>Quick recap of the idea: Ano separates the momentum direction from the gradient magnitude, aiming to improve robustness and stability compared to Adam in noisy deep RL training. The updated version also includes a convergence proof in standard non-convex stochastic settings.</p> <p>This is still my first research contribution, so I’d love to hear your thoughts — whether on the method itself, the experiments, or the clarity of the writing. Any feedback, comments, or constructive criticism are very welcome 🙏</p> <p>Thanks again to everyone who took the time to give feedback last time, it really helped me make the work stronger!</p> <p>Adrien</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Adrienkgz\"> /u/Adrienkgz </a> <br /> <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1n0j8u0/d_ano_updated_optimizer_for_noisy_deep_rl_now_on/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1n0j8u0/d_ano_updated_optimizer_for_noisy_deep_rl_now_on/\">[comments]</a></span>",
+      "id": "https://www.reddit.com/r/MachineLearning/t3_1n0j8u0",
+      "guidislink": true,
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1n0j8u0/d_ano_updated_optimizer_for_noisy_deep_rl_now_on/",
+      "links": [
+        {
+          "href": "https://www.reddit.com/r/MachineLearning/comments/1n0j8u0/d_ano_updated_optimizer_for_noisy_deep_rl_now_on/",
+          "rel": "alternate",
+          "type": "text/html"
+        }
+      ],
+      "updated": "2025-08-26T11:28:41+00:00",
+      "updated_parsed": [
+        2025,
+        8,
+        26,
+        11,
+        28,
+        41,
+        1,
+        238,
+        0
+      ],
+      "published": "2025-08-26T11:28:41+00:00",
+      "published_parsed": [
+        2025,
+        8,
+        26,
+        11,
+        28,
+        41,
+        1,
+        238,
+        0
+      ],
+      "title": "[D] Ano: updated optimizer for noisy Deep RL — now on arXiv (feedback welcome!)",
+      "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.reddit.com/r/MachineLearning/.rss",
+        "value": "[D] Ano: updated optimizer for noisy Deep RL — now on arXiv (feedback welcome!)"
+      }
+    },
+    {
+      "authors": [
+        {
+          "name": "/u/No_Marionberry_5366",
+          "href": "https://www.reddit.com/user/No_Marionberry_5366"
+        }
+      ],
+      "author_detail": {
+        "name": "/u/No_Marionberry_5366",
+        "href": "https://www.reddit.com/user/No_Marionberry_5366"
+      },
+      "href": "",
+      "author": "/u/No_Marionberry_5366",
+      "tags": [
+        {
+          "term": "MachineLearning",
+          "scheme": null,
+          "label": "r/MachineLearning"
+        }
+      ],
+      "content": [
+        {
+          "type": "text/html",
+          "language": null,
+          "base": "https://www.reddit.com/r/MachineLearning/.rss",
+          "value": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1mzxtzb/dgepa_reflective_prompt_evolution_beats_rl_with/\"> <img alt=\"[D]GEPA: Reflective Prompt Evolution beats RL with 35× fewer rollouts\" src=\"https://a.thumbs.redditmedia.com/ZzE0bFK47D6nWWecFs3kx8o02rWkuqEVyIHcnglBV00.jpg\" title=\"[D]GEPA: Reflective Prompt Evolution beats RL with 35× fewer rollouts\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>A new preprint (Agrawal et al., 2025) introduces <strong>GEPA (Genetic-Pareto Prompt Evolution)</strong>, a method for adapting compound LLM systems. Instead of using reinforcement learning in weight space (GRPO), GEPA mutates prompts while reflecting in natural language on traces of its own rollouts.</p> <p>The results are striking:</p> <ul> <li>GEPA outperforms GRPO by up to <strong>19%</strong> while using <strong>35× fewer rollouts</strong>.</li> <li>It also consistently surpasses MIPROv2, the state-of-the-art prompt optimizer.</li> <li>In many cases, only a few hundred rollouts were sufficient, compared to tens of thousands for RL .</li> </ul> <p>The shift is conceptual as much as empirical: Where RL collapses complex trajectories into a scalar reward, GEPA treats those trajectories as <em>textual artifacts</em> that can be reflected on, diagnosed, and evolved. In doing so, it makes use of the medium in which LLMs are already most fluent, language, instead of trying to push noisy gradients through frozen weights.</p> <p>What’s interesting is the infra angle: GEPA’s success in multi-hop QA hinges on generating better second-hop queries. <strong>That implicitly elevates retrieval infrastructure Linkup, Exa, Brave Search into the optimization loop itself</strong>. Likewise, GEPA maintains a pool of Pareto-optimal prompts that must be stored, indexed, and retrieved efficiently. <strong>Vector DBs such as Chroma or Qdrant are natural substrates for this kind of evolutionary memory.</strong></p> <p>This work suggests that the real frontier may not be reinforcement learning at scale, but <strong>language-native optimization loops</strong> where reflection, retrieval, and memory form a more efficient substrate for adaptation than raw rollouts in parameter space.</p> <p><a href=\"https://preview.redd.it/5l4lcmokg7lf1.png?width=1602&amp;format=png&amp;auto=webp&amp;s=719e33f34feb5103ed1f375d3366745dd3415d77\">https://preview.redd.it/5l4lcmokg7lf1.png?width=1602&amp;format=png&amp;auto=webp&amp;s=719e33f34feb5103ed1f375d3366745dd3415d77</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/No_Marionberry_5366\"> /u/No_Marionberry_5366 </a> <br /> <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1mzxtzb/dgepa_reflective_prompt_evolution_beats_rl_with/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1mzxtzb/dgepa_reflective_prompt_evolution_beats_rl_with/\">[comments]</a></span> </td></tr></table>"
+        }
+      ],
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1mzxtzb/dgepa_reflective_prompt_evolution_beats_rl_with/\"> <img alt=\"[D]GEPA: Reflective Prompt Evolution beats RL with 35× fewer rollouts\" src=\"https://a.thumbs.redditmedia.com/ZzE0bFK47D6nWWecFs3kx8o02rWkuqEVyIHcnglBV00.jpg\" title=\"[D]GEPA: Reflective Prompt Evolution beats RL with 35× fewer rollouts\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>A new preprint (Agrawal et al., 2025) introduces <strong>GEPA (Genetic-Pareto Prompt Evolution)</strong>, a method for adapting compound LLM systems. Instead of using reinforcement learning in weight space (GRPO), GEPA mutates prompts while reflecting in natural language on traces of its own rollouts.</p> <p>The results are striking:</p> <ul> <li>GEPA outperforms GRPO by up to <strong>19%</strong> while using <strong>35× fewer rollouts</strong>.</li> <li>It also consistently surpasses MIPROv2, the state-of-the-art prompt optimizer.</li> <li>In many cases, only a few hundred rollouts were sufficient, compared to tens of thousands for RL .</li> </ul> <p>The shift is conceptual as much as empirical: Where RL collapses complex trajectories into a scalar reward, GEPA treats those trajectories as <em>textual artifacts</em> that can be reflected on, diagnosed, and evolved. In doing so, it makes use of the medium in which LLMs are already most fluent, language, instead of trying to push noisy gradients through frozen weights.</p> <p>What’s interesting is the infra angle: GEPA’s success in multi-hop QA hinges on generating better second-hop queries. <strong>That implicitly elevates retrieval infrastructure Linkup, Exa, Brave Search into the optimization loop itself</strong>. Likewise, GEPA maintains a pool of Pareto-optimal prompts that must be stored, indexed, and retrieved efficiently. <strong>Vector DBs such as Chroma or Qdrant are natural substrates for this kind of evolutionary memory.</strong></p> <p>This work suggests that the real frontier may not be reinforcement learning at scale, but <strong>language-native optimization loops</strong> where reflection, retrieval, and memory form a more efficient substrate for adaptation than raw rollouts in parameter space.</p> <p><a href=\"https://preview.redd.it/5l4lcmokg7lf1.png?width=1602&amp;format=png&amp;auto=webp&amp;s=719e33f34feb5103ed1f375d3366745dd3415d77\">https://preview.redd.it/5l4lcmokg7lf1.png?width=1602&amp;format=png&amp;auto=webp&amp;s=719e33f34feb5103ed1f375d3366745dd3415d77</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/No_Marionberry_5366\"> /u/No_Marionberry_5366 </a> <br /> <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1mzxtzb/dgepa_reflective_prompt_evolution_beats_rl_with/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1mzxtzb/dgepa_reflective_prompt_evolution_beats_rl_with/\">[comments]</a></span> </td></tr></table>",
+      "id": "https://www.reddit.com/r/MachineLearning/t3_1mzxtzb",
+      "guidislink": true,
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1mzxtzb/dgepa_reflective_prompt_evolution_beats_rl_with/",
+      "media_thumbnail": [
+        {
+          "url": "https://a.thumbs.redditmedia.com/ZzE0bFK47D6nWWecFs3kx8o02rWkuqEVyIHcnglBV00.jpg"
+        }
+      ],
+      "links": [
+        {
+          "href": "https://www.reddit.com/r/MachineLearning/comments/1mzxtzb/dgepa_reflective_prompt_evolution_beats_rl_with/",
+          "rel": "alternate",
+          "type": "text/html"
+        }
+      ],
+      "updated": "2025-08-25T18:02:33+00:00",
+      "updated_parsed": [
+        2025,
+        8,
+        25,
+        18,
+        2,
+        33,
+        0,
+        237,
+        0
+      ],
+      "published": "2025-08-25T18:02:33+00:00",
+      "published_parsed": [
+        2025,
+        8,
+        25,
+        18,
+        2,
+        33,
+        0,
+        237,
+        0
+      ],
+      "title": "[D]GEPA: Reflective Prompt Evolution beats RL with 35× fewer rollouts",
+      "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.reddit.com/r/MachineLearning/.rss",
+        "value": "[D]GEPA: Reflective Prompt Evolution beats RL with 35× fewer rollouts"
+      }
+    },
+    {
+      "authors": [
+        {
+          "name": "/u/jain-nivedit",
+          "href": "https://www.reddit.com/user/jain-nivedit"
+        }
+      ],
+      "author_detail": {
+        "name": "/u/jain-nivedit",
+        "href": "https://www.reddit.com/user/jain-nivedit"
+      },
+      "href": "https://www.reddit.com/user/jain-nivedit",
+      "author": "/u/jain-nivedit",
+      "tags": [
+        {
+          "term": "MachineLearning",
+          "scheme": null,
+          "label": "r/MachineLearning"
+        }
+      ],
+      "content": [
+        {
+          "type": "text/html",
+          "language": null,
+          "base": "https://www.reddit.com/r/MachineLearning/.rss",
+          "value": "<!-- SC_OFF --><div class=\"md\"><p>Disclosure: I am one of the authors. Links will be in the first comment per sub rules.</p> <p>TLDR<br /> We are releasing Exosphere, an open source runtime and durable state manager for agentic workflows that need dynamic branching, retries, and parallel execution. To evaluate it on a real workload, we built WhatPeopleWant, an agent that mines Hacker News discussions and posts distilled problem statements to X every 2 hours. This post shares the setup, workload design, and the ablations we are running, and invites feedback on methodology.</p> <p>Single runs are trivial. At scale you need to</p> <ol> <li>fan out across large inputs</li> <li>branch at runtime on model outputs</li> <li>retry with idempotency</li> <li>persist every step for audit and replay</li> <li>mix CPU and GPU stages</li> <li>resume after faults.</li> </ol> <p>Exosphere’s runtime treats agents like graphs with explicit state, a scheduler, and observability.</p> <p>We use WhatPeopleWant as a standing benchmark. It ingests Hacker News via the public Firebase API, scores and routes items, optionally enriches high-signal threads, and materializes candidate problem statements. The bot then posts outputs on a fixed schedule.</p> <p>• Gating high-signal discussions reduces heavy-model calls and improves tail behavior at similar quality thresholds<br /> • Durable state and idempotent nodes make partial replays predictable and minimize upstream rework after faults<br /> • Parallelism helps until external API backpressure dominates, which shows up in queue depth and wait times</p> <p>What I want feedback on<br /> • Composite metrics that capture quality, cost, and reliability for agentic graphs<br /> • Fair baselines for orchestration when branching is dynamic<br /> • Better failure-injection and replay methodologies to compare runtimes</p> <p>First comment with links</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/jain-nivedit\"> /u/jain-nivedit </a> <br /> <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1n0eyrb/p_exosphere_an_open_source_runtime_for_dynamic/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1n0eyrb/p_exosphere_an_open_source_runtime_for_dynamic/\">[comments]</a></span>"
+        }
+      ],
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Disclosure: I am one of the authors. Links will be in the first comment per sub rules.</p> <p>TLDR<br /> We are releasing Exosphere, an open source runtime and durable state manager for agentic workflows that need dynamic branching, retries, and parallel execution. To evaluate it on a real workload, we built WhatPeopleWant, an agent that mines Hacker News discussions and posts distilled problem statements to X every 2 hours. This post shares the setup, workload design, and the ablations we are running, and invites feedback on methodology.</p> <p>Single runs are trivial. At scale you need to</p> <ol> <li>fan out across large inputs</li> <li>branch at runtime on model outputs</li> <li>retry with idempotency</li> <li>persist every step for audit and replay</li> <li>mix CPU and GPU stages</li> <li>resume after faults.</li> </ol> <p>Exosphere’s runtime treats agents like graphs with explicit state, a scheduler, and observability.</p> <p>We use WhatPeopleWant as a standing benchmark. It ingests Hacker News via the public Firebase API, scores and routes items, optionally enriches high-signal threads, and materializes candidate problem statements. The bot then posts outputs on a fixed schedule.</p> <p>• Gating high-signal discussions reduces heavy-model calls and improves tail behavior at similar quality thresholds<br /> • Durable state and idempotent nodes make partial replays predictable and minimize upstream rework after faults<br /> • Parallelism helps until external API backpressure dominates, which shows up in queue depth and wait times</p> <p>What I want feedback on<br /> • Composite metrics that capture quality, cost, and reliability for agentic graphs<br /> • Fair baselines for orchestration when branching is dynamic<br /> • Better failure-injection and replay methodologies to compare runtimes</p> <p>First comment with links</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/jain-nivedit\"> /u/jain-nivedit </a> <br /> <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1n0eyrb/p_exosphere_an_open_source_runtime_for_dynamic/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1n0eyrb/p_exosphere_an_open_source_runtime_for_dynamic/\">[comments]</a></span>",
+      "id": "https://www.reddit.com/r/MachineLearning/t3_1n0eyrb",
+      "guidislink": true,
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1n0eyrb/p_exosphere_an_open_source_runtime_for_dynamic/",
+      "links": [
+        {
+          "href": "https://www.reddit.com/r/MachineLearning/comments/1n0eyrb/p_exosphere_an_open_source_runtime_for_dynamic/",
+          "rel": "alternate",
+          "type": "text/html"
+        }
+      ],
+      "updated": "2025-08-26T07:02:17+00:00",
+      "updated_parsed": [
+        2025,
+        8,
+        26,
+        7,
+        2,
+        17,
+        1,
+        238,
+        0
+      ],
+      "published": "2025-08-26T07:02:17+00:00",
+      "published_parsed": [
+        2025,
+        8,
+        26,
+        7,
+        2,
+        17,
+        1,
+        238,
+        0
+      ],
+      "title": "[P] Exosphere: an open source runtime for dynamic agentic graphs with durable state. results from running parallel agents on 20k+ items",
+      "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.reddit.com/r/MachineLearning/.rss",
+        "value": "[P] Exosphere: an open source runtime for dynamic agentic graphs with durable state. results from running parallel agents on 20k+ items"
+      }
+    },
+    {
+      "authors": [
+        {
+          "name": "/u/SwissMountaineer",
+          "href": "https://www.reddit.com/user/SwissMountaineer"
+        }
+      ],
+      "author_detail": {
+        "name": "/u/SwissMountaineer",
+        "href": "https://www.reddit.com/user/SwissMountaineer"
+      },
+      "href": "https://www.reddit.com/user/SwissMountaineer",
+      "author": "/u/SwissMountaineer",
+      "tags": [
+        {
+          "term": "MachineLearning",
+          "scheme": null,
+          "label": "r/MachineLearning"
+        }
+      ],
+      "content": [
+        {
+          "type": "text/html",
+          "language": null,
+          "base": "https://www.reddit.com/r/MachineLearning/.rss",
+          "value": "<!-- SC_OFF --><div class=\"md\"><p>Hi!</p> <p>I'll be starting a PhD in ML for Robotics (RL, Sensor Fusion etc.) and was wondering which laptop would be best to support me throughout the next 4 years. I am looking for a powerful laptop, with good battery life, not too heavy and that is robust.</p> <p>My budget is $3000.</p> <p>So far, I have identified the following laptops, but am unsure which would be the best choice.</p> <p>- <strong>Razer Blade 16</strong> (either RTX 5070 Ti + 32GB RAM ($3100) or RTX 5080 + 64GB ($4050)): apart from battery life which is not the most ideal, would I see a significant difference when running RL simulations (IsaacGym) or large multimodal (video, imu, ...) ML models between both configurations? Price difference between both configurations is ~$850 (with taxes) which is significant.</p> <p>- <strong>MSI Vector 16 HX AI</strong> (RTX 5080, 64 GB) - $2600</p> <p>- <strong>ThinkPad P1 Gen 7</strong> (RTX Ada 3000, 64GB) - $3200: has a good battery life, but its GPU is Ada series, which is not the best for RL simulations.</p> <p>- <strong>Legion Pro 7i Gen10</strong> (RTX 5080, 32GB) - $3100: the legions are usually very heavy laptops.</p> <p>Essentially, I am looking for a laptop that will be somewhat future-proof to the fast pace of new GPUs coming out, is powerful for my intended use (RL simulations + ML sensor fusion), has a good battery life (for note-taking in courses) and easily transportable (ie. neither too bulky nor heavy). Also, do I require RTX 5080 (recommended for IsaacSim) as GPU, and how big a diffference is 32GB vs 64GB RAM?</p> <p>Thank you in advance for any suggestions or feedback!</p> <p>EDIT: I have access to cluster, but thought having powerful laptop could be useful when running real-time inference on robot + working with smaller models / testing out stuff before training on cluster.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/SwissMountaineer\"> /u/SwissMountaineer </a> <br /> <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1n0zndc/d_laptop_suggestion_for_phd_in_ml_for_robotics/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1n0zndc/d_laptop_suggestion_for_phd_in_ml_for_robotics/\">[comments]</a></span>"
+        }
+      ],
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi!</p> <p>I'll be starting a PhD in ML for Robotics (RL, Sensor Fusion etc.) and was wondering which laptop would be best to support me throughout the next 4 years. I am looking for a powerful laptop, with good battery life, not too heavy and that is robust.</p> <p>My budget is $3000.</p> <p>So far, I have identified the following laptops, but am unsure which would be the best choice.</p> <p>- <strong>Razer Blade 16</strong> (either RTX 5070 Ti + 32GB RAM ($3100) or RTX 5080 + 64GB ($4050)): apart from battery life which is not the most ideal, would I see a significant difference when running RL simulations (IsaacGym) or large multimodal (video, imu, ...) ML models between both configurations? Price difference between both configurations is ~$850 (with taxes) which is significant.</p> <p>- <strong>MSI Vector 16 HX AI</strong> (RTX 5080, 64 GB) - $2600</p> <p>- <strong>ThinkPad P1 Gen 7</strong> (RTX Ada 3000, 64GB) - $3200: has a good battery life, but its GPU is Ada series, which is not the best for RL simulations.</p> <p>- <strong>Legion Pro 7i Gen10</strong> (RTX 5080, 32GB) - $3100: the legions are usually very heavy laptops.</p> <p>Essentially, I am looking for a laptop that will be somewhat future-proof to the fast pace of new GPUs coming out, is powerful for my intended use (RL simulations + ML sensor fusion), has a good battery life (for note-taking in courses) and easily transportable (ie. neither too bulky nor heavy). Also, do I require RTX 5080 (recommended for IsaacSim) as GPU, and how big a diffference is 32GB vs 64GB RAM?</p> <p>Thank you in advance for any suggestions or feedback!</p> <p>EDIT: I have access to cluster, but thought having powerful laptop could be useful when running real-time inference on robot + working with smaller models / testing out stuff before training on cluster.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/SwissMountaineer\"> /u/SwissMountaineer </a> <br /> <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1n0zndc/d_laptop_suggestion_for_phd_in_ml_for_robotics/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1n0zndc/d_laptop_suggestion_for_phd_in_ml_for_robotics/\">[comments]</a></span>",
+      "id": "https://www.reddit.com/r/MachineLearning/t3_1n0zndc",
+      "guidislink": true,
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1n0zndc/d_laptop_suggestion_for_phd_in_ml_for_robotics/",
+      "links": [
+        {
+          "href": "https://www.reddit.com/r/MachineLearning/comments/1n0zndc/d_laptop_suggestion_for_phd_in_ml_for_robotics/",
+          "rel": "alternate",
+          "type": "text/html"
+        }
+      ],
+      "updated": "2025-08-26T22:15:24+00:00",
+      "updated_parsed": [
+        2025,
+        8,
+        26,
+        22,
+        15,
+        24,
+        1,
+        238,
+        0
+      ],
+      "published": "2025-08-26T22:15:24+00:00",
+      "published_parsed": [
+        2025,
+        8,
+        26,
+        22,
+        15,
+        24,
+        1,
+        238,
+        0
+      ],
+      "title": "[D] Laptop Suggestion for PhD in ML for Robotics",
+      "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.reddit.com/r/MachineLearning/.rss",
+        "value": "[D] Laptop Suggestion for PhD in ML for Robotics"
+      }
+    },
+    {
+      "authors": [
+        {
+          "name": "/u/BriefAd4761",
+          "href": "https://www.reddit.com/user/BriefAd4761"
+        }
+      ],
+      "author_detail": {
+        "name": "/u/BriefAd4761",
+        "href": "https://www.reddit.com/user/BriefAd4761"
+      },
+      "href": "https://www.reddit.com/user/BriefAd4761",
+      "author": "/u/BriefAd4761",
+      "tags": [
+        {
+          "term": "MachineLearning",
+          "scheme": null,
+          "label": "r/MachineLearning"
+        }
+      ],
+      "content": [
+        {
+          "type": "text/html",
+          "language": null,
+          "base": "https://www.reddit.com/r/MachineLearning/.rss",
+          "value": "<!-- SC_OFF --><div class=\"md\"><p>Most AI dev tools today are aimed at web/app developers, but embedded engineers spend their lives in serial consoles, kernel logs, JTAG/RTOS debuggers.</p> <p>I’ve been exploring whether an AI-first CLI assistant could be useful in that space. </p> <p>Imagine a tool that:</p> <ul> <li>Connects over serial and interacts with the board inline</li> <li>Uses documentation (TRMs, datasheets, kernel docs) as context for Q&amp;A</li> <li>Parses kernel logs and suggests relevant commands/debugging steps</li> <li>Runs tools on the target and analyzes outputs</li> </ul> <p>Here’s a small prototype I tried:</p> <ul> <li>Here’s a small prototype I tried:</li> <li>GitHub: <a href=\"https://github.com/Ravi-Teja-konda/kernel_chat\">kernel_chat</a></li> <li>Short demo: <a href=\"https://youtu.be/2kZJUMfhygE\">YouTube link</a></li> </ul> <p><a href=\"https://youtu.be/2kZJUMfhygE\"></a><br /> Discussion points</p> <ol> <li>Have you tried using AI tools (Copilot, ChatGPT, etc.) for embedded development? <ul> <li>Did they help with debugging or low-level tasks, or mostly get in the way?</li> </ul></li> <li><strong>For model choice:</strong> Should we try to <strong>fine-tune small local models</strong> (PC/edge-deployed), or just rely on <strong>API-based LLMs</strong> for these tasks?</li> <li><strong>Scalability:</strong> Could this realistically grow into something practical (e.g., OpenOCD/JTAG integration, RTOS log analysis), or is embedded too niche for AI assistance to matter long term?</li> </ol> <p>Curious to hear from others who work with <strong>embedded Linux + ML</strong> — do you see potential here ?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/BriefAd4761\"> /u/BriefAd4761 </a> <br /> <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1n0k5xq/d_kernel_chat_can_an_aipowered_cli_actually_help/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1n0k5xq/d_kernel_chat_can_an_aipowered_cli_actually_help/\">[comments]</a></span>"
+        }
+      ],
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Most AI dev tools today are aimed at web/app developers, but embedded engineers spend their lives in serial consoles, kernel logs, JTAG/RTOS debuggers.</p> <p>I’ve been exploring whether an AI-first CLI assistant could be useful in that space. </p> <p>Imagine a tool that:</p> <ul> <li>Connects over serial and interacts with the board inline</li> <li>Uses documentation (TRMs, datasheets, kernel docs) as context for Q&amp;A</li> <li>Parses kernel logs and suggests relevant commands/debugging steps</li> <li>Runs tools on the target and analyzes outputs</li> </ul> <p>Here’s a small prototype I tried:</p> <ul> <li>Here’s a small prototype I tried:</li> <li>GitHub: <a href=\"https://github.com/Ravi-Teja-konda/kernel_chat\">kernel_chat</a></li> <li>Short demo: <a href=\"https://youtu.be/2kZJUMfhygE\">YouTube link</a></li> </ul> <p><a href=\"https://youtu.be/2kZJUMfhygE\"></a><br /> Discussion points</p> <ol> <li>Have you tried using AI tools (Copilot, ChatGPT, etc.) for embedded development? <ul> <li>Did they help with debugging or low-level tasks, or mostly get in the way?</li> </ul></li> <li><strong>For model choice:</strong> Should we try to <strong>fine-tune small local models</strong> (PC/edge-deployed), or just rely on <strong>API-based LLMs</strong> for these tasks?</li> <li><strong>Scalability:</strong> Could this realistically grow into something practical (e.g., OpenOCD/JTAG integration, RTOS log analysis), or is embedded too niche for AI assistance to matter long term?</li> </ol> <p>Curious to hear from others who work with <strong>embedded Linux + ML</strong> — do you see potential here ?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/BriefAd4761\"> /u/BriefAd4761 </a> <br /> <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1n0k5xq/d_kernel_chat_can_an_aipowered_cli_actually_help/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1n0k5xq/d_kernel_chat_can_an_aipowered_cli_actually_help/\">[comments]</a></span>",
+      "id": "https://www.reddit.com/r/MachineLearning/t3_1n0k5xq",
+      "guidislink": true,
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1n0k5xq/d_kernel_chat_can_an_aipowered_cli_actually_help/",
+      "links": [
+        {
+          "href": "https://www.reddit.com/r/MachineLearning/comments/1n0k5xq/d_kernel_chat_can_an_aipowered_cli_actually_help/",
+          "rel": "alternate",
+          "type": "text/html"
+        }
+      ],
+      "updated": "2025-08-26T12:13:51+00:00",
+      "updated_parsed": [
+        2025,
+        8,
+        26,
+        12,
+        13,
+        51,
+        1,
+        238,
+        0
+      ],
+      "published": "2025-08-26T12:13:51+00:00",
+      "published_parsed": [
+        2025,
+        8,
+        26,
+        12,
+        13,
+        51,
+        1,
+        238,
+        0
+      ],
+      "title": "[D] kernel_chat — Can an AI-powered CLI actually help Embedded Linux workflows?",
+      "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.reddit.com/r/MachineLearning/.rss",
+        "value": "[D] kernel_chat — Can an AI-powered CLI actually help Embedded Linux workflows?"
+      }
+    },
+    {
+      "authors": [
+        {
+          "name": "/u/Blackliquid",
+          "href": "https://www.reddit.com/user/Blackliquid"
+        }
+      ],
+      "author_detail": {
+        "name": "/u/Blackliquid",
+        "href": "https://www.reddit.com/user/Blackliquid"
+      },
+      "href": "https://www.reddit.com/user/Blackliquid",
+      "author": "/u/Blackliquid",
+      "tags": [
+        {
+          "term": "MachineLearning",
+          "scheme": null,
+          "label": "r/MachineLearning"
+        }
+      ],
+      "content": [
+        {
+          "type": "text/html",
+          "language": null,
+          "base": "https://www.reddit.com/r/MachineLearning/.rss",
+          "value": "<!-- SC_OFF --><div class=\"md\"><p>Hello researchers,</p> <p>I am familiar with common basic approaches to quantization, but after a recent interview, I wonder what the current SOTA approaches are, which are actually used in industry.</p> <p>Thanks for the discussion!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Blackliquid\"> /u/Blackliquid </a> <br /> <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1n0h48h/d_sota_solution_for_quantization/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1n0h48h/d_sota_solution_for_quantization/\">[comments]</a></span>"
+        }
+      ],
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hello researchers,</p> <p>I am familiar with common basic approaches to quantization, but after a recent interview, I wonder what the current SOTA approaches are, which are actually used in industry.</p> <p>Thanks for the discussion!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Blackliquid\"> /u/Blackliquid </a> <br /> <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1n0h48h/d_sota_solution_for_quantization/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1n0h48h/d_sota_solution_for_quantization/\">[comments]</a></span>",
+      "id": "https://www.reddit.com/r/MachineLearning/t3_1n0h48h",
+      "guidislink": true,
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1n0h48h/d_sota_solution_for_quantization/",
+      "links": [
+        {
+          "href": "https://www.reddit.com/r/MachineLearning/comments/1n0h48h/d_sota_solution_for_quantization/",
+          "rel": "alternate",
+          "type": "text/html"
+        }
+      ],
+      "updated": "2025-08-26T09:24:50+00:00",
+      "updated_parsed": [
+        2025,
+        8,
+        26,
+        9,
+        24,
+        50,
+        1,
+        238,
+        0
+      ],
+      "published": "2025-08-26T09:24:50+00:00",
+      "published_parsed": [
+        2025,
+        8,
+        26,
+        9,
+        24,
+        50,
+        1,
+        238,
+        0
+      ],
+      "title": "[D] SOTA solution for quantization",
+      "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.reddit.com/r/MachineLearning/.rss",
+        "value": "[D] SOTA solution for quantization"
+      }
+    },
+    {
+      "authors": [
+        {
+          "name": "/u/Total_Noise1934",
+          "href": "https://www.reddit.com/user/Total_Noise1934"
+        }
+      ],
+      "author_detail": {
+        "name": "/u/Total_Noise1934",
+        "href": "https://www.reddit.com/user/Total_Noise1934"
+      },
+      "href": "https://www.reddit.com/user/Total_Noise1934",
+      "author": "/u/Total_Noise1934",
+      "tags": [
+        {
+          "term": "MachineLearning",
+          "scheme": null,
+          "label": "r/MachineLearning"
+        }
+      ],
+      "content": [
+        {
+          "type": "text/html",
+          "language": null,
+          "base": "https://www.reddit.com/r/MachineLearning/.rss",
+          "value": "<!-- SC_OFF --><div class=\"md\"><p>I built a spam vs ham classifier and wanted to test a different angle: instead of just oversampling with SMOTE, could <strong>feature engineering</strong> help combat extreme class imbalance?</p> <p><strong>Setup:</strong></p> <ul> <li>Models: Naïve Bayes &amp; Logistic Regression</li> <li>Tested with and without SMOTE</li> <li>Stress-tested on 2 synthetic datasets (one “normal but imbalanced,” one “adversarial” to mimic threat actors)</li> </ul> <p><strong>Results:</strong></p> <ul> <li>Logistic Regression → <strong>97% F1</strong> on training data</li> <li>New imbalanced dataset → Logistic still best at <strong>75% F1</strong></li> <li>Adversarial dataset → <strong>Naïve Bayes</strong> surprisingly outperformed with <strong>60% F1</strong></li> </ul> <p><strong>Takeaway:</strong> Feature engineering can mitigate class imbalance (sometimes rivaling SMOTE), but adversarial robustness is still a big challenge.</p> <p>Code + demo:<br /> 🔗 <a href=\"https://phishdetective.streamlit.app/\">PhishDetective · Streamlit</a><br /> 🔗 <a href=\"https://github.com/ahardwick95/Spam-Classifier/tree/main\">ahardwick95/Spam-Classifier: Streamlit application that classifies whether a message is spam or ham.</a></p> <p>Curious — when you deal with <strong>imbalanced NLP tasks</strong>, do you prefer resampling, cost-sensitive learning, or heavy feature engineering?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Total_Noise1934\"> /u/Total_Noise1934 </a> <br /> <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1n0jxbk/p_spam_vs_ham_nlp_classifier_feature_engineering/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1n0jxbk/p_spam_vs_ham_nlp_classifier_feature_engineering/\">[comments]</a></span>"
+        }
+      ],
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I built a spam vs ham classifier and wanted to test a different angle: instead of just oversampling with SMOTE, could <strong>feature engineering</strong> help combat extreme class imbalance?</p> <p><strong>Setup:</strong></p> <ul> <li>Models: Naïve Bayes &amp; Logistic Regression</li> <li>Tested with and without SMOTE</li> <li>Stress-tested on 2 synthetic datasets (one “normal but imbalanced,” one “adversarial” to mimic threat actors)</li> </ul> <p><strong>Results:</strong></p> <ul> <li>Logistic Regression → <strong>97% F1</strong> on training data</li> <li>New imbalanced dataset → Logistic still best at <strong>75% F1</strong></li> <li>Adversarial dataset → <strong>Naïve Bayes</strong> surprisingly outperformed with <strong>60% F1</strong></li> </ul> <p><strong>Takeaway:</strong> Feature engineering can mitigate class imbalance (sometimes rivaling SMOTE), but adversarial robustness is still a big challenge.</p> <p>Code + demo:<br /> 🔗 <a href=\"https://phishdetective.streamlit.app/\">PhishDetective · Streamlit</a><br /> 🔗 <a href=\"https://github.com/ahardwick95/Spam-Classifier/tree/main\">ahardwick95/Spam-Classifier: Streamlit application that classifies whether a message is spam or ham.</a></p> <p>Curious — when you deal with <strong>imbalanced NLP tasks</strong>, do you prefer resampling, cost-sensitive learning, or heavy feature engineering?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Total_Noise1934\"> /u/Total_Noise1934 </a> <br /> <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1n0jxbk/p_spam_vs_ham_nlp_classifier_feature_engineering/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1n0jxbk/p_spam_vs_ham_nlp_classifier_feature_engineering/\">[comments]</a></span>",
+      "id": "https://www.reddit.com/r/MachineLearning/t3_1n0jxbk",
+      "guidislink": true,
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1n0jxbk/p_spam_vs_ham_nlp_classifier_feature_engineering/",
+      "links": [
+        {
+          "href": "https://www.reddit.com/r/MachineLearning/comments/1n0jxbk/p_spam_vs_ham_nlp_classifier_feature_engineering/",
+          "rel": "alternate",
+          "type": "text/html"
+        }
+      ],
+      "updated": "2025-08-26T12:02:41+00:00",
+      "updated_parsed": [
+        2025,
+        8,
+        26,
+        12,
+        2,
+        41,
+        1,
+        238,
+        0
+      ],
+      "published": "2025-08-26T12:02:41+00:00",
+      "published_parsed": [
+        2025,
+        8,
+        26,
+        12,
+        2,
+        41,
+        1,
+        238,
+        0
+      ],
+      "title": "[P] Spam vs. Ham NLP Classifier – Feature Engineering vs. Resampling",
+      "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.reddit.com/r/MachineLearning/.rss",
+        "value": "[P] Spam vs. Ham NLP Classifier – Feature Engineering vs. Resampling"
+      }
+    },
+    {
+      "authors": [
+        {
+          "name": "/u/AntreasAntoniou",
+          "href": "https://www.reddit.com/user/AntreasAntoniou"
+        }
+      ],
+      "author_detail": {
+        "name": "/u/AntreasAntoniou",
+        "href": "https://www.reddit.com/user/AntreasAntoniou"
+      },
+      "href": "https://www.reddit.com/user/AntreasAntoniou",
+      "author": "/u/AntreasAntoniou",
+      "tags": [
+        {
+          "term": "MachineLearning",
+          "scheme": null,
+          "label": "r/MachineLearning"
+        }
+      ],
+      "content": [
+        {
+          "type": "text/html",
+          "language": null,
+          "base": "https://www.reddit.com/r/MachineLearning/.rss",
+          "value": "<!-- SC_OFF --><div class=\"md\"><p>Dear <a href=\"https://www.reddit.com/r/MachineLearning/\">r/MachineLearning</a> friends,</p> <p>Hello everyone! I hope you are all doing well out there.</p> <p>I've been observing a pattern in the AI research field that I can only describe as a &quot;Mass Amnesia.&quot; It seems we're forgetting the valuable research paths we were on before the ChatGPT moment.</p> <p>In my latest blog post, I argue that while scaling up LLMs was initially a courageous endeavour, the current obsession and monoculture around it is actively keeping us stuck. Instead of building on a diverse set of ideas, we're chasing a single approach, which I believe is making us amnesiacs about what came before and what's possible.</p> <p>I'd love for you to read my spicy takes and share your own. Let's tear my arguments and ideas apart. ;)</p> <p>🔗 <strong>Full Article:</strong><a href=\"https://pieces.app/blog/the-cost-of-ai-scaling\">https://pieces.app/blog/the-cost-of-ai-scaling</a></p> <p>I look forward to your arguments and thoughts.</p> <p>Regards,</p> <p>Antreas</p> <p>PS. This is a repost of <a href=\"https://www.reddit.com/r/MachineLearning/comments/1mu28xl/d_too_much_of_a_good_thing_how_chasing_scale_is/\">https://www.reddit.com/r/MachineLearning/comments/1mu28xl/d_too_much_of_a_good_thing_how_chasing_scale_is/</a> because it was removed without any explanation and the mods never replied to my queries on what was done wrong and how I could modify the post so it would abide by whatever rule I inadvertently tripped on. </p> <p>The post was starting to get some real discussion going when it was removed and wanted to give this another chance as I want to hear what everyone has to say and engage in discourse. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AntreasAntoniou\"> /u/AntreasAntoniou </a> <br /> <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1mzsrt2/d_too_much_of_a_good_thing_how_chasing_scale_is/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1mzsrt2/d_too_much_of_a_good_thing_how_chasing_scale_is/\">[comments]</a></span>"
+        }
+      ],
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Dear <a href=\"https://www.reddit.com/r/MachineLearning/\">r/MachineLearning</a> friends,</p> <p>Hello everyone! I hope you are all doing well out there.</p> <p>I've been observing a pattern in the AI research field that I can only describe as a &quot;Mass Amnesia.&quot; It seems we're forgetting the valuable research paths we were on before the ChatGPT moment.</p> <p>In my latest blog post, I argue that while scaling up LLMs was initially a courageous endeavour, the current obsession and monoculture around it is actively keeping us stuck. Instead of building on a diverse set of ideas, we're chasing a single approach, which I believe is making us amnesiacs about what came before and what's possible.</p> <p>I'd love for you to read my spicy takes and share your own. Let's tear my arguments and ideas apart. ;)</p> <p>🔗 <strong>Full Article:</strong><a href=\"https://pieces.app/blog/the-cost-of-ai-scaling\">https://pieces.app/blog/the-cost-of-ai-scaling</a></p> <p>I look forward to your arguments and thoughts.</p> <p>Regards,</p> <p>Antreas</p> <p>PS. This is a repost of <a href=\"https://www.reddit.com/r/MachineLearning/comments/1mu28xl/d_too_much_of_a_good_thing_how_chasing_scale_is/\">https://www.reddit.com/r/MachineLearning/comments/1mu28xl/d_too_much_of_a_good_thing_how_chasing_scale_is/</a> because it was removed without any explanation and the mods never replied to my queries on what was done wrong and how I could modify the post so it would abide by whatever rule I inadvertently tripped on. </p> <p>The post was starting to get some real discussion going when it was removed and wanted to give this another chance as I want to hear what everyone has to say and engage in discourse. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AntreasAntoniou\"> /u/AntreasAntoniou </a> <br /> <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1mzsrt2/d_too_much_of_a_good_thing_how_chasing_scale_is/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1mzsrt2/d_too_much_of_a_good_thing_how_chasing_scale_is/\">[comments]</a></span>",
+      "id": "https://www.reddit.com/r/MachineLearning/t3_1mzsrt2",
+      "guidislink": true,
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1mzsrt2/d_too_much_of_a_good_thing_how_chasing_scale_is/",
+      "links": [
+        {
+          "href": "https://www.reddit.com/r/MachineLearning/comments/1mzsrt2/d_too_much_of_a_good_thing_how_chasing_scale_is/",
+          "rel": "alternate",
+          "type": "text/html"
+        }
+      ],
+      "updated": "2025-08-25T14:58:08+00:00",
+      "updated_parsed": [
+        2025,
+        8,
+        25,
+        14,
+        58,
+        8,
+        0,
+        237,
+        0
+      ],
+      "published": "2025-08-25T14:58:08+00:00",
+      "published_parsed": [
+        2025,
+        8,
+        25,
+        14,
+        58,
+        8,
+        0,
+        237,
+        0
+      ],
+      "title": "[D] Too much of a good thing: how chasing scale is stifling AI innovation",
+      "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.reddit.com/r/MachineLearning/.rss",
+        "value": "[D] Too much of a good thing: how chasing scale is stifling AI innovation"
+      }
+    },
+    {
+      "authors": [
+        {
+          "name": "/u/Tesocrat",
+          "href": "https://www.reddit.com/user/Tesocrat"
+        }
+      ],
+      "author_detail": {
+        "name": "/u/Tesocrat",
+        "href": "https://www.reddit.com/user/Tesocrat"
+      },
+      "href": "https://www.reddit.com/user/Tesocrat",
+      "author": "/u/Tesocrat",
+      "tags": [
+        {
+          "term": "MachineLearning",
+          "scheme": null,
+          "label": "r/MachineLearning"
+        }
+      ],
+      "content": [
+        {
+          "type": "text/html",
+          "language": null,
+          "base": "https://www.reddit.com/r/MachineLearning/.rss",
+          "value": "<!-- SC_OFF --><div class=\"md\"><p>For those working in AI/ML, how do you keep your teams agile when project goals or data requirements shift halfway through a project? I’ve seen situations where a model was nearly production-ready, but then stakeholders introduced new objectives or the data pipeline changed, forcing big pivots.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Tesocrat\"> /u/Tesocrat </a> <br /> <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1n0e7s1/dhow_can_ai_teams_stay_agile_and_adaptable_when/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1n0e7s1/dhow_can_ai_teams_stay_agile_and_adaptable_when/\">[comments]</a></span>"
+        }
+      ],
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>For those working in AI/ML, how do you keep your teams agile when project goals or data requirements shift halfway through a project? I’ve seen situations where a model was nearly production-ready, but then stakeholders introduced new objectives or the data pipeline changed, forcing big pivots.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Tesocrat\"> /u/Tesocrat </a> <br /> <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1n0e7s1/dhow_can_ai_teams_stay_agile_and_adaptable_when/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1n0e7s1/dhow_can_ai_teams_stay_agile_and_adaptable_when/\">[comments]</a></span>",
+      "id": "https://www.reddit.com/r/MachineLearning/t3_1n0e7s1",
+      "guidislink": true,
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1n0e7s1/dhow_can_ai_teams_stay_agile_and_adaptable_when/",
+      "links": [
+        {
+          "href": "https://www.reddit.com/r/MachineLearning/comments/1n0e7s1/dhow_can_ai_teams_stay_agile_and_adaptable_when/",
+          "rel": "alternate",
+          "type": "text/html"
+        }
+      ],
+      "updated": "2025-08-26T06:13:49+00:00",
+      "updated_parsed": [
+        2025,
+        8,
+        26,
+        6,
+        13,
+        49,
+        1,
+        238,
+        0
+      ],
+      "published": "2025-08-26T06:13:49+00:00",
+      "published_parsed": [
+        2025,
+        8,
+        26,
+        6,
+        13,
+        49,
+        1,
+        238,
+        0
+      ],
+      "title": "[D]How can AI teams stay agile and adaptable when project goals or data requirements change midstream?",
+      "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.reddit.com/r/MachineLearning/.rss",
+        "value": "[D]How can AI teams stay agile and adaptable when project goals or data requirements change midstream?"
+      }
+    },
+    {
+      "authors": [
+        {
+          "name": "/u/alexsht1",
+          "href": "https://www.reddit.com/user/alexsht1"
+        }
+      ],
+      "author_detail": {
+        "name": "/u/alexsht1",
+        "href": "https://www.reddit.com/user/alexsht1"
+      },
+      "href": "https://www.reddit.com/user/alexsht1",
+      "author": "/u/alexsht1",
+      "tags": [
+        {
+          "term": "MachineLearning",
+          "scheme": null,
+          "label": "r/MachineLearning"
+        }
+      ],
+      "content": [
+        {
+          "type": "text/html",
+          "language": null,
+          "base": "https://www.reddit.com/r/MachineLearning/.rss",
+          "value": "<!-- SC_OFF --><div class=\"md\"><p>For some time I've been fascinated by adopting knowledge from approximation theory into ML feature engineering, and I'm sharing my learnings in a series of blog posts, mainly about various polynomial bases as features.</p> <p>So here is the latest one: <a href=\"https://alexshtf.github.io/2025/08/19/Orthogonality.html\">https://alexshtf.github.io/2025/08/19/Orthogonality.html</a></p> <p>It discusses my understanding of orthogonal bases as informative feature generators. I hope you enjoy reading as I enjoy learning about it.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/alexsht1\"> /u/alexsht1 </a> <br /> <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1mzmrm5/p_aligning_nonlinear_features_with_your_data/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1mzmrm5/p_aligning_nonlinear_features_with_your_data/\">[comments]</a></span>"
+        }
+      ],
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>For some time I've been fascinated by adopting knowledge from approximation theory into ML feature engineering, and I'm sharing my learnings in a series of blog posts, mainly about various polynomial bases as features.</p> <p>So here is the latest one: <a href=\"https://alexshtf.github.io/2025/08/19/Orthogonality.html\">https://alexshtf.github.io/2025/08/19/Orthogonality.html</a></p> <p>It discusses my understanding of orthogonal bases as informative feature generators. I hope you enjoy reading as I enjoy learning about it.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/alexsht1\"> /u/alexsht1 </a> <br /> <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1mzmrm5/p_aligning_nonlinear_features_with_your_data/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1mzmrm5/p_aligning_nonlinear_features_with_your_data/\">[comments]</a></span>",
+      "id": "https://www.reddit.com/r/MachineLearning/t3_1mzmrm5",
+      "guidislink": true,
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1mzmrm5/p_aligning_nonlinear_features_with_your_data/",
+      "links": [
+        {
+          "href": "https://www.reddit.com/r/MachineLearning/comments/1mzmrm5/p_aligning_nonlinear_features_with_your_data/",
+          "rel": "alternate",
+          "type": "text/html"
+        }
+      ],
+      "updated": "2025-08-25T10:25:38+00:00",
+      "updated_parsed": [
+        2025,
+        8,
+        25,
+        10,
+        25,
+        38,
+        0,
+        237,
+        0
+      ],
+      "published": "2025-08-25T10:25:38+00:00",
+      "published_parsed": [
+        2025,
+        8,
+        25,
+        10,
+        25,
+        38,
+        0,
+        237,
+        0
+      ],
+      "title": "[P] aligning non-linear features with your data distribution",
+      "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.reddit.com/r/MachineLearning/.rss",
+        "value": "[P] aligning non-linear features with your data distribution"
+      }
+    },
+    {
+      "authors": [
+        {
+          "name": "/u/feller94",
+          "href": "https://www.reddit.com/user/feller94"
+        }
+      ],
+      "author_detail": {
+        "name": "/u/feller94",
+        "href": "https://www.reddit.com/user/feller94"
+      },
+      "href": "https://www.reddit.com/user/feller94",
+      "author": "/u/feller94",
+      "tags": [
+        {
+          "term": "MachineLearning",
+          "scheme": null,
+          "label": "r/MachineLearning"
+        }
+      ],
+      "content": [
+        {
+          "type": "text/html",
+          "language": null,
+          "base": "https://www.reddit.com/r/MachineLearning/.rss",
+          "value": "<!-- SC_OFF --><div class=\"md\"><p>Hi all!<br /> I'm drafting an app with pose detection (currently using <strong>MediaPipe</strong>) and object detection (early <strong>Yolo11</strong>). Since I cannot run these models on the phone itself, I'm developing the backend separately to be deployed somewhere, to then <em>call it from the app when needed</em>.<br /> Basically I would need a <strong>GPU-based backend</strong> (I can also divide the detections and the actual result usage).</p> <p>Now, I know about <em>HuggingFace</em> of course and I've seen a lot of other hosting platforms, but I wanted to ask if you have any suggestions in this regards?<br /> I think I might want to release it as free, or for a one-time low cost (if the costs are too high to support myself), but I also do not know how widespread it can be... You know, either useful and loved or unknown to most.<br /> The trick is that, since I would need the APIs always ready to respond, the backend would need to be up and <em>running 24/7</em>. All of the options seem to be quite costly...</p> <p>Is there any better or worse way to do this?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/feller94\"> /u/feller94 </a> <br /> <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1n00ruv/p_gpubased_backend_deployment_for_an_app/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1n00ruv/p_gpubased_backend_deployment_for_an_app/\">[comments]</a></span>"
+        }
+      ],
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi all!<br /> I'm drafting an app with pose detection (currently using <strong>MediaPipe</strong>) and object detection (early <strong>Yolo11</strong>). Since I cannot run these models on the phone itself, I'm developing the backend separately to be deployed somewhere, to then <em>call it from the app when needed</em>.<br /> Basically I would need a <strong>GPU-based backend</strong> (I can also divide the detections and the actual result usage).</p> <p>Now, I know about <em>HuggingFace</em> of course and I've seen a lot of other hosting platforms, but I wanted to ask if you have any suggestions in this regards?<br /> I think I might want to release it as free, or for a one-time low cost (if the costs are too high to support myself), but I also do not know how widespread it can be... You know, either useful and loved or unknown to most.<br /> The trick is that, since I would need the APIs always ready to respond, the backend would need to be up and <em>running 24/7</em>. All of the options seem to be quite costly...</p> <p>Is there any better or worse way to do this?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/feller94\"> /u/feller94 </a> <br /> <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1n00ruv/p_gpubased_backend_deployment_for_an_app/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1n00ruv/p_gpubased_backend_deployment_for_an_app/\">[comments]</a></span>",
+      "id": "https://www.reddit.com/r/MachineLearning/t3_1n00ruv",
+      "guidislink": true,
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1n00ruv/p_gpubased_backend_deployment_for_an_app/",
+      "links": [
+        {
+          "href": "https://www.reddit.com/r/MachineLearning/comments/1n00ruv/p_gpubased_backend_deployment_for_an_app/",
+          "rel": "alternate",
+          "type": "text/html"
+        }
+      ],
+      "updated": "2025-08-25T19:54:03+00:00",
+      "updated_parsed": [
+        2025,
+        8,
+        25,
+        19,
+        54,
+        3,
+        0,
+        237,
+        0
+      ],
+      "published": "2025-08-25T19:54:03+00:00",
+      "published_parsed": [
+        2025,
+        8,
+        25,
+        19,
+        54,
+        3,
+        0,
+        237,
+        0
+      ],
+      "title": "[P] GPU-based backend deployment for an app",
+      "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.reddit.com/r/MachineLearning/.rss",
+        "value": "[P] GPU-based backend deployment for an app"
+      }
+    },
+    {
+      "authors": [
+        {
+          "name": "/u/Fantastic-Nerve-4056",
+          "href": "https://www.reddit.com/user/Fantastic-Nerve-4056"
+        }
+      ],
+      "author_detail": {
+        "name": "/u/Fantastic-Nerve-4056",
+        "href": "https://www.reddit.com/user/Fantastic-Nerve-4056"
+      },
+      "href": "https://www.reddit.com/user/Fantastic-Nerve-4056",
+      "author": "/u/Fantastic-Nerve-4056",
+      "tags": [
+        {
+          "term": "MachineLearning",
+          "scheme": null,
+          "label": "r/MachineLearning"
+        }
+      ],
+      "content": [
+        {
+          "type": "text/html",
+          "language": null,
+          "base": "https://www.reddit.com/r/MachineLearning/.rss",
+          "value": "<!-- SC_OFF --><div class=\"md\"><p>Hi folks,<br /> Fellow ML researcher here 👋</p> <p>I’ve been working in the LLM space for a while now, especially around <em>reasoning models</em> and <em>alignment</em> (both online and offline).</p> <p>While surveying the literature, I couldn’t help but notice that a lot of the published work feels… well, incremental. These are papers coming from great labs, often accepted at ICML/ICLR/NeurIPS, but many of them don’t feel like they’re really pushing the frontier.</p> <p>I’m curious to hear what the community thinks:</p> <ul> <li>Do you also see a lot of incremental work in LLM research, or am I being overly critical?</li> <li>How do you personally filter through the “noise” to identify genuinely impactful work?</li> <li>Any heuristics or signals that help you decide which papers are worth a deep dive?</li> </ul> <p>Would love to get different perspectives on this — especially from people navigating the same sea of papers every week.</p> <p>PS: Made use of GPT to rewrite the text, but it appropriately covers my view/questions</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Fantastic-Nerve-4056\"> /u/Fantastic-Nerve-4056 </a> <br /> <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1mzd5kt/d_views_on_llm_research_incremental_or_not/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1mzd5kt/d_views_on_llm_research_incremental_or_not/\">[comments]</a></span>"
+        }
+      ],
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi folks,<br /> Fellow ML researcher here 👋</p> <p>I’ve been working in the LLM space for a while now, especially around <em>reasoning models</em> and <em>alignment</em> (both online and offline).</p> <p>While surveying the literature, I couldn’t help but notice that a lot of the published work feels… well, incremental. These are papers coming from great labs, often accepted at ICML/ICLR/NeurIPS, but many of them don’t feel like they’re really pushing the frontier.</p> <p>I’m curious to hear what the community thinks:</p> <ul> <li>Do you also see a lot of incremental work in LLM research, or am I being overly critical?</li> <li>How do you personally filter through the “noise” to identify genuinely impactful work?</li> <li>Any heuristics or signals that help you decide which papers are worth a deep dive?</li> </ul> <p>Would love to get different perspectives on this — especially from people navigating the same sea of papers every week.</p> <p>PS: Made use of GPT to rewrite the text, but it appropriately covers my view/questions</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Fantastic-Nerve-4056\"> /u/Fantastic-Nerve-4056 </a> <br /> <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1mzd5kt/d_views_on_llm_research_incremental_or_not/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1mzd5kt/d_views_on_llm_research_incremental_or_not/\">[comments]</a></span>",
+      "id": "https://www.reddit.com/r/MachineLearning/t3_1mzd5kt",
+      "guidislink": true,
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1mzd5kt/d_views_on_llm_research_incremental_or_not/",
+      "links": [
+        {
+          "href": "https://www.reddit.com/r/MachineLearning/comments/1mzd5kt/d_views_on_llm_research_incremental_or_not/",
+          "rel": "alternate",
+          "type": "text/html"
+        }
+      ],
+      "updated": "2025-08-25T01:11:09+00:00",
+      "updated_parsed": [
+        2025,
+        8,
+        25,
+        1,
+        11,
+        9,
+        0,
+        237,
+        0
+      ],
+      "published": "2025-08-25T01:11:09+00:00",
+      "published_parsed": [
+        2025,
+        8,
+        25,
+        1,
+        11,
+        9,
+        0,
+        237,
+        0
+      ],
+      "title": "[D] Views on LLM Research: Incremental or Not?",
+      "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.reddit.com/r/MachineLearning/.rss",
+        "value": "[D] Views on LLM Research: Incremental or Not?"
+      }
+    }
+  ]
+}

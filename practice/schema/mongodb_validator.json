@@ -1,0 +1,70 @@
+{
+    "$jsonSchema": {
+      "bsonType": "object",
+      "required": ["_id","schema_version","status","run","source","partition","audit","rss"],
+      "properties": {
+        "_id": { "bsonType": "string" },
+        "schema_version": { "bsonType": "string" },
+        "status": { "enum": ["meta","extracted","processed","labeled","embedded"] },
+        "run": {
+          "bsonType": "object",
+          "required": ["run_id","exec_ts"],
+          "properties": {
+            "run_id": { "bsonType": "string" },
+            "exec_ts": { "bsonType": "string" }
+          }
+        },
+        "source": {
+          "bsonType": "object",
+          "required": ["feed_id","feed_url","feed_name"],
+          "properties": {
+            "feed_id": { "bsonType": "string" },
+            "feed_url": { "bsonType": "string" },
+            "feed_name": { "bsonType": "string" }
+          }
+        },
+        "partition": {
+          "bsonType": "object",
+          "required": ["year","month","day"],
+          "properties": {
+            "year": { "bsonType": "string" },
+            "month": { "bsonType": "string" },
+            "day": { "bsonType": "string" }
+          }
+        },
+        "audit": {
+          "bsonType": "object",
+          "required": ["created_at"],
+          "properties": {
+            "created_at": { "bsonType": "string" }
+          }
+        },
+        "rss": {
+          "bsonType": "object",
+          "required": ["feed","entries"],
+          "properties": {
+            "feed": {
+              "bsonType": "object",
+              "required": ["title","link"],
+              "properties": {
+                "title": { "bsonType": "string" },
+                "link": { "bsonType": "string" }
+              }
+            },
+            "entries": {
+              "bsonType": "array",
+              "items": {
+                "bsonType": "object",
+                "required": ["title","link"],
+                "properties": {
+                  "title": { "bsonType": "string" },
+                  "link": { "bsonType": "string" }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  

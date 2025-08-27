@@ -1,0 +1,1577 @@
+{
+  "feed": {
+    "title": "stat.ML updates on arXiv.org",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://export.arxiv.org/rss/stat.ML",
+      "value": "stat.ML updates on arXiv.org"
+    },
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "http://rss.arxiv.org/rss/stat.ML"
+      },
+      {
+        "href": "http://rss.arxiv.org/rss/stat.ML",
+        "rel": "self",
+        "type": "application/rss+xml"
+      }
+    ],
+    "link": "http://rss.arxiv.org/rss/stat.ML",
+    "subtitle": "stat.ML updates on the arXiv.org e-print archive.",
+    "subtitle_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://export.arxiv.org/rss/stat.ML",
+      "value": "stat.ML updates on the arXiv.org e-print archive."
+    },
+    "docs": "http://www.rssboard.org/rss-specification",
+    "language": "en-us",
+    "updated": "Wed, 27 Aug 2025 04:00:05 +0000",
+    "updated_parsed": [
+      2025,
+      8,
+      27,
+      4,
+      0,
+      5,
+      2,
+      239,
+      0
+    ],
+    "authors": [
+      {
+        "email": "rss-help@arxiv.org"
+      }
+    ],
+    "author": "rss-help@arxiv.org",
+    "author_detail": {
+      "email": "rss-help@arxiv.org"
+    },
+    "published": "Wed, 27 Aug 2025 00:00:00 -0400",
+    "published_parsed": [
+      2025,
+      8,
+      27,
+      4,
+      0,
+      0,
+      2,
+      239,
+      0
+    ],
+    "day": "Saturday",
+    "skipdays": ""
+  },
+  "entries": [
+    {
+      "title": "Deterministic Coreset Construction via Adaptive Sensitivity Trimming",
+      "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://export.arxiv.org/rss/stat.ML",
+        "value": "Deterministic Coreset Construction via Adaptive Sensitivity Trimming"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://arxiv.org/abs/2508.18340"
+        }
+      ],
+      "link": "https://arxiv.org/abs/2508.18340",
+      "summary": "arXiv:2508.18340v1 Announce Type: new \nAbstract: We develop a rigorous framework for deterministic coreset construction in empirical risk minimization (ERM). Our central contribution is the Adaptive Deterministic Uniform-Weight Trimming (ADUWT) algorithm, which constructs a coreset by excising points with the lowest sensitivity bounds and applying a data-dependent uniform weight to the remainder. The method yields a uniform $(1\\pm\\varepsilon)$ relative-error approximation for the ERM objective over the entire hypothesis space. We provide complete analysis, including (i) a minimax characterization proving the optimality of the adaptive weight, (ii) an instance-dependent size analysis in terms of a \\emph{Sensitivity Heterogeneity Index}, and (iii) tractable sensitivity oracles for kernel ridge regression, regularized logistic regression, and linear SVM. Reproducibility is supported by precise pseudocode for the algorithm, sensitivity oracles, and evaluation pipeline. Empirical results align with the theory. We conclude with open problems on instance-optimal oracles, deterministic streaming, and fairness-constrained ERM.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://export.arxiv.org/rss/stat.ML",
+        "value": "arXiv:2508.18340v1 Announce Type: new \nAbstract: We develop a rigorous framework for deterministic coreset construction in empirical risk minimization (ERM). Our central contribution is the Adaptive Deterministic Uniform-Weight Trimming (ADUWT) algorithm, which constructs a coreset by excising points with the lowest sensitivity bounds and applying a data-dependent uniform weight to the remainder. The method yields a uniform $(1\\pm\\varepsilon)$ relative-error approximation for the ERM objective over the entire hypothesis space. We provide complete analysis, including (i) a minimax characterization proving the optimality of the adaptive weight, (ii) an instance-dependent size analysis in terms of a \\emph{Sensitivity Heterogeneity Index}, and (iii) tractable sensitivity oracles for kernel ridge regression, regularized logistic regression, and linear SVM. Reproducibility is supported by precise pseudocode for the algorithm, sensitivity oracles, and evaluation pipeline. Empirical results align with the theory. We conclude with open problems on instance-optimal oracles, deterministic streaming, and fairness-constrained ERM."
+      },
+      "id": "oai:arXiv.org:2508.18340v1",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "stat.ML",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "cs.LG",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "published": "Wed, 27 Aug 2025 00:00:00 -0400",
+      "published_parsed": [
+        2025,
+        8,
+        27,
+        4,
+        0,
+        0,
+        2,
+        239,
+        0
+      ],
+      "arxiv_announce_type": "new",
+      "rights": "http://creativecommons.org/licenses/by/4.0/",
+      "rights_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://export.arxiv.org/rss/stat.ML",
+        "value": "http://creativecommons.org/licenses/by/4.0/"
+      },
+      "authors": [
+        {
+          "name": "Faruk Alpay, Taylan Alpay"
+        }
+      ],
+      "author": "Faruk Alpay, Taylan Alpay",
+      "author_detail": {
+        "name": "Faruk Alpay, Taylan Alpay"
+      }
+    },
+    {
+      "title": "Revisiting Follow-the-Perturbed-Leader with Unbounded Perturbations in Bandit Problems",
+      "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://export.arxiv.org/rss/stat.ML",
+        "value": "Revisiting Follow-the-Perturbed-Leader with Unbounded Perturbations in Bandit Problems"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://arxiv.org/abs/2508.18604"
+        }
+      ],
+      "link": "https://arxiv.org/abs/2508.18604",
+      "summary": "arXiv:2508.18604v1 Announce Type: new \nAbstract: Follow-the-Regularized-Leader (FTRL) policies have achieved Best-of-Both-Worlds (BOBW) results in various settings through hybrid regularizers, whereas analogous results for Follow-the-Perturbed-Leader (FTPL) remain limited due to inherent analytical challenges. To advance the analytical foundations of FTPL, we revisit classical FTRL-FTPL duality for unbounded perturbations and establish BOBW results for FTPL under a broad family of asymmetric unbounded Fr\\'echet-type perturbations, including hybrid perturbations combining Gumbel-type and Fr\\'echet-type tails. These results not only extend the BOBW results of FTPL but also offer new insights into designing alternative FTPL policies competitive with hybrid regularization approaches. Motivated by earlier observations in two-armed bandits, we further investigate the connection between the $1/2$-Tsallis entropy and a Fr\\'echet-type perturbation. Our numerical observations suggest that it corresponds to a symmetric Fr\\'echet-type perturbation, and based on this, we establish the first BOBW guarantee for symmetric unbounded perturbations in the two-armed setting. In contrast, in general multi-armed bandits, we find an instance in which symmetric Fr\\'echet-type perturbations violate the key condition for standard BOBW analysis, which is a problem not observed with asymmetric or nonnegative Fr\\'echet-type perturbations. Although this example does not rule out alternative analyses achieving BOBW results, it suggests the limitations of directly applying the relationship observed in two-armed cases to the general case and thus emphasizes the need for further investigation to fully understand the behavior of FTPL in broader settings.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://export.arxiv.org/rss/stat.ML",
+        "value": "arXiv:2508.18604v1 Announce Type: new \nAbstract: Follow-the-Regularized-Leader (FTRL) policies have achieved Best-of-Both-Worlds (BOBW) results in various settings through hybrid regularizers, whereas analogous results for Follow-the-Perturbed-Leader (FTPL) remain limited due to inherent analytical challenges. To advance the analytical foundations of FTPL, we revisit classical FTRL-FTPL duality for unbounded perturbations and establish BOBW results for FTPL under a broad family of asymmetric unbounded Fr\\'echet-type perturbations, including hybrid perturbations combining Gumbel-type and Fr\\'echet-type tails. These results not only extend the BOBW results of FTPL but also offer new insights into designing alternative FTPL policies competitive with hybrid regularization approaches. Motivated by earlier observations in two-armed bandits, we further investigate the connection between the $1/2$-Tsallis entropy and a Fr\\'echet-type perturbation. Our numerical observations suggest that it corresponds to a symmetric Fr\\'echet-type perturbation, and based on this, we establish the first BOBW guarantee for symmetric unbounded perturbations in the two-armed setting. In contrast, in general multi-armed bandits, we find an instance in which symmetric Fr\\'echet-type perturbations violate the key condition for standard BOBW analysis, which is a problem not observed with asymmetric or nonnegative Fr\\'echet-type perturbations. Although this example does not rule out alternative analyses achieving BOBW results, it suggests the limitations of directly applying the relationship observed in two-armed cases to the general case and thus emphasizes the need for further investigation to fully understand the behavior of FTPL in broader settings."
+      },
+      "id": "oai:arXiv.org:2508.18604v1",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "stat.ML",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "cs.LG",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "published": "Wed, 27 Aug 2025 00:00:00 -0400",
+      "published_parsed": [
+        2025,
+        8,
+        27,
+        4,
+        0,
+        0,
+        2,
+        239,
+        0
+      ],
+      "arxiv_announce_type": "new",
+      "rights": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+      "rights_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://export.arxiv.org/rss/stat.ML",
+        "value": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/"
+      },
+      "authors": [
+        {
+          "name": "Jongyeong Lee, Junya Honda, Shinji Ito, Min-hwan Oh"
+        }
+      ],
+      "author": "Jongyeong Lee, Junya Honda, Shinji Ito, Min-hwan Oh",
+      "author_detail": {
+        "name": "Jongyeong Lee, Junya Honda, Shinji Ito, Min-hwan Oh"
+      }
+    },
+    {
+      "title": "Efficient Best-of-Both-Worlds Algorithms for Contextual Combinatorial Semi-Bandits",
+      "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://export.arxiv.org/rss/stat.ML",
+        "value": "Efficient Best-of-Both-Worlds Algorithms for Contextual Combinatorial Semi-Bandits"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://arxiv.org/abs/2508.18768"
+        }
+      ],
+      "link": "https://arxiv.org/abs/2508.18768",
+      "summary": "arXiv:2508.18768v1 Announce Type: new \nAbstract: We introduce the first best-of-both-worlds algorithm for contextual combinatorial semi-bandits that simultaneously guarantees $\\widetilde{\\mathcal{O}}(\\sqrt{T})$ regret in the adversarial regime and $\\widetilde{\\mathcal{O}}(\\ln T)$ regret in the corrupted stochastic regime. Our approach builds on the Follow-the-Regularized-Leader (FTRL) framework equipped with a Shannon entropy regularizer, yielding a flexible method that admits efficient implementations. Beyond regret bounds, we tackle the practical bottleneck in FTRL (or, equivalently, Online Stochastic Mirror Descent) arising from the high-dimensional projection step encountered in each round of interaction. By leveraging the Karush-Kuhn-Tucker conditions, we transform the $K$-dimensional convex projection problem into a single-variable root-finding problem, dramatically accelerating each round. Empirical evaluations demonstrate that this combined strategy not only attains the attractive regret bounds of best-of-both-worlds algorithms but also delivers substantial per-round speed-ups, making it well-suited for large-scale, real-time applications.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://export.arxiv.org/rss/stat.ML",
+        "value": "arXiv:2508.18768v1 Announce Type: new \nAbstract: We introduce the first best-of-both-worlds algorithm for contextual combinatorial semi-bandits that simultaneously guarantees $\\widetilde{\\mathcal{O}}(\\sqrt{T})$ regret in the adversarial regime and $\\widetilde{\\mathcal{O}}(\\ln T)$ regret in the corrupted stochastic regime. Our approach builds on the Follow-the-Regularized-Leader (FTRL) framework equipped with a Shannon entropy regularizer, yielding a flexible method that admits efficient implementations. Beyond regret bounds, we tackle the practical bottleneck in FTRL (or, equivalently, Online Stochastic Mirror Descent) arising from the high-dimensional projection step encountered in each round of interaction. By leveraging the Karush-Kuhn-Tucker conditions, we transform the $K$-dimensional convex projection problem into a single-variable root-finding problem, dramatically accelerating each round. Empirical evaluations demonstrate that this combined strategy not only attains the attractive regret bounds of best-of-both-worlds algorithms but also delivers substantial per-round speed-ups, making it well-suited for large-scale, real-time applications."
+      },
+      "id": "oai:arXiv.org:2508.18768v1",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "stat.ML",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "cs.LG",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "published": "Wed, 27 Aug 2025 00:00:00 -0400",
+      "published_parsed": [
+        2025,
+        8,
+        27,
+        4,
+        0,
+        0,
+        2,
+        239,
+        0
+      ],
+      "arxiv_announce_type": "new",
+      "rights": "http://creativecommons.org/licenses/by/4.0/",
+      "rights_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://export.arxiv.org/rss/stat.ML",
+        "value": "http://creativecommons.org/licenses/by/4.0/"
+      },
+      "authors": [
+        {
+          "name": "Mengmeng Li, Philipp Schneider, Jelisaveta Aleksi\\'c, Daniel Kuhn"
+        }
+      ],
+      "author": "Mengmeng Li, Philipp Schneider, Jelisaveta Aleksi\\'c, Daniel Kuhn",
+      "author_detail": {
+        "name": "Mengmeng Li, Philipp Schneider, Jelisaveta Aleksi\\'c, Daniel Kuhn"
+      }
+    },
+    {
+      "title": "Sparse minimum Redundancy Maximum Relevance for feature selection",
+      "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://export.arxiv.org/rss/stat.ML",
+        "value": "Sparse minimum Redundancy Maximum Relevance for feature selection"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://arxiv.org/abs/2508.18901"
+        }
+      ],
+      "link": "https://arxiv.org/abs/2508.18901",
+      "summary": "arXiv:2508.18901v1 Announce Type: new \nAbstract: We propose a feature screening method that integrates both feature-feature and feature-target relationships. Inactive features are identified via a penalized minimum Redundancy Maximum Relevance (mRMR) procedure, which is the continuous version of the classic mRMR penalized by a non-convex regularizer, and where the parameters estimated as zero coefficients represent the set of inactive features. We establish the conditions under which zero coefficients are correctly identified to guarantee accurate recovery of inactive features. We introduce a multi-stage procedure based on the knockoff filter enabling the penalized mRMR to discard inactive features while controlling the false discovery rate (FDR). Our method performs comparably to HSIC-LASSO but is more conservative in the number of selected features. It only requires setting an FDR threshold, rather than specifying the number of features to retain. The effectiveness of the method is illustrated through simulations and real-world datasets. The code to reproduce this work is available on the following GitHub: https://github.com/PeterJackNaylor/SmRMR.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://export.arxiv.org/rss/stat.ML",
+        "value": "arXiv:2508.18901v1 Announce Type: new \nAbstract: We propose a feature screening method that integrates both feature-feature and feature-target relationships. Inactive features are identified via a penalized minimum Redundancy Maximum Relevance (mRMR) procedure, which is the continuous version of the classic mRMR penalized by a non-convex regularizer, and where the parameters estimated as zero coefficients represent the set of inactive features. We establish the conditions under which zero coefficients are correctly identified to guarantee accurate recovery of inactive features. We introduce a multi-stage procedure based on the knockoff filter enabling the penalized mRMR to discard inactive features while controlling the false discovery rate (FDR). Our method performs comparably to HSIC-LASSO but is more conservative in the number of selected features. It only requires setting an FDR threshold, rather than specifying the number of features to retain. The effectiveness of the method is illustrated through simulations and real-world datasets. The code to reproduce this work is available on the following GitHub: https://github.com/PeterJackNaylor/SmRMR."
+      },
+      "id": "oai:arXiv.org:2508.18901v1",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "stat.ML",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "cs.LG",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "stat.ME",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "published": "Wed, 27 Aug 2025 00:00:00 -0400",
+      "published_parsed": [
+        2025,
+        8,
+        27,
+        4,
+        0,
+        0,
+        2,
+        239,
+        0
+      ],
+      "arxiv_announce_type": "new",
+      "rights": "http://creativecommons.org/licenses/by/4.0/",
+      "rights_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://export.arxiv.org/rss/stat.ML",
+        "value": "http://creativecommons.org/licenses/by/4.0/"
+      },
+      "authors": [
+        {
+          "name": "Peter Naylor, Benjamin Poignard, H\\'ector Climente-Gonz\\'alez, Makoto Yamada"
+        }
+      ],
+      "author": "Peter Naylor, Benjamin Poignard, H\\'ector Climente-Gonz\\'alez, Makoto Yamada",
+      "author_detail": {
+        "name": "Peter Naylor, Benjamin Poignard, H\\'ector Climente-Gonz\\'alez, Makoto Yamada"
+      }
+    },
+    {
+      "title": "Echoes of the past: A unified perspective on fading memory and echo states",
+      "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://export.arxiv.org/rss/stat.ML",
+        "value": "Echoes of the past: A unified perspective on fading memory and echo states"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://arxiv.org/abs/2508.19145"
+        }
+      ],
+      "link": "https://arxiv.org/abs/2508.19145",
+      "summary": "arXiv:2508.19145v1 Announce Type: new \nAbstract: Recurrent neural networks (RNNs) have become increasingly popular in information processing tasks involving time series and temporal data. A fundamental property of RNNs is their ability to create reliable input/output responses, often linked to how the network handles its memory of the information it processed. Various notions have been proposed to conceptualize the behavior of memory in RNNs, including steady states, echo states, state forgetting, input forgetting, and fading memory. Although these notions are often used interchangeably, their precise relationships remain unclear. This work aims to unify these notions in a common language, derive new implications and equivalences between them, and provide alternative proofs to some existing results. By clarifying the relationships between these concepts, this research contributes to a deeper understanding of RNNs and their temporal information processing capabilities.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://export.arxiv.org/rss/stat.ML",
+        "value": "arXiv:2508.19145v1 Announce Type: new \nAbstract: Recurrent neural networks (RNNs) have become increasingly popular in information processing tasks involving time series and temporal data. A fundamental property of RNNs is their ability to create reliable input/output responses, often linked to how the network handles its memory of the information it processed. Various notions have been proposed to conceptualize the behavior of memory in RNNs, including steady states, echo states, state forgetting, input forgetting, and fading memory. Although these notions are often used interchangeably, their precise relationships remain unclear. This work aims to unify these notions in a common language, derive new implications and equivalences between them, and provide alternative proofs to some existing results. By clarifying the relationships between these concepts, this research contributes to a deeper understanding of RNNs and their temporal information processing capabilities."
+      },
+      "id": "oai:arXiv.org:2508.19145v1",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "stat.ML",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "cs.LG",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "math.DS",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "published": "Wed, 27 Aug 2025 00:00:00 -0400",
+      "published_parsed": [
+        2025,
+        8,
+        27,
+        4,
+        0,
+        0,
+        2,
+        239,
+        0
+      ],
+      "arxiv_announce_type": "new",
+      "rights": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+      "rights_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://export.arxiv.org/rss/stat.ML",
+        "value": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/"
+      },
+      "authors": [
+        {
+          "name": "Juan-Pablo Ortega, Florian Rossmannek"
+        }
+      ],
+      "author": "Juan-Pablo Ortega, Florian Rossmannek",
+      "author_detail": {
+        "name": "Juan-Pablo Ortega, Florian Rossmannek"
+      }
+    },
+    {
+      "title": "Estimating oil recovery factor using machine learning: Applications of XGBoost classification",
+      "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://export.arxiv.org/rss/stat.ML",
+        "value": "Estimating oil recovery factor using machine learning: Applications of XGBoost classification"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://arxiv.org/abs/2210.16345"
+        }
+      ],
+      "link": "https://arxiv.org/abs/2210.16345",
+      "summary": "arXiv:2210.16345v1 Announce Type: cross \nAbstract: In petroleum engineering, it is essential to determine the ultimate recovery factor, RF, particularly before exploitation and exploration. However, accurately estimating requires data that is not necessarily available or measured at early stages of reservoir development. We, therefore, applied machine learning (ML), using readily available features, to estimate oil RF for ten classes defined in this study. To construct the ML models, we applied the XGBoost classification algorithm. Classification was chosen because recovery factor is bounded from 0 to 1, much like probability. Three databases were merged, leaving us with four different combinations to first train and test the ML models and then further evaluate them using an independent database including unseen data. The cross-validation method with ten folds was applied on the training datasets to assess the effectiveness of the models. To evaluate the accuracy and reliability of the models, the accuracy, neighborhood accuracy, and macro averaged f1 score were determined. Overall, results showed that the XGBoost classification algorithm could estimate the RF class with reasonable accuracies as high as 0.49 in the training datasets, 0.34 in the testing datasets and 0.2 in the independent databases used. We found that the reliability of the XGBoost model depended on the data in the training dataset meaning that the ML models were database dependent. The feature importance analysis and the SHAP approach showed that the most important features were reserves and reservoir area and thickness.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://export.arxiv.org/rss/stat.ML",
+        "value": "arXiv:2210.16345v1 Announce Type: cross \nAbstract: In petroleum engineering, it is essential to determine the ultimate recovery factor, RF, particularly before exploitation and exploration. However, accurately estimating requires data that is not necessarily available or measured at early stages of reservoir development. We, therefore, applied machine learning (ML), using readily available features, to estimate oil RF for ten classes defined in this study. To construct the ML models, we applied the XGBoost classification algorithm. Classification was chosen because recovery factor is bounded from 0 to 1, much like probability. Three databases were merged, leaving us with four different combinations to first train and test the ML models and then further evaluate them using an independent database including unseen data. The cross-validation method with ten folds was applied on the training datasets to assess the effectiveness of the models. To evaluate the accuracy and reliability of the models, the accuracy, neighborhood accuracy, and macro averaged f1 score were determined. Overall, results showed that the XGBoost classification algorithm could estimate the RF class with reasonable accuracies as high as 0.49 in the training datasets, 0.34 in the testing datasets and 0.2 in the independent databases used. We found that the reliability of the XGBoost model depended on the data in the training dataset meaning that the ML models were database dependent. The feature importance analysis and the SHAP approach showed that the most important features were reserves and reservoir area and thickness."
+      },
+      "id": "oai:arXiv.org:2210.16345v1",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "cs.LG",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "cs.AI",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "stat.ML",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "published": "Wed, 27 Aug 2025 00:00:00 -0400",
+      "published_parsed": [
+        2025,
+        8,
+        27,
+        4,
+        0,
+        0,
+        2,
+        239,
+        0
+      ],
+      "arxiv_announce_type": "cross",
+      "rights": "http://creativecommons.org/licenses/by/4.0/",
+      "rights_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://export.arxiv.org/rss/stat.ML",
+        "value": "http://creativecommons.org/licenses/by/4.0/"
+      },
+      "authors": [
+        {
+          "name": "Alireza Roustazadeh, Behzad Ghanbarian, Frank Male, Mohammad B. Shadmand, Vahid Taslimitehrani, Larry W. Lake"
+        }
+      ],
+      "author": "Alireza Roustazadeh, Behzad Ghanbarian, Frank Male, Mohammad B. Shadmand, Vahid Taslimitehrani, Larry W. Lake",
+      "author_detail": {
+        "name": "Alireza Roustazadeh, Behzad Ghanbarian, Frank Male, Mohammad B. Shadmand, Vahid Taslimitehrani, Larry W. Lake"
+      }
+    },
+    {
+      "title": "Lightweight posterior construction for gravitational-wave catalogs with the Kolmogorov-Arnold network",
+      "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://export.arxiv.org/rss/stat.ML",
+        "value": "Lightweight posterior construction for gravitational-wave catalogs with the Kolmogorov-Arnold network"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://arxiv.org/abs/2508.18698"
+        }
+      ],
+      "link": "https://arxiv.org/abs/2508.18698",
+      "summary": "arXiv:2508.18698v1 Announce Type: cross \nAbstract: Neural density estimation has seen widespread applications in the gravitational-wave (GW) data analysis, which enables real-time parameter estimation for compact binary coalescences and enhances rapid inference for subsequent analysis such as population inference. In this work, we explore the application of using the Kolmogorov-Arnold network (KAN) to construct efficient and interpretable neural density estimators for lightweight posterior construction of GW catalogs. By replacing conventional activation functions with learnable splines, KAN achieves superior interpretability, higher accuracy, and greater parameter efficiency on related scientific tasks. Leveraging this feature, we propose a KAN-based neural density estimator, which ingests megabyte-scale GW posterior samples and compresses them into model weights of tens of kilobytes. Subsequently, analytic expressions requiring only several kilobytes can be further distilled from these neural network weights with minimal accuracy trade-off. In practice, GW posterior samples with fidelity can be regenerated rapidly using the model weights or analytic expressions for subsequent analysis. Our lightweight posterior construction strategy is expected to facilitate user-level data storage and transmission, paving a path for efficient analysis of numerous GW events in the next-generation GW detectors.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://export.arxiv.org/rss/stat.ML",
+        "value": "arXiv:2508.18698v1 Announce Type: cross \nAbstract: Neural density estimation has seen widespread applications in the gravitational-wave (GW) data analysis, which enables real-time parameter estimation for compact binary coalescences and enhances rapid inference for subsequent analysis such as population inference. In this work, we explore the application of using the Kolmogorov-Arnold network (KAN) to construct efficient and interpretable neural density estimators for lightweight posterior construction of GW catalogs. By replacing conventional activation functions with learnable splines, KAN achieves superior interpretability, higher accuracy, and greater parameter efficiency on related scientific tasks. Leveraging this feature, we propose a KAN-based neural density estimator, which ingests megabyte-scale GW posterior samples and compresses them into model weights of tens of kilobytes. Subsequently, analytic expressions requiring only several kilobytes can be further distilled from these neural network weights with minimal accuracy trade-off. In practice, GW posterior samples with fidelity can be regenerated rapidly using the model weights or analytic expressions for subsequent analysis. Our lightweight posterior construction strategy is expected to facilitate user-level data storage and transmission, paving a path for efficient analysis of numerous GW events in the next-generation GW detectors."
+      },
+      "id": "oai:arXiv.org:2508.18698v1",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "gr-qc",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "astro-ph.HE",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "stat.AP",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "stat.ML",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "published": "Wed, 27 Aug 2025 00:00:00 -0400",
+      "published_parsed": [
+        2025,
+        8,
+        27,
+        4,
+        0,
+        0,
+        2,
+        239,
+        0
+      ],
+      "arxiv_announce_type": "cross",
+      "rights": "http://creativecommons.org/licenses/by/4.0/",
+      "rights_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://export.arxiv.org/rss/stat.ML",
+        "value": "http://creativecommons.org/licenses/by/4.0/"
+      },
+      "authors": [
+        {
+          "name": "Wenshuai Liu, Yiming Dong, Ziming Wang, Lijing Shao"
+        }
+      ],
+      "author": "Wenshuai Liu, Yiming Dong, Ziming Wang, Lijing Shao",
+      "author_detail": {
+        "name": "Wenshuai Liu, Yiming Dong, Ziming Wang, Lijing Shao"
+      }
+    },
+    {
+      "title": "Federated Learning with Heterogeneous and Private Label Sets",
+      "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://export.arxiv.org/rss/stat.ML",
+        "value": "Federated Learning with Heterogeneous and Private Label Sets"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://arxiv.org/abs/2508.18774"
+        }
+      ],
+      "link": "https://arxiv.org/abs/2508.18774",
+      "summary": "arXiv:2508.18774v1 Announce Type: cross \nAbstract: Although common in real-world applications, heterogeneous client label sets are rarely investigated in federated learning (FL). Furthermore, in the cases they are, clients are assumed to be willing to share their entire label sets with other clients. Federated learning with private label sets, shared only with the central server, adds further constraints on learning algorithms and is, in general, a more difficult problem to solve. In this work, we study the effects of label set heterogeneity on model performance, comparing the public and private label settings -- when the union of label sets in the federation is known to clients and when it is not. We apply classical methods for the classifier combination problem to FL using centralized tuning, adapt common FL methods to the private label set setting, and discuss the justification of both approaches under practical assumptions. Our experiments show that reducing the number of labels available to each client harms the performance of all methods substantially. Centralized tuning of client models for representational alignment can help remedy this, but often at the cost of higher variance. Throughout, our proposed adaptations of standard FL methods perform well, showing similar performance in the private label setting as the standard methods achieve in the public setting. This shows that clients can enjoy increased privacy at little cost to model accuracy.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://export.arxiv.org/rss/stat.ML",
+        "value": "arXiv:2508.18774v1 Announce Type: cross \nAbstract: Although common in real-world applications, heterogeneous client label sets are rarely investigated in federated learning (FL). Furthermore, in the cases they are, clients are assumed to be willing to share their entire label sets with other clients. Federated learning with private label sets, shared only with the central server, adds further constraints on learning algorithms and is, in general, a more difficult problem to solve. In this work, we study the effects of label set heterogeneity on model performance, comparing the public and private label settings -- when the union of label sets in the federation is known to clients and when it is not. We apply classical methods for the classifier combination problem to FL using centralized tuning, adapt common FL methods to the private label set setting, and discuss the justification of both approaches under practical assumptions. Our experiments show that reducing the number of labels available to each client harms the performance of all methods substantially. Centralized tuning of client models for representational alignment can help remedy this, but often at the cost of higher variance. Throughout, our proposed adaptations of standard FL methods perform well, showing similar performance in the private label setting as the standard methods achieve in the public setting. This shows that clients can enjoy increased privacy at little cost to model accuracy."
+      },
+      "id": "oai:arXiv.org:2508.18774v1",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "cs.LG",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "stat.ML",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "published": "Wed, 27 Aug 2025 00:00:00 -0400",
+      "published_parsed": [
+        2025,
+        8,
+        27,
+        4,
+        0,
+        0,
+        2,
+        239,
+        0
+      ],
+      "arxiv_announce_type": "cross",
+      "rights": "http://creativecommons.org/licenses/by/4.0/",
+      "rights_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://export.arxiv.org/rss/stat.ML",
+        "value": "http://creativecommons.org/licenses/by/4.0/"
+      },
+      "authors": [
+        {
+          "name": "Adam Breitholtz, Edvin Listo Zec, Fredrik D. Johansson"
+        }
+      ],
+      "author": "Adam Breitholtz, Edvin Listo Zec, Fredrik D. Johansson",
+      "author_detail": {
+        "name": "Adam Breitholtz, Edvin Listo Zec, Fredrik D. Johansson"
+      }
+    },
+    {
+      "title": "The GINN framework: a stochastic QED correspondence for stability and chaos in deep neural networks",
+      "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://export.arxiv.org/rss/stat.ML",
+        "value": "The GINN framework: a stochastic QED correspondence for stability and chaos in deep neural networks"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://arxiv.org/abs/2508.18948"
+        }
+      ],
+      "link": "https://arxiv.org/abs/2508.18948",
+      "summary": "arXiv:2508.18948v1 Announce Type: cross \nAbstract: The development of a Euclidean stochastic field-theoretic approach that maps deep neural networks (DNNs) to quantum electrodynamics (QED) with local U(1) symmetry is presented. Neural activations and weights are represented by fermionic matter and gauge fields, with a fictitious Langevin time enabling covariant gauge fixing. This mapping identifies the gauge parameter with kernel design choices in wide DNNs, relating stability thresholds to gauge-dependent amplification factors. Finite-width fluctuations correspond to loop corrections in QED. As a proof of concept, we validate the theoretical predictions through numerical simulations of standard multilayer perceptrons and, in parallel, propose a gauge-invariant neural network (GINN) implementation using magnitude--phase parameterization of weights. Finally, a double-copy replica approach is shown to unify the computation of the largest Lyapunov exponent in stochastic QED and wide DNNs.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://export.arxiv.org/rss/stat.ML",
+        "value": "arXiv:2508.18948v1 Announce Type: cross \nAbstract: The development of a Euclidean stochastic field-theoretic approach that maps deep neural networks (DNNs) to quantum electrodynamics (QED) with local U(1) symmetry is presented. Neural activations and weights are represented by fermionic matter and gauge fields, with a fictitious Langevin time enabling covariant gauge fixing. This mapping identifies the gauge parameter with kernel design choices in wide DNNs, relating stability thresholds to gauge-dependent amplification factors. Finite-width fluctuations correspond to loop corrections in QED. As a proof of concept, we validate the theoretical predictions through numerical simulations of standard multilayer perceptrons and, in parallel, propose a gauge-invariant neural network (GINN) implementation using magnitude--phase parameterization of weights. Finally, a double-copy replica approach is shown to unify the computation of the largest Lyapunov exponent in stochastic QED and wide DNNs."
+      },
+      "id": "oai:arXiv.org:2508.18948v1",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "hep-th",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "cond-mat.dis-nn",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "cs.LG",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "stat.ML",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "published": "Wed, 27 Aug 2025 00:00:00 -0400",
+      "published_parsed": [
+        2025,
+        8,
+        27,
+        4,
+        0,
+        0,
+        2,
+        239,
+        0
+      ],
+      "arxiv_announce_type": "cross",
+      "rights": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+      "rights_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://export.arxiv.org/rss/stat.ML",
+        "value": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/"
+      },
+      "authors": [
+        {
+          "name": "Rodrigo Carmo Terin"
+        }
+      ],
+      "author": "Rodrigo Carmo Terin",
+      "author_detail": {
+        "name": "Rodrigo Carmo Terin"
+      }
+    },
+    {
+      "title": "Composition and Alignment of Diffusion Models using Constrained Learning",
+      "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://export.arxiv.org/rss/stat.ML",
+        "value": "Composition and Alignment of Diffusion Models using Constrained Learning"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://arxiv.org/abs/2508.19104"
+        }
+      ],
+      "link": "https://arxiv.org/abs/2508.19104",
+      "summary": "arXiv:2508.19104v1 Announce Type: cross \nAbstract: Diffusion models have become prevalent in generative modeling due to their ability to sample from complex distributions. To improve the quality of generated samples and their compliance with user requirements, two commonly used methods are: (i) Alignment, which involves fine-tuning a diffusion model to align it with a reward; and (ii) Composition, which combines several pre-trained diffusion models, each emphasizing a desirable attribute in the generated outputs. However, trade-offs often arise when optimizing for multiple rewards or combining multiple models, as they can often represent competing properties. Existing methods cannot guarantee that the resulting model faithfully generates samples with all the desired properties. To address this gap, we propose a constrained optimization framework that unifies alignment and composition of diffusion models by enforcing that the aligned model satisfies reward constraints and/or remains close to (potentially multiple) pre-trained models. We provide a theoretical characterization of the solutions to the constrained alignment and composition problems and develop a Lagrangian-based primal-dual training algorithm to approximate these solutions. Empirically, we demonstrate the effectiveness and merits of our proposed approach in image generation, applying it to alignment and composition, and show that our aligned or composed model satisfies constraints effectively, and improves on the equally-weighted approach. Our implementation can be found at https://github.com/shervinkhalafi/constrained_comp_align.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://export.arxiv.org/rss/stat.ML",
+        "value": "arXiv:2508.19104v1 Announce Type: cross \nAbstract: Diffusion models have become prevalent in generative modeling due to their ability to sample from complex distributions. To improve the quality of generated samples and their compliance with user requirements, two commonly used methods are: (i) Alignment, which involves fine-tuning a diffusion model to align it with a reward; and (ii) Composition, which combines several pre-trained diffusion models, each emphasizing a desirable attribute in the generated outputs. However, trade-offs often arise when optimizing for multiple rewards or combining multiple models, as they can often represent competing properties. Existing methods cannot guarantee that the resulting model faithfully generates samples with all the desired properties. To address this gap, we propose a constrained optimization framework that unifies alignment and composition of diffusion models by enforcing that the aligned model satisfies reward constraints and/or remains close to (potentially multiple) pre-trained models. We provide a theoretical characterization of the solutions to the constrained alignment and composition problems and develop a Lagrangian-based primal-dual training algorithm to approximate these solutions. Empirically, we demonstrate the effectiveness and merits of our proposed approach in image generation, applying it to alignment and composition, and show that our aligned or composed model satisfies constraints effectively, and improves on the equally-weighted approach. Our implementation can be found at https://github.com/shervinkhalafi/constrained_comp_align."
+      },
+      "id": "oai:arXiv.org:2508.19104v1",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "cs.LG",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "eess.IV",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "stat.ML",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "published": "Wed, 27 Aug 2025 00:00:00 -0400",
+      "published_parsed": [
+        2025,
+        8,
+        27,
+        4,
+        0,
+        0,
+        2,
+        239,
+        0
+      ],
+      "arxiv_announce_type": "cross",
+      "rights": "http://creativecommons.org/licenses/by-sa/4.0/",
+      "rights_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://export.arxiv.org/rss/stat.ML",
+        "value": "http://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "authors": [
+        {
+          "name": "Shervin Khalafi, Ignacio Hounie, Dongsheng Ding, Alejandro Ribeiro"
+        }
+      ],
+      "author": "Shervin Khalafi, Ignacio Hounie, Dongsheng Ding, Alejandro Ribeiro",
+      "author_detail": {
+        "name": "Shervin Khalafi, Ignacio Hounie, Dongsheng Ding, Alejandro Ribeiro"
+      }
+    },
+    {
+      "title": "Understanding Tool-Integrated Reasoning",
+      "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://export.arxiv.org/rss/stat.ML",
+        "value": "Understanding Tool-Integrated Reasoning"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://arxiv.org/abs/2508.19201"
+        }
+      ],
+      "link": "https://arxiv.org/abs/2508.19201",
+      "summary": "arXiv:2508.19201v1 Announce Type: cross \nAbstract: We study why Tool-Integrated Reasoning (TIR) makes Large Language Models (LLMs) more capable. While LLMs integrated with tools like Python code interpreters show great promise, a principled theory explaining why this paradigm is effective has been missing. This work provides the first formal proof that TIR fundamentally expands an LLM's capabilities. We demonstrate that tools enable a strict expansion of the model's empirical and feasible support, breaking the capability ceiling of pure-text models by unlocking problem-solving strategies that are otherwise impossible or intractably verbose. To guide model behavior without compromising training stability and performance, we also introduce Advantage Shaping Policy Optimization (ASPO), a novel algorithm that directly modifies the advantage function to guide the policy behavior. We conduct comprehensive experiments on challenging mathematical benchmarks, leveraging a Python interpreter as the external tool. Our results show that the TIR model decisively outperforms its pure-text counterpart on the pass@k metric. Crucially, this advantage is not confined to computationally-intensive problems but extends to those requiring significant abstract insight. We further identify the emergent cognitive patterns that illustrate how models learn to think with tools. Finally, we report improved tool usage behavior with early code invocation and much more interactive turns with ASPO. Overall, our work provides the first principled explanation for TIR's success, shifting the focus from the mere fact that tools work to why and how they enable more powerful reasoning.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://export.arxiv.org/rss/stat.ML",
+        "value": "arXiv:2508.19201v1 Announce Type: cross \nAbstract: We study why Tool-Integrated Reasoning (TIR) makes Large Language Models (LLMs) more capable. While LLMs integrated with tools like Python code interpreters show great promise, a principled theory explaining why this paradigm is effective has been missing. This work provides the first formal proof that TIR fundamentally expands an LLM's capabilities. We demonstrate that tools enable a strict expansion of the model's empirical and feasible support, breaking the capability ceiling of pure-text models by unlocking problem-solving strategies that are otherwise impossible or intractably verbose. To guide model behavior without compromising training stability and performance, we also introduce Advantage Shaping Policy Optimization (ASPO), a novel algorithm that directly modifies the advantage function to guide the policy behavior. We conduct comprehensive experiments on challenging mathematical benchmarks, leveraging a Python interpreter as the external tool. Our results show that the TIR model decisively outperforms its pure-text counterpart on the pass@k metric. Crucially, this advantage is not confined to computationally-intensive problems but extends to those requiring significant abstract insight. We further identify the emergent cognitive patterns that illustrate how models learn to think with tools. Finally, we report improved tool usage behavior with early code invocation and much more interactive turns with ASPO. Overall, our work provides the first principled explanation for TIR's success, shifting the focus from the mere fact that tools work to why and how they enable more powerful reasoning."
+      },
+      "id": "oai:arXiv.org:2508.19201v1",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "cs.LG",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "cs.AI",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "stat.ML",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "published": "Wed, 27 Aug 2025 00:00:00 -0400",
+      "published_parsed": [
+        2025,
+        8,
+        27,
+        4,
+        0,
+        0,
+        2,
+        239,
+        0
+      ],
+      "arxiv_announce_type": "cross",
+      "rights": "http://creativecommons.org/licenses/by/4.0/",
+      "rights_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://export.arxiv.org/rss/stat.ML",
+        "value": "http://creativecommons.org/licenses/by/4.0/"
+      },
+      "authors": [
+        {
+          "name": "Heng Lin, Zhongwen Xu"
+        }
+      ],
+      "author": "Heng Lin, Zhongwen Xu",
+      "author_detail": {
+        "name": "Heng Lin, Zhongwen Xu"
+      }
+    },
+    {
+      "title": "Learning the Simplest Neural ODE",
+      "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://export.arxiv.org/rss/stat.ML",
+        "value": "Learning the Simplest Neural ODE"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://arxiv.org/abs/2505.02019"
+        }
+      ],
+      "link": "https://arxiv.org/abs/2505.02019",
+      "summary": "arXiv:2505.02019v3 Announce Type: replace \nAbstract: Since the advent of the ``Neural Ordinary Differential Equation (Neural ODE)'' paper, learning ODEs with deep learning has been applied to system identification, time-series forecasting, and related areas. Exploiting the diffeomorphic nature of ODE solution maps, neural ODEs has also enabled their use in generative modeling. Despite the rich potential to incorporate various kinds of physical information, training Neural ODEs remains challenging in practice. This study demonstrates, through the simplest one-dimensional linear model, why training Neural ODEs is difficult. We then propose a new stabilization method and provide an analytical convergence analysis. The insights and techniques presented here serve as a concise tutorial for researchers beginning work on Neural ODEs.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://export.arxiv.org/rss/stat.ML",
+        "value": "arXiv:2505.02019v3 Announce Type: replace \nAbstract: Since the advent of the ``Neural Ordinary Differential Equation (Neural ODE)'' paper, learning ODEs with deep learning has been applied to system identification, time-series forecasting, and related areas. Exploiting the diffeomorphic nature of ODE solution maps, neural ODEs has also enabled their use in generative modeling. Despite the rich potential to incorporate various kinds of physical information, training Neural ODEs remains challenging in practice. This study demonstrates, through the simplest one-dimensional linear model, why training Neural ODEs is difficult. We then propose a new stabilization method and provide an analytical convergence analysis. The insights and techniques presented here serve as a concise tutorial for researchers beginning work on Neural ODEs."
+      },
+      "id": "oai:arXiv.org:2505.02019v3",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "stat.ML",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "cs.LG",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "math.DS",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "published": "Wed, 27 Aug 2025 00:00:00 -0400",
+      "published_parsed": [
+        2025,
+        8,
+        27,
+        4,
+        0,
+        0,
+        2,
+        239,
+        0
+      ],
+      "arxiv_announce_type": "replace",
+      "rights": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+      "rights_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://export.arxiv.org/rss/stat.ML",
+        "value": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/"
+      },
+      "authors": [
+        {
+          "name": "Yuji Okamoto, Tomoya Takeuchi, Yusuke Sakemi"
+        }
+      ],
+      "author": "Yuji Okamoto, Tomoya Takeuchi, Yusuke Sakemi",
+      "author_detail": {
+        "name": "Yuji Okamoto, Tomoya Takeuchi, Yusuke Sakemi"
+      }
+    },
+    {
+      "title": "Branch and Bound for Piecewise Linear Neural Network Verification",
+      "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://export.arxiv.org/rss/stat.ML",
+        "value": "Branch and Bound for Piecewise Linear Neural Network Verification"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://arxiv.org/abs/1909.06588"
+        }
+      ],
+      "link": "https://arxiv.org/abs/1909.06588",
+      "summary": "arXiv:1909.06588v5 Announce Type: replace-cross \nAbstract: The success of Deep Learning and its potential use in many safety-critical applications has motivated research on formal verification of Neural Network (NN) models. In this context, verification involves proving or disproving that an NN model satisfies certain input-output properties. Despite the reputation of learned NN models as black boxes, and the theoretical hardness of proving useful properties about them, researchers have been successful in verifying some classes of models by exploiting their piecewise linear structure and taking insights from formal methods such as Satisifiability Modulo Theory. However, these methods are still far from scaling to realistic neural networks. To facilitate progress on this crucial area, we exploit the Mixed Integer Linear Programming (MIP) formulation of verification to propose a family of algorithms based on Branch-and-Bound (BaB). We show that our family contains previous verification methods as special cases. With the help of the BaB framework, we make three key contributions. Firstly, we identify new methods that combine the strengths of multiple existing approaches, accomplishing significant performance improvements over previous state of the art. Secondly, we introduce an effective branching strategy on ReLU non-linearities. This branching strategy allows us to efficiently and successfully deal with high input dimensional problems with convolutional network architecture, on which previous methods fail frequently. Finally, we propose comprehensive test data sets and benchmarks which includes a collection of previously released testcases. We use the data sets to conduct a thorough experimental comparison of existing and new algorithms and to provide an inclusive analysis of the factors impacting the hardness of verification problems.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://export.arxiv.org/rss/stat.ML",
+        "value": "arXiv:1909.06588v5 Announce Type: replace-cross \nAbstract: The success of Deep Learning and its potential use in many safety-critical applications has motivated research on formal verification of Neural Network (NN) models. In this context, verification involves proving or disproving that an NN model satisfies certain input-output properties. Despite the reputation of learned NN models as black boxes, and the theoretical hardness of proving useful properties about them, researchers have been successful in verifying some classes of models by exploiting their piecewise linear structure and taking insights from formal methods such as Satisifiability Modulo Theory. However, these methods are still far from scaling to realistic neural networks. To facilitate progress on this crucial area, we exploit the Mixed Integer Linear Programming (MIP) formulation of verification to propose a family of algorithms based on Branch-and-Bound (BaB). We show that our family contains previous verification methods as special cases. With the help of the BaB framework, we make three key contributions. Firstly, we identify new methods that combine the strengths of multiple existing approaches, accomplishing significant performance improvements over previous state of the art. Secondly, we introduce an effective branching strategy on ReLU non-linearities. This branching strategy allows us to efficiently and successfully deal with high input dimensional problems with convolutional network architecture, on which previous methods fail frequently. Finally, we propose comprehensive test data sets and benchmarks which includes a collection of previously released testcases. We use the data sets to conduct a thorough experimental comparison of existing and new algorithms and to provide an inclusive analysis of the factors impacting the hardness of verification problems."
+      },
+      "id": "oai:arXiv.org:1909.06588v5",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "cs.LG",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "cs.LO",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "stat.ML",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "published": "Wed, 27 Aug 2025 00:00:00 -0400",
+      "published_parsed": [
+        2025,
+        8,
+        27,
+        4,
+        0,
+        0,
+        2,
+        239,
+        0
+      ],
+      "arxiv_announce_type": "replace-cross",
+      "rights": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+      "rights_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://export.arxiv.org/rss/stat.ML",
+        "value": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/"
+      },
+      "authors": [
+        {
+          "name": "Rudy Bunel, Jingyue Lu, Ilker Turkaslan, Philip H. S. Torr, Pushmeet Kohli, M. Pawan Kumar"
+        }
+      ],
+      "author": "Rudy Bunel, Jingyue Lu, Ilker Turkaslan, Philip H. S. Torr, Pushmeet Kohli, M. Pawan Kumar",
+      "author_detail": {
+        "name": "Rudy Bunel, Jingyue Lu, Ilker Turkaslan, Philip H. S. Torr, Pushmeet Kohli, M. Pawan Kumar"
+      }
+    },
+    {
+      "title": "Sharp Lower Bounds on Interpolation by Deep ReLU Neural Networks at Irregularly Spaced Data",
+      "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://export.arxiv.org/rss/stat.ML",
+        "value": "Sharp Lower Bounds on Interpolation by Deep ReLU Neural Networks at Irregularly Spaced Data"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://arxiv.org/abs/2302.00834"
+        }
+      ],
+      "link": "https://arxiv.org/abs/2302.00834",
+      "summary": "arXiv:2302.00834v3 Announce Type: replace-cross \nAbstract: We study the interpolation power of deep ReLU neural networks. Specifically, we consider the question of how efficiently, in terms of the number of parameters, deep ReLU networks can interpolate values at $N$ datapoints in the unit ball which are separated by a distance $\\delta$. We show that $\\Omega(N)$ parameters are required in the regime where $\\delta$ is exponentially small in $N$, which gives the sharp result in this regime since $O(N)$ parameters are always sufficient. This also shows that the bit-extraction technique used to prove lower bounds on the VC dimension cannot be applied to irregularly spaced datapoints. Finally, as an application we give a lower bound on the approximation rates that deep ReLU neural networks can achieve for Sobolev spaces at the embedding endpoint.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://export.arxiv.org/rss/stat.ML",
+        "value": "arXiv:2302.00834v3 Announce Type: replace-cross \nAbstract: We study the interpolation power of deep ReLU neural networks. Specifically, we consider the question of how efficiently, in terms of the number of parameters, deep ReLU networks can interpolate values at $N$ datapoints in the unit ball which are separated by a distance $\\delta$. We show that $\\Omega(N)$ parameters are required in the regime where $\\delta$ is exponentially small in $N$, which gives the sharp result in this regime since $O(N)$ parameters are always sufficient. This also shows that the bit-extraction technique used to prove lower bounds on the VC dimension cannot be applied to irregularly spaced datapoints. Finally, as an application we give a lower bound on the approximation rates that deep ReLU neural networks can achieve for Sobolev spaces at the embedding endpoint."
+      },
+      "id": "oai:arXiv.org:2302.00834v3",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "cs.LG",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "cs.NE",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "stat.ML",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "published": "Wed, 27 Aug 2025 00:00:00 -0400",
+      "published_parsed": [
+        2025,
+        8,
+        27,
+        4,
+        0,
+        0,
+        2,
+        239,
+        0
+      ],
+      "arxiv_announce_type": "replace-cross",
+      "rights": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+      "rights_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://export.arxiv.org/rss/stat.ML",
+        "value": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/"
+      },
+      "authors": [
+        {
+          "name": "Jonathan W. Siegel"
+        }
+      ],
+      "author": "Jonathan W. Siegel",
+      "author_detail": {
+        "name": "Jonathan W. Siegel"
+      }
+    },
+    {
+      "title": "Learning Optimal Classification Trees Robust to Distribution Shifts",
+      "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://export.arxiv.org/rss/stat.ML",
+        "value": "Learning Optimal Classification Trees Robust to Distribution Shifts"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://arxiv.org/abs/2310.17772"
+        }
+      ],
+      "link": "https://arxiv.org/abs/2310.17772",
+      "summary": "arXiv:2310.17772v3 Announce Type: replace-cross \nAbstract: We consider the problem of learning classification trees that are robust to distribution shifts between training and testing/deployment data. This problem arises frequently in high stakes settings such as public health and social work where data is often collected using self-reported surveys which are highly sensitive to e.g., the framing of the questions, the time when and place where the survey is conducted, and the level of comfort the interviewee has in sharing information with the interviewer. We propose a method for learning optimal robust classification trees based on mixed-integer robust optimization technology. In particular, we demonstrate that the problem of learning an optimal robust tree can be cast as a single-stage mixed-integer robust optimization problem with a highly nonlinear and discontinuous objective. We reformulate this problem equivalently as a two-stage linear robust optimization problem for which we devise a tailored solution procedure based on constraint generation. We evaluate the performance of our approach on numerous publicly available datasets, and compare the performance to a regularized, non-robust optimal tree. We show an increase of up to 12.48% in worst-case accuracy and of up to 4.85% in average-case accuracy across several datasets and distribution shifts from using our robust solution in comparison to the non-robust one.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://export.arxiv.org/rss/stat.ML",
+        "value": "arXiv:2310.17772v3 Announce Type: replace-cross \nAbstract: We consider the problem of learning classification trees that are robust to distribution shifts between training and testing/deployment data. This problem arises frequently in high stakes settings such as public health and social work where data is often collected using self-reported surveys which are highly sensitive to e.g., the framing of the questions, the time when and place where the survey is conducted, and the level of comfort the interviewee has in sharing information with the interviewer. We propose a method for learning optimal robust classification trees based on mixed-integer robust optimization technology. In particular, we demonstrate that the problem of learning an optimal robust tree can be cast as a single-stage mixed-integer robust optimization problem with a highly nonlinear and discontinuous objective. We reformulate this problem equivalently as a two-stage linear robust optimization problem for which we devise a tailored solution procedure based on constraint generation. We evaluate the performance of our approach on numerous publicly available datasets, and compare the performance to a regularized, non-robust optimal tree. We show an increase of up to 12.48% in worst-case accuracy and of up to 4.85% in average-case accuracy across several datasets and distribution shifts from using our robust solution in comparison to the non-robust one."
+      },
+      "id": "oai:arXiv.org:2310.17772v3",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "cs.LG",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "math.OC",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "stat.ML",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "published": "Wed, 27 Aug 2025 00:00:00 -0400",
+      "published_parsed": [
+        2025,
+        8,
+        27,
+        4,
+        0,
+        0,
+        2,
+        239,
+        0
+      ],
+      "arxiv_announce_type": "replace-cross",
+      "rights": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+      "rights_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://export.arxiv.org/rss/stat.ML",
+        "value": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/"
+      },
+      "authors": [
+        {
+          "name": "Nathan Justin, Sina Aghaei, Andr\\'es G\\'omez, Phebe Vayanos"
+        }
+      ],
+      "author": "Nathan Justin, Sina Aghaei, Andr\\'es G\\'omez, Phebe Vayanos",
+      "author_detail": {
+        "name": "Nathan Justin, Sina Aghaei, Andr\\'es G\\'omez, Phebe Vayanos"
+      }
+    },
+    {
+      "title": "How many samples are needed to train a deep neural network?",
+      "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://export.arxiv.org/rss/stat.ML",
+        "value": "How many samples are needed to train a deep neural network?"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://arxiv.org/abs/2405.16696"
+        }
+      ],
+      "link": "https://arxiv.org/abs/2405.16696",
+      "summary": "arXiv:2405.16696v2 Announce Type: replace-cross \nAbstract: Neural networks have become standard tools in many areas, yet many important statistical questions remain open. This paper studies the question of how much data are needed to train a ReLU feed-forward neural network. Our theoretical and empirical results suggest that the generalization error of ReLU feed-forward neural networks scales at the rate $1/\\sqrt{n}$ in the sample size $n$ rather than the usual \"parametric rate\" $1/n$. Thus, broadly speaking, our results underpin the common belief that neural networks need \"many\" training samples.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://export.arxiv.org/rss/stat.ML",
+        "value": "arXiv:2405.16696v2 Announce Type: replace-cross \nAbstract: Neural networks have become standard tools in many areas, yet many important statistical questions remain open. This paper studies the question of how much data are needed to train a ReLU feed-forward neural network. Our theoretical and empirical results suggest that the generalization error of ReLU feed-forward neural networks scales at the rate $1/\\sqrt{n}$ in the sample size $n$ rather than the usual \"parametric rate\" $1/n$. Thus, broadly speaking, our results underpin the common belief that neural networks need \"many\" training samples."
+      },
+      "id": "oai:arXiv.org:2405.16696v2",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "math.ST",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "stat.ML",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "stat.TH",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "published": "Wed, 27 Aug 2025 00:00:00 -0400",
+      "published_parsed": [
+        2025,
+        8,
+        27,
+        4,
+        0,
+        0,
+        2,
+        239,
+        0
+      ],
+      "arxiv_announce_type": "replace-cross",
+      "rights": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+      "rights_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://export.arxiv.org/rss/stat.ML",
+        "value": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/"
+      },
+      "authors": [
+        {
+          "name": "Pegah Golestaneh, Mahsa Taheri, Johannes Lederer"
+        }
+      ],
+      "author": "Pegah Golestaneh, Mahsa Taheri, Johannes Lederer",
+      "author_detail": {
+        "name": "Pegah Golestaneh, Mahsa Taheri, Johannes Lederer"
+      }
+    },
+    {
+      "title": "Activation degree thresholds and expressiveness of polynomial neural networks",
+      "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://export.arxiv.org/rss/stat.ML",
+        "value": "Activation degree thresholds and expressiveness of polynomial neural networks"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://arxiv.org/abs/2408.04569"
+        }
+      ],
+      "link": "https://arxiv.org/abs/2408.04569",
+      "summary": "arXiv:2408.04569v4 Announce Type: replace-cross \nAbstract: We study the expressive power of deep polynomial neural networks through the geometry of their neurovariety. We introduce the notion of the activation degree threshold of a network architecture to express when the dimension of the neurovariety achieves its theoretical maximum. We prove the existence of the activation degree threshold for all polynomial neural networks without width-one bottlenecks and demonstrate a universal upper bound that is quadratic in the width of largest size. In doing so, we prove the high activation degree conjecture of Kileel, Trager, and Bruna. Certain structured architectures have exceptional activation degree thresholds, making them especially expressive in the sense of their neurovariety dimension. In this direction, we prove that polynomial neural networks with equi-width architectures are maximally expressive by showing their activation degree threshold is one.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://export.arxiv.org/rss/stat.ML",
+        "value": "arXiv:2408.04569v4 Announce Type: replace-cross \nAbstract: We study the expressive power of deep polynomial neural networks through the geometry of their neurovariety. We introduce the notion of the activation degree threshold of a network architecture to express when the dimension of the neurovariety achieves its theoretical maximum. We prove the existence of the activation degree threshold for all polynomial neural networks without width-one bottlenecks and demonstrate a universal upper bound that is quadratic in the width of largest size. In doing so, we prove the high activation degree conjecture of Kileel, Trager, and Bruna. Certain structured architectures have exceptional activation degree thresholds, making them especially expressive in the sense of their neurovariety dimension. In this direction, we prove that polynomial neural networks with equi-width architectures are maximally expressive by showing their activation degree threshold is one."
+      },
+      "id": "oai:arXiv.org:2408.04569v4",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "cs.LG",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "cs.NE",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "math.AG",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "stat.ML",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "published": "Wed, 27 Aug 2025 00:00:00 -0400",
+      "published_parsed": [
+        2025,
+        8,
+        27,
+        4,
+        0,
+        0,
+        2,
+        239,
+        0
+      ],
+      "arxiv_announce_type": "replace-cross",
+      "rights": "http://creativecommons.org/licenses/by/4.0/",
+      "rights_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://export.arxiv.org/rss/stat.ML",
+        "value": "http://creativecommons.org/licenses/by/4.0/"
+      },
+      "authors": [
+        {
+          "name": "Bella Finkel, Jose Israel Rodriguez, Chenxi Wu, Thomas Yahl"
+        }
+      ],
+      "author": "Bella Finkel, Jose Israel Rodriguez, Chenxi Wu, Thomas Yahl",
+      "author_detail": {
+        "name": "Bella Finkel, Jose Israel Rodriguez, Chenxi Wu, Thomas Yahl"
+      }
+    },
+    {
+      "title": "Data Compression using Rank-1 Lattices for Parameter Estimation in Machine Learning",
+      "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://export.arxiv.org/rss/stat.ML",
+        "value": "Data Compression using Rank-1 Lattices for Parameter Estimation in Machine Learning"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://arxiv.org/abs/2409.13453"
+        }
+      ],
+      "link": "https://arxiv.org/abs/2409.13453",
+      "summary": "arXiv:2409.13453v2 Announce Type: replace-cross \nAbstract: The mean squared error and regularized versions of it are standard loss functions in supervised machine learning. However, calculating these losses for large data sets can be computationally demanding. Modifying an approach of J. Dick and M. Feischl [Journal of Complexity 67 (2021)], we present algorithms to reduce extensive data sets to a smaller size using rank-1 lattices. Rank-1 lattices are quasi-Monte Carlo (QMC) point sets that are, if carefully chosen, well-distributed in a multidimensional unit cube. The compression strategy in the preprocessing step assigns every lattice point a pair of weights depending on the original data and responses, representing its relative importance. As a result, the compressed data makes iterative loss calculations in optimization steps much faster. We analyze the errors of our QMC data compression algorithms and the cost of the preprocessing step for functions whose Fourier coefficients decay sufficiently fast so that they lie in certain Wiener algebras or Korobov spaces. In particular, we prove that our approach can lead to arbitrary high convergence rates as long as the functions are sufficiently smooth.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://export.arxiv.org/rss/stat.ML",
+        "value": "arXiv:2409.13453v2 Announce Type: replace-cross \nAbstract: The mean squared error and regularized versions of it are standard loss functions in supervised machine learning. However, calculating these losses for large data sets can be computationally demanding. Modifying an approach of J. Dick and M. Feischl [Journal of Complexity 67 (2021)], we present algorithms to reduce extensive data sets to a smaller size using rank-1 lattices. Rank-1 lattices are quasi-Monte Carlo (QMC) point sets that are, if carefully chosen, well-distributed in a multidimensional unit cube. The compression strategy in the preprocessing step assigns every lattice point a pair of weights depending on the original data and responses, representing its relative importance. As a result, the compressed data makes iterative loss calculations in optimization steps much faster. We analyze the errors of our QMC data compression algorithms and the cost of the preprocessing step for functions whose Fourier coefficients decay sufficiently fast so that they lie in certain Wiener algebras or Korobov spaces. In particular, we prove that our approach can lead to arbitrary high convergence rates as long as the functions are sufficiently smooth."
+      },
+      "id": "oai:arXiv.org:2409.13453v2",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "math.NA",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "cs.LG",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "cs.NA",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "stat.ML",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "published": "Wed, 27 Aug 2025 00:00:00 -0400",
+      "published_parsed": [
+        2025,
+        8,
+        27,
+        4,
+        0,
+        0,
+        2,
+        239,
+        0
+      ],
+      "arxiv_announce_type": "replace-cross",
+      "rights": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "rights_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://export.arxiv.org/rss/stat.ML",
+        "value": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+      },
+      "authors": [
+        {
+          "name": "Michael Gnewuch, Kumar Harsha, Marcin Wnuk"
+        }
+      ],
+      "author": "Michael Gnewuch, Kumar Harsha, Marcin Wnuk",
+      "author_detail": {
+        "name": "Michael Gnewuch, Kumar Harsha, Marcin Wnuk"
+      }
+    },
+    {
+      "title": "Subjective Perspectives within Learned Representations Predict High-Impact Innovation",
+      "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://export.arxiv.org/rss/stat.ML",
+        "value": "Subjective Perspectives within Learned Representations Predict High-Impact Innovation"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://arxiv.org/abs/2506.04616"
+        }
+      ],
+      "link": "https://arxiv.org/abs/2506.04616",
+      "summary": "arXiv:2506.04616v2 Announce Type: replace-cross \nAbstract: Existing studies of innovation emphasize the power of social structures to shape innovation capacity. Emerging machine learning approaches, however, enable us to model innovators' personal perspectives and interpersonal innovation opportunities as a function of their prior experience. We theorize and then quantify subjective perspectives and their interaction based on innovator positions within the geometric space of concepts inscribed by dynamic machine-learned language representations. Using data on millions of scientists, inventors, screenplay writers, entrepreneurs, and Wikipedia contributors across their respective creative domains, here we show that measured subjective perspectives predict which ideas individuals and groups will creatively attend to and successfully combine in the future. Across all cases and time periods we examine, when perspective diversity is decomposed as the difference between collaborators' perspectives on their creation, and background diversity as the difference between their experiences, the former consistently anticipates creative achievement while the latter portends its opposite. We analyze a natural experiment and simulate creative collaborations between AI agents designed with various perspective and background diversity, which support our observational findings. We explore mechanisms underlying these findings and identify how successful collaborators leverage common language to weave together diverse experiences obtained through trajectories of prior work. These perspectives converge and provoke one another to innovate. We examine the significance of these findings for team formation and research policy.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://export.arxiv.org/rss/stat.ML",
+        "value": "arXiv:2506.04616v2 Announce Type: replace-cross \nAbstract: Existing studies of innovation emphasize the power of social structures to shape innovation capacity. Emerging machine learning approaches, however, enable us to model innovators' personal perspectives and interpersonal innovation opportunities as a function of their prior experience. We theorize and then quantify subjective perspectives and their interaction based on innovator positions within the geometric space of concepts inscribed by dynamic machine-learned language representations. Using data on millions of scientists, inventors, screenplay writers, entrepreneurs, and Wikipedia contributors across their respective creative domains, here we show that measured subjective perspectives predict which ideas individuals and groups will creatively attend to and successfully combine in the future. Across all cases and time periods we examine, when perspective diversity is decomposed as the difference between collaborators' perspectives on their creation, and background diversity as the difference between their experiences, the former consistently anticipates creative achievement while the latter portends its opposite. We analyze a natural experiment and simulate creative collaborations between AI agents designed with various perspective and background diversity, which support our observational findings. We explore mechanisms underlying these findings and identify how successful collaborators leverage common language to weave together diverse experiences obtained through trajectories of prior work. These perspectives converge and provoke one another to innovate. We examine the significance of these findings for team formation and research policy."
+      },
+      "id": "oai:arXiv.org:2506.04616v2",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "cs.CL",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "stat.AP",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "stat.ML",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "published": "Wed, 27 Aug 2025 00:00:00 -0400",
+      "published_parsed": [
+        2025,
+        8,
+        27,
+        4,
+        0,
+        0,
+        2,
+        239,
+        0
+      ],
+      "arxiv_announce_type": "replace-cross",
+      "rights": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "rights_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://export.arxiv.org/rss/stat.ML",
+        "value": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+      },
+      "authors": [
+        {
+          "name": "Likun Cao, Rui Pan, James Evans"
+        }
+      ],
+      "author": "Likun Cao, Rui Pan, James Evans",
+      "author_detail": {
+        "name": "Likun Cao, Rui Pan, James Evans"
+      }
+    },
+    {
+      "title": "Comparison of Data Reduction Criteria for Online Gaussian Processes",
+      "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://export.arxiv.org/rss/stat.ML",
+        "value": "Comparison of Data Reduction Criteria for Online Gaussian Processes"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://arxiv.org/abs/2508.10815"
+        }
+      ],
+      "link": "https://arxiv.org/abs/2508.10815",
+      "summary": "arXiv:2508.10815v2 Announce Type: replace-cross \nAbstract: Gaussian Processes (GPs) are widely used for regression and system identification due to their flexibility and ability to quantify uncertainty. However, their computational complexity limits their applicability to small datasets. Moreover in a streaming scenario, more and more datapoints accumulate which is intractable even for Sparse GPs. Online GPs aim to alleviate this problem by e.g. defining a maximum budget of datapoints and removing redundant datapoints. This work provides a unified comparison of several reduction criteria, analyzing both their computational complexity and reduction behavior. The criteria are evaluated on benchmark functions and real-world datasets, including dynamic system identification tasks. Additionally, acceptance criteria are proposed to further filter out redundant datapoints. This work yields practical guidelines for choosing a suitable criterion for an online GP algorithm.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://export.arxiv.org/rss/stat.ML",
+        "value": "arXiv:2508.10815v2 Announce Type: replace-cross \nAbstract: Gaussian Processes (GPs) are widely used for regression and system identification due to their flexibility and ability to quantify uncertainty. However, their computational complexity limits their applicability to small datasets. Moreover in a streaming scenario, more and more datapoints accumulate which is intractable even for Sparse GPs. Online GPs aim to alleviate this problem by e.g. defining a maximum budget of datapoints and removing redundant datapoints. This work provides a unified comparison of several reduction criteria, analyzing both their computational complexity and reduction behavior. The criteria are evaluated on benchmark functions and real-world datasets, including dynamic system identification tasks. Additionally, acceptance criteria are proposed to further filter out redundant datapoints. This work yields practical guidelines for choosing a suitable criterion for an online GP algorithm."
+      },
+      "id": "oai:arXiv.org:2508.10815v2",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "cs.LG",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "stat.ML",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "published": "Wed, 27 Aug 2025 00:00:00 -0400",
+      "published_parsed": [
+        2025,
+        8,
+        27,
+        4,
+        0,
+        0,
+        2,
+        239,
+        0
+      ],
+      "arxiv_announce_type": "replace-cross",
+      "rights": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "rights_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://export.arxiv.org/rss/stat.ML",
+        "value": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+      },
+      "authors": [
+        {
+          "name": "Thore Wietzke, Knut Graichen"
+        }
+      ],
+      "author": "Thore Wietzke, Knut Graichen",
+      "author_detail": {
+        "name": "Thore Wietzke, Knut Graichen"
+      }
+    },
+    {
+      "title": "Curvature Learning for Generalization of Hyperbolic Neural Networks",
+      "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://export.arxiv.org/rss/stat.ML",
+        "value": "Curvature Learning for Generalization of Hyperbolic Neural Networks"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://arxiv.org/abs/2508.17232"
+        }
+      ],
+      "link": "https://arxiv.org/abs/2508.17232",
+      "summary": "arXiv:2508.17232v2 Announce Type: replace-cross \nAbstract: Hyperbolic neural networks (HNNs) have demonstrated notable efficacy in representing real-world data with hierarchical structures via exploiting the geometric properties of hyperbolic spaces characterized by negative curvatures. Curvature plays a crucial role in optimizing HNNs. Inappropriate curvatures may cause HNNs to converge to suboptimal parameters, degrading overall performance. So far, the theoretical foundation of the effect of curvatures on HNNs has not been developed. In this paper, we derive a PAC-Bayesian generalization bound of HNNs, highlighting the role of curvatures in the generalization of HNNs via their effect on the smoothness of the loss landscape. Driven by the derived bound, we propose a sharpness-aware curvature learning method to smooth the loss landscape, thereby improving the generalization of HNNs. In our method,\n  we design a scope sharpness measure for curvatures, which is minimized through a bi-level optimization process. Then, we introduce an implicit differentiation algorithm that efficiently solves the bi-level optimization by approximating gradients of curvatures. We present the approximation error and convergence analyses of the proposed method, showing that the approximation error is upper-bounded, and the proposed method can converge by bounding gradients of HNNs. Experiments on four settings: classification, learning from long-tailed data, learning from noisy data, and few-shot learning show that our method can improve the performance of HNNs.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://export.arxiv.org/rss/stat.ML",
+        "value": "arXiv:2508.17232v2 Announce Type: replace-cross \nAbstract: Hyperbolic neural networks (HNNs) have demonstrated notable efficacy in representing real-world data with hierarchical structures via exploiting the geometric properties of hyperbolic spaces characterized by negative curvatures. Curvature plays a crucial role in optimizing HNNs. Inappropriate curvatures may cause HNNs to converge to suboptimal parameters, degrading overall performance. So far, the theoretical foundation of the effect of curvatures on HNNs has not been developed. In this paper, we derive a PAC-Bayesian generalization bound of HNNs, highlighting the role of curvatures in the generalization of HNNs via their effect on the smoothness of the loss landscape. Driven by the derived bound, we propose a sharpness-aware curvature learning method to smooth the loss landscape, thereby improving the generalization of HNNs. In our method,\n  we design a scope sharpness measure for curvatures, which is minimized through a bi-level optimization process. Then, we introduce an implicit differentiation algorithm that efficiently solves the bi-level optimization by approximating gradients of curvatures. We present the approximation error and convergence analyses of the proposed method, showing that the approximation error is upper-bounded, and the proposed method can converge by bounding gradients of HNNs. Experiments on four settings: classification, learning from long-tailed data, learning from noisy data, and few-shot learning show that our method can improve the performance of HNNs."
+      },
+      "id": "oai:arXiv.org:2508.17232v2",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "cs.LG",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "cs.CV",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "stat.ML",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "published": "Wed, 27 Aug 2025 00:00:00 -0400",
+      "published_parsed": [
+        2025,
+        8,
+        27,
+        4,
+        0,
+        0,
+        2,
+        239,
+        0
+      ],
+      "arxiv_announce_type": "replace-cross",
+      "rights": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "rights_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://export.arxiv.org/rss/stat.ML",
+        "value": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+      },
+      "authors": [
+        {
+          "name": "Xiaomeng Fan, Yuwei Wu, Zhi Gao, Mehrtash Harandi, Yunde Jia"
+        }
+      ],
+      "author": "Xiaomeng Fan, Yuwei Wu, Zhi Gao, Mehrtash Harandi, Yunde Jia",
+      "author_detail": {
+        "name": "Xiaomeng Fan, Yuwei Wu, Zhi Gao, Mehrtash Harandi, Yunde Jia"
+      }
+    }
+  ]
+}

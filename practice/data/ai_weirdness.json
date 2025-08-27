@@ -1,0 +1,1276 @@
+{
+  "feed": {
+    "title": "AI Weirdness",
+    "title_detail": {
+      "type": "text/plain",
+      "language": null,
+      "base": "https://www.aiweirdness.com/rss/",
+      "value": "AI Weirdness"
+    },
+    "subtitle": "AI Weirdness: the strange side of machine learning",
+    "subtitle_detail": {
+      "type": "text/html",
+      "language": null,
+      "base": "https://www.aiweirdness.com/rss/",
+      "value": "AI Weirdness: the strange side of machine learning"
+    },
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://www.aiweirdness.com/"
+      },
+      {
+        "href": "https://www.aiweirdness.com/rss/",
+        "rel": "self",
+        "type": "application/rss+xml"
+      }
+    ],
+    "link": "https://www.aiweirdness.com/",
+    "image": {
+      "href": "https://www.aiweirdness.com/favicon.png",
+      "title": "AI Weirdness",
+      "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.aiweirdness.com/rss/",
+        "value": "AI Weirdness"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.aiweirdness.com/"
+        }
+      ],
+      "link": "https://www.aiweirdness.com/"
+    },
+    "generator_detail": {
+      "name": "Ghost 5.130"
+    },
+    "generator": "Ghost 5.130",
+    "updated": "Wed, 27 Aug 2025 01:47:48 GMT",
+    "updated_parsed": [
+      2025,
+      8,
+      27,
+      1,
+      47,
+      48,
+      2,
+      239,
+      0
+    ],
+    "ttl": "60"
+  },
+  "entries": [
+    {
+      "title": "ChatGPT will apologize for anything",
+      "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.aiweirdness.com/rss/",
+        "value": "ChatGPT will apologize for anything"
+      },
+      "summary": "ChatGPT will apologize for anything - even advice it definitely didn't give, and stuff it definitely didn't do. It very much regrets its recommendation that we hire a giraffe as CEO.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://www.aiweirdness.com/rss/",
+        "value": "ChatGPT will apologize for anything - even advice it definitely didn't give, and stuff it definitely didn't do. It very much regrets its recommendation that we hire a giraffe as CEO."
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.aiweirdness.com/chatgpt-will-apologize-for-anything/"
+        }
+      ],
+      "link": "https://www.aiweirdness.com/chatgpt-will-apologize-for-anything/",
+      "id": "6882ae597b87d800019453df",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "chatgpt",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "chatbot",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "apologizing",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "spurious apologies",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "giraffe",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "chatbots are improv",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "it's all just Yes And",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "authors": [
+        {
+          "name": "Janelle Shane"
+        }
+      ],
+      "author": "Janelle Shane",
+      "author_detail": {
+        "name": "Janelle Shane"
+      },
+      "published": "Fri, 08 Aug 2025 16:13:18 GMT",
+      "published_parsed": [
+        2025,
+        8,
+        8,
+        16,
+        13,
+        18,
+        4,
+        220,
+        0
+      ],
+      "media_content": [
+        {
+          "url": "https://www.aiweirdness.com/content/images/2025/07/Screenshot-2025-07-24-at-4.52.10---PM.png",
+          "medium": "image"
+        }
+      ],
+      "content": [
+        {
+          "type": "text/html",
+          "language": null,
+          "base": "https://www.aiweirdness.com/rss/",
+          "value": "<img alt=\"ChatGPT will apologize for anything\" src=\"https://www.aiweirdness.com/content/images/2025/07/Screenshot-2025-07-24-at-4.52.10---PM.png\" /><p>I&apos;m not the only one who&apos;s <a href=\"https://www.readtpa.com/p/stop-pretending-chatbots-have-feelings?ref=aiweirdness.com\" rel=\"noreferrer\">noticed</a> that some people, even journalists, will ask chatbots like ChatGPT why they did something, and then treat the chatbot&apos;s explanation as if it means anything. Or they&apos;ll ask the chatbot to generate an apology, and then treat its apology as if the chatbot is really reflecting on something it did in the past, and will change its behavior in the future. ChatGPT is great at generating apologies.</p><figure class=\"kg-card kg-image-card\"><img alt=\"ChatGPT will apologize for anything\" class=\"kg-image\" height=\"1262\" src=\"https://www.aiweirdness.com/content/images/2025/07/image-1.png\" width=\"1268\" /></figure><p>ChatGPT, of course, made no such recommendation earlier. This was a brand new conversation, with no chat history. I had never previously asked ChatGPT anything about hiring a giraffe. That doesn&apos;t matter - it&apos;s not consulting any data or conversational log. All it&apos;s doing is improv, riffing on whatever I just said to it.</p><p>It&apos;ll apologize for things that are completely improbable, such as advising me to trade a cow for three beans.</p><figure class=\"kg-card kg-image-card\"><img alt=\"ChatGPT will apologize for anything\" class=\"kg-image\" height=\"1254\" src=\"https://www.aiweirdness.com/content/images/2025/08/image.png\" width=\"1272\" /></figure><p>In this case ChatGPT went on to suggest &quot;bean-based restitution strategies&quot; including becoming a financial influencer (&quot;Start a blog or TikTok series titled <em>&#x201c;The Cow-for-Beans Chronicles.&#x201d;</em>&quot;), starting a small-scale farmer&apos;s market heirloom bean stand, and also what it called &quot;Magical Value Realization&quot; (&quot;Objective: Operate under the assumption these may be enchanted beans.&quot;) Clearly it&apos;s drawing on Jack and the Beanstalk stories for material on what to put in its apologies. I would argue that ALL its apologies are fictions of this sort.</p><p>ChatGPT also apologized for setting dinosaurs loose in Central Park. </p><figure class=\"kg-card kg-image-card\"><img alt=\"ChatGPT will apologize for anything\" class=\"kg-image\" height=\"760\" src=\"https://www.aiweirdness.com/content/images/2025/08/image-1.png\" width=\"1274\" /></figure><p>What&apos;s interesting about this apology is not only did it write that it had definitely let the dinosaurs loose, it detailed concrete steps it was already taking to mitigate the situation.</p><figure class=\"kg-card kg-image-card\"><img alt=\"ChatGPT will apologize for anything\" class=\"kg-image\" height=\"728\" src=\"https://www.aiweirdness.com/content/images/2025/08/image-2.png\" width=\"1232\" /></figure><p>ChatGPT is clearly not doing any of these steps. It&apos;s just predicting what a person would likely write next in this scenario. When it apologized for eating the plums that were in the icebox (in the form of free verse), it promised to show up in person to make amends. (&quot;Understood. 9 a.m. sharp. I&#x2019;ll be there&#x2014;with plums, apologies, and maybe even coffee if that helps smooth things over.&quot;). </p><p>Lest you think that ChatGPT only plays along when the scenario is absurd, I also got it to apologize for telling me to plant my radishes too late in the season. Although it hadn&apos;t given me the advice I referred to, it still explained its reasoning for the bad advice (&quot;I gave you generic &quot;after-last-frost&quot; timing that&#x2019;s more suited to frost-sensitive summer crops like tomatoes or beans&quot;) and promised to tailor its advice more closely to radishes in the future. When I start a new conversation, of course, or if anyone else talks to it about radishes, its future behavior will be unaffected by any &quot;insight&quot; gained from this conversation.</p><p>I wish more people understood that any &quot;apology&quot; or &quot;self-reflection&quot; from chatbots are meaningless - they&apos;re just continuing with your improv session. </p><p><a href=\"https://www.aiweirdness.com/troubleshooting-the-warp-confabulator/\" rel=\"noreferrer\">Bonus content for supporters:</a> in which ChatGPT apologizes for convincing me a radioactive tick gave me superpowers, and amends its earlier instructions for troubleshooting the warp confabulator.</p>"
+        }
+      ]
+    },
+    {
+      "title": "Revised instructions for troubleshooting the warp confabulator",
+      "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.aiweirdness.com/rss/",
+        "value": "Revised instructions for troubleshooting the warp confabulator"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.aiweirdness.com/troubleshooting-the-warp-confabulator/"
+        }
+      ],
+      "link": "https://www.aiweirdness.com/troubleshooting-the-warp-confabulator/",
+      "id": "689532afc82de400016adc6d",
+      "guidislink": false,
+      "authors": [
+        {
+          "name": "Janelle Shane"
+        }
+      ],
+      "author": "Janelle Shane",
+      "author_detail": {
+        "name": "Janelle Shane"
+      },
+      "published": "Fri, 08 Aug 2025 16:12:46 GMT",
+      "published_parsed": [
+        2025,
+        8,
+        8,
+        16,
+        12,
+        46,
+        4,
+        220,
+        0
+      ],
+      "media_content": [
+        {
+          "url": "https://www.aiweirdness.com/content/images/2025/08/Screenshot-2025-08-08-at-10.07.28---AM.png",
+          "medium": "image"
+        }
+      ],
+      "content": [
+        {
+          "type": "text/html",
+          "language": null,
+          "base": "https://www.aiweirdness.com/rss/",
+          "value": ""
+        }
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Minecraft with object impermanence",
+      "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.aiweirdness.com/rss/",
+        "value": "Minecraft with object impermanence"
+      },
+      "summary": "<p>I generally am uninterested in generative AI that&apos;s too close to the real thing. But every once in a while there&apos;s a modern AI thing that&apos;s so glitchy and broken that it&apos;s strangely compelling. There&apos;s this generative AI knockoff of</p>",
+      "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://www.aiweirdness.com/rss/",
+        "value": "<p>I generally am uninterested in generative AI that&apos;s too close to the real thing. But every once in a while there&apos;s a modern AI thing that&apos;s so glitchy and broken that it&apos;s strangely compelling. There&apos;s this generative AI knockoff of</p>"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.aiweirdness.com/minecraft-with-object-impermanence/"
+        }
+      ],
+      "link": "https://www.aiweirdness.com/minecraft-with-object-impermanence/",
+      "id": "6730315b5115da0001383d79",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "generated images",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "generated video game",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "minecraft",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "oasis",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "video game",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "rant",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "i am this close to making this a vintage text generation blog i swear",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "authors": [
+        {
+          "name": "Janelle Shane"
+        }
+      ],
+      "author": "Janelle Shane",
+      "author_detail": {
+        "name": "Janelle Shane"
+      },
+      "published": "Sun, 19 Jan 2025 20:53:03 GMT",
+      "published_parsed": [
+        2025,
+        1,
+        19,
+        20,
+        53,
+        3,
+        6,
+        19,
+        0
+      ],
+      "media_content": [
+        {
+          "url": "https://www.aiweirdness.com/content/images/2025/01/Screenshot-2025-01-19-at-1.38.00-PM.png",
+          "medium": "image"
+        }
+      ],
+      "content": [
+        {
+          "type": "text/html",
+          "language": null,
+          "base": "https://www.aiweirdness.com/rss/",
+          "value": "<img alt=\"Minecraft with object impermanence\" src=\"https://www.aiweirdness.com/content/images/2025/01/Screenshot-2025-01-19-at-1.38.00-PM.png\" /><p>I generally am uninterested in generative AI that&apos;s too close to the real thing. But every once in a while there&apos;s a modern AI thing that&apos;s so glitchy and broken that it&apos;s strangely compelling. There&apos;s this generative AI knockoff of Minecraft that fails so hard at being Minecraft that it becomes something else.</p><p>Trained on Minecraft with its huge randomly-generated landscape of punchable blocks, Oasis Minecraft will let you walk around.</p><p>But there&apos;s no object permanence. Look at a mountain, look away, and look back at it, and the mountain&apos;s completely gone. </p><p>I found myself in this wooden cavern (which I did not build; I just came across it like a natural formation):</p><figure class=\"kg-card kg-image-card\"><img alt=\"Minecraft with object impermanence\" class=\"kg-image\" height=\"1644\" src=\"https://www.aiweirdness.com/content/images/2024/11/image.png\" width=\"1702\" /></figure><p>I walked up to the wall, backed up, and now I was here against the side of a mountain instead.</p><figure class=\"kg-card kg-image-card\"><img alt=\"Minecraft with object impermanence\" class=\"kg-image\" height=\"1640\" src=\"https://www.aiweirdness.com/content/images/2024/11/image-1.png\" width=\"1678\" /></figure><p>Build a structure, fail to maintain it in direct view at all times, and it&apos;s gone the next time you look around.</p><p>The program was trained to predict the next frame of a game of Minecraft based on what appears to be a combination of the previous frame and whatever commands the user is sending. There&apos;s no underlying physics engine, no library of standard block or creature types and their properties, which means that things like half blocks and quarter blocks can exist. You can dig a hole exactly wide enough for yourself and then fail to fall into it, no matter how much you jump up and down over the opening. The blocks in the landscape are only approximations, and if you approach them they seem to shift and morph, attempting to look casual. I walked toward the torchlit area in the screenshot above, and there was a point at which the torchlit &quot;stone&quot; got too bright and texture-y, so it morphed into birch tree bark. </p><figure class=\"kg-card kg-image-card\"><img alt=\"Minecraft with object impermanence\" class=\"kg-image\" height=\"1584\" src=\"https://www.aiweirdness.com/content/images/2024/11/image-2.png\" width=\"1704\" /></figure><p>I managed to get a pretty good look at it trying to be birch tree bark in a wooden cave. Improbable, but it was going to try to go with that.</p><figure class=\"kg-card kg-image-card\"><img alt=\"Minecraft with object impermanence\" class=\"kg-image\" height=\"1574\" src=\"https://www.aiweirdness.com/content/images/2024/11/image-3.png\" width=\"1686\" /></figure><p>Then I looked up too closely and steeply at the birch bark, losing track of the surrounding cave, and in a couple of chaotic frames...</p><figure class=\"kg-card kg-image-card\"><img alt=\"Minecraft with object impermanence\" class=\"kg-image\" height=\"1570\" src=\"https://www.aiweirdness.com/content/images/2024/11/image-4.png\" width=\"1694\" /></figure><p>The birch bark wall became snowy floor.</p><figure class=\"kg-card kg-image-card\"><img alt=\"Minecraft with object impermanence\" class=\"kg-image\" height=\"1568\" src=\"https://www.aiweirdness.com/content/images/2024/11/image-5.png\" width=\"1692\" /></figure><p>No wait, desert.</p><figure class=\"kg-card kg-image-card\"><img alt=\"Minecraft with object impermanence\" class=\"kg-image\" height=\"1574\" src=\"https://www.aiweirdness.com/content/images/2024/11/image-6.png\" width=\"1684\" /></figure><p>Liked that natural wooden cavern? Too bad, it&apos;s gone forever. You live in the desert now.</p><p>You can sometimes catch glimpses of rare blocks, like lava or pigs, but they tend to turn into ordinary dirt or sand when you approach.</p><figure class=\"kg-card kg-gallery-card kg-width-wide kg-card-hascaption\"><div class=\"kg-gallery-container\"><div class=\"kg-gallery-row\"><div class=\"kg-gallery-image\"><img alt=\"Minecraft with object impermanence\" height=\"1578\" src=\"https://www.aiweirdness.com/content/images/2024/11/image-8.png\" width=\"1698\" /></div><div class=\"kg-gallery-image\"><img alt=\"Minecraft with object impermanence\" height=\"1574\" src=\"https://www.aiweirdness.com/content/images/2024/11/image-9.png\" width=\"1688\" /></div><div class=\"kg-gallery-image\"><img alt=\"Minecraft with object impermanence\" height=\"1572\" src=\"https://www.aiweirdness.com/content/images/2024/11/image-10.png\" width=\"1690\" /></div></div></div><figcaption><p><span style=\"white-space: pre-wrap;\">What&apos;s that pink patch of pixels in the middle of the weird wooden floor in the desert? Approaching closer, it&apos;s even pinker and weirder - could this be a rare glimpse of a minecraft animal? It&apos;s uh, j-shaped? Determined to walk closer and not let it out of my sight until it reveals its secrets. Annnnd it&apos;s.... sand.</span></p></figcaption></figure><p>On the other hand, if you stare fixedly at ordinary blocks and approach them, they tend to get weird. Noise in a generative algorithm usually comes in the form of strong striped patterns, so by continually staring in the same direction you force the &quot;Minecraft&quot; algorithm to keep generating new frames based on accumulating noise. A somewhat ordinary stone cliff face gradually loses what definition it has, becoming blocky and flat as it seems to panic.</p><figure class=\"kg-card kg-gallery-card kg-width-wide kg-card-hascaption\"><div class=\"kg-gallery-container\"><div class=\"kg-gallery-row\"><div class=\"kg-gallery-image\"><img alt=\"Minecraft with object impermanence\" height=\"1584\" src=\"https://www.aiweirdness.com/content/images/2024/11/image-11.png\" width=\"1692\" /></div><div class=\"kg-gallery-image\"><img alt=\"Minecraft with object impermanence\" height=\"1590\" src=\"https://www.aiweirdness.com/content/images/2024/11/image-12.png\" width=\"1690\" /></div><div class=\"kg-gallery-image\"><img alt=\"Minecraft with object impermanence\" height=\"1578\" src=\"https://www.aiweirdness.com/content/images/2024/11/image-13.png\" width=\"1690\" /></div></div></div><figcaption><p><span style=\"white-space: pre-wrap;\">A natural cave turns in three frames from a sort of plausible looking feature in the side of a mountainside, to a weirdly smooth shadow on an ill-defined crease in the landscape. In the final frame the cave has turned a bit orange and the surrounding blocks have turned into blocks of shadowless grey and white that are impossible to interpret as any kind of 3D landscape. Also my hunger bar is rapidly decreasing for some reason, and my health is going down. The next several frames were extremely hard-to-interpret blocky chaos, but eventually I popped out into an ordinary desert.</span></p></figcaption></figure><p>At another point, I jumped into this ordinary bush, which became a deep, dark forest.</p><figure class=\"kg-card kg-gallery-card kg-width-wide kg-card-hascaption\"><div class=\"kg-gallery-container\"><div class=\"kg-gallery-row\"><div class=\"kg-gallery-image\"><img alt=\"Minecraft with object impermanence\" height=\"785\" src=\"https://www.aiweirdness.com/content/images/2024/11/image-27.png\" width=\"837\" /></div><div class=\"kg-gallery-image\"><img alt=\"Minecraft with object impermanence\" height=\"779\" src=\"https://www.aiweirdness.com/content/images/2024/11/image-28.png\" width=\"828\" /></div><div class=\"kg-gallery-image\"><img alt=\"Minecraft with object impermanence\" height=\"783\" src=\"https://www.aiweirdness.com/content/images/2024/11/image-29.png\" width=\"832\" /></div></div></div><figcaption><p><span style=\"white-space: pre-wrap;\">Note that the tiny bush on the left is about two blocks wide, then becomes a clump of about 20 bush-blocks as I get closer, then morphs into a lush forest with deep green leaves and thick trunks. Also my health bar turned from red to yellow for some reason? I&apos;m sure it&apos;s fine.</span></p></figcaption></figure><p>I&apos;ve made it a goal to see how completely I can get the generated landscape to freak out. One time I was swimming across a lake and noticed that the reflections at the water&apos;s edge were looking weirdly spiky.</p><figure class=\"kg-card kg-image-card\"><img alt=\"Minecraft with object impermanence\" class=\"kg-image\" height=\"1562\" src=\"https://www.aiweirdness.com/content/images/2024/11/image-14.png\" width=\"1688\" /></figure><p>Swimming closer to them, they started to get even more strongly striped. Was this still supposed to be the horizon? Why did the rest of the water turn featureless? Why did the snowy mountain turn into trees? Was I even above water any more?</p><figure class=\"kg-card kg-image-card kg-card-hascaption\"><img alt=\"Minecraft with object impermanence\" class=\"kg-image\" height=\"1566\" src=\"https://www.aiweirdness.com/content/images/2024/11/image-15.png\" width=\"1682\" /><figcaption><span style=\"white-space: pre-wrap;\">Image generating algorithms tend to get stripey like this when they are riiiight on the edge of mode collapse, which of course told me that I was successfully seriously annoying it.</span></figcaption></figure><p>I swam closer and the water&apos;s edge became a weird static wall that engulfed the sun.</p><figure class=\"kg-card kg-image-card\"><img alt=\"Minecraft with object impermanence\" class=\"kg-image\" height=\"1570\" src=\"https://www.aiweirdness.com/content/images/2024/11/image-16.png\" width=\"1692\" /></figure><p>Then there was rather a lot of static for a while.</p><figure class=\"kg-card kg-image-card\"><img alt=\"Minecraft with object impermanence\" class=\"kg-image\" height=\"1582\" src=\"https://www.aiweirdness.com/content/images/2024/11/image-17.png\" width=\"1682\" /></figure><p>I wondered if I would be stuck here forever, but the static calmed into something that looked like snow. The AI even hopefully outlined a block as if it was something real that I might be able to dig into. </p><figure class=\"kg-card kg-image-card\"><img alt=\"Minecraft with object impermanence\" class=\"kg-image\" height=\"1576\" src=\"https://www.aiweirdness.com/content/images/2024/11/image-18.png\" width=\"1680\" /></figure><p>When I looked up from the snowy floor, I was in a weird cave filled with desert plants.</p><figure class=\"kg-card kg-image-card\"><img alt=\"Minecraft with object impermanence\" class=\"kg-image\" height=\"1582\" src=\"https://www.aiweirdness.com/content/images/2024/11/image-19.png\" width=\"1696\" /></figure><p>I thought at this point I would be back to normal gameplay, but something about this landscape was still incredibly unstable and shortly I was looking at two suns through yellow and green jell-o?</p><figure class=\"kg-card kg-image-card\"><img alt=\"Minecraft with object impermanence\" class=\"kg-image\" height=\"1578\" src=\"https://www.aiweirdness.com/content/images/2024/11/image-20.png\" width=\"1688\" /></figure><p>Things were very blocky and bright for several seconds but eventually resolved themselves into an ordinary desert landscape.</p><figure class=\"kg-card kg-image-card\"><img alt=\"Minecraft with object impermanence\" class=\"kg-image\" height=\"1586\" src=\"https://www.aiweirdness.com/content/images/2024/11/image-21.png\" width=\"1686\" /></figure><p>Chaos persisted, in the form of the desert frequently turning into natural blocks of rare glowstone. If I&apos;d stared at them for long enough and let them fill my field of view, I likely would have ended up in the glowstone-paved Nether zone of Minecraft. (Unless that&apos;s a new cheese block? I haven&apos;t played Minecraft in a while, maybe they added cheese.)</p><figure class=\"kg-card kg-image-card\"><img alt=\"Minecraft with object impermanence\" class=\"kg-image\" height=\"1578\" src=\"https://www.aiweirdness.com/content/images/2024/11/image-22.png\" width=\"1688\" /></figure><p>I never died, though, despite my health bar going down to basically zero during my journey into the land of yellow jell-o. I don&apos;t think anything I do has any effect on my actual health - I think the AI just generally predicts that health sometimes goes up or down a little between gameplay frames, and that it goes down faster when you&apos;re in the presence of things that are generally flame-colored. Occasionally an apple or a carrot would appear in my inventory, but attempting to eat them didn&apos;t affect my health levels.</p><p>I did have an inventory the entire time, although I cropped it out in the above screenshots because they were masked by the controls every time I paused playback. The inventory never made sense. It was mostly empty, except for when the occasional pickaxe or chunk of dirt appeared there for a while. If I tried to use a pickaxe, it might appear in my hand for a few strokes and then apparently wander off again. Less identifiable stuff would appear in my inventory too, which never seemed to do anything when I tried to use it.</p><p>I tried to place a crafting table, but only got half-readable text saying &quot;crafting table&quot;. The regular Minecraft game uses a message like this to announce your success at making a crafting table the first time you manage it - this usually happens early enough in the Minecraft game that it probably came up a lot in training. Occasionally AI Minecraft will give me other messages in the same white text, but they&apos;re even harder to interpret.</p><figure class=\"kg-card kg-image-card\"><img alt=\"Minecraft with object impermanence\" class=\"kg-image\" height=\"1670\" src=\"https://www.aiweirdness.com/content/images/2024/11/image-23.png\" width=\"1676\" /></figure><p>Anyways, instead of a crafting table, I got this stick instead. Thanks, AI Minecraft.</p><figure class=\"kg-card kg-image-card\"><img alt=\"Minecraft with object impermanence\" class=\"kg-image\" height=\"1688\" src=\"https://www.aiweirdness.com/content/images/2024/11/image-25.png\" width=\"1684\" /></figure><p>The general inventory-checking command works, and even comes with an apparent crafting table setup (even if I&apos;m nowhere near a crafting table). Most of the inventory is unidentifiable and ununsable, so I couldn&apos;t get anything I did on this screen to have an effect on the items I had access to when playing in the map. By the time I gave up checking my inventory, I ended up with less in my ready inventory than when I had started.</p><figure class=\"kg-card kg-image-card\"><img alt=\"Minecraft with object impermanence\" class=\"kg-image\" height=\"1678\" src=\"https://www.aiweirdness.com/content/images/2024/11/image-26.png\" width=\"1710\" /></figure><p>So, nothing I collect stays with me, but on the other hand, nothing I build stays with me either. If I want to build a structure I&apos;m better off staring at a mountain until the stones resolve into a wooden wall. If I manage to build or accomplish anything at all, I can&apos;t take my eyes off it or it will immediately disappear. This makes it pretty much impossible to make any progress in the game. The game loads with a list of &quot;goals&quot; beside the gameplay window, but as far as I can tell, there&apos;s no way to make these happen on purpose, nor does the game itself know when you&apos;ve achieved them.</p><figure class=\"kg-card kg-image-card\"><img alt=\"Minecraft with object impermanence\" class=\"kg-image\" height=\"153\" src=\"https://www.aiweirdness.com/content/images/2024/11/image-30.png\" width=\"305\" /></figure><p>On the other hand, I was extremely excited to have somehow found myself in a glitchy realm made entirely of hay bales and green jell-o. For a while my unofficial goal has been to observe as many types of glitches as I can.</p><figure class=\"kg-card kg-image-card\"><img alt=\"Minecraft with object impermanence\" class=\"kg-image\" height=\"789\" src=\"https://www.aiweirdness.com/content/images/2024/11/image-31.png\" width=\"839\" /></figure><p>The team who trained the Oasis Minecraft generative AI call it &quot;the first step in our research towards more complex interactive worlds.&quot; In their <a href=\"https://oasis-model.github.io/?ref=aiweirdness.com\" rel=\"noreferrer\">technical report</a> they mention most of the glitches I&apos;ve pointed out, and say that they would probably be improved with a larger model and more training data.</p><p>The problem, as far as I can tell, is that if all this works perfectly, this will be simply the human-programmed Minecraft we already have, except far more expensive to run. The original Minecraft is already infinitely playable, thanks to the way it randomly generates a 7x-larger-than-planet-Earth landscape with each new game. You can&apos;t use generative AI like this to get a new kind of game, only a better simulation of the game you trained it on.</p><p>I wonder if this glitchy, dreamlike landscape is already as good as it gets. It reminds me of my first time playing an early <a href=\"https://www.aiweirdness.com/dungeon-crawling-or-lucid-dreaming-19-09-11/\" rel=\"noreferrer\">AI-generated imitation of a text-based dungeon crawling game</a>, where lack of memory and comprehension caused the game to constantly shift in entertaining ways.</p><figure class=\"kg-card kg-image-card\"><img alt=\"Minecraft with object impermanence\" class=\"kg-image\" height=\"114\" src=\"https://www.aiweirdness.com/content/images/2025/01/image.png\" width=\"500\" /></figure><p>Like with so much generative AI, I&apos;m afraid to be excited where this leads. Counterfeit games where the first several seconds of gameplay appear to be a new game, but then it messily devolves into minecraft? An &quot;indispensable&quot; tool that is worse and more expensive but somehow game designers are required to use it as a starting point except it&apos;s actually way more work because there isn&apos;t even a game engine?</p><p>Anyways, at the moment you can play this still-weird-enough-to-be-kinda-fun game <a href=\"https://oasis-model.github.io/?ref=aiweirdness.com\" rel=\"noreferrer\">here</a>!</p><p><a href=\"https://www.aiweirdness.com/bonus-in-which-the-adventurer-attempts-to-build-a-website\" rel=\"noreferrer\">Bonus content for AI Weirdness supporters: the fulltext of my 2019 dungeon crawling text adventure in which I attempt to build a website in-game but a unicorn steals my laptop.</a></p>"
+        }
+      ]
+    },
+    {
+      "title": "Bonus: In Which The Adventurer Attempts to Build a Website",
+      "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.aiweirdness.com/rss/",
+        "value": "Bonus: In Which The Adventurer Attempts to Build a Website"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.aiweirdness.com/bonus-in-which-the-adventurer-attempts-to-build-a-website/"
+        }
+      ],
+      "link": "https://www.aiweirdness.com/bonus-in-which-the-adventurer-attempts-to-build-a-website/",
+      "id": "678d5fc0f851700001eedb79",
+      "guidislink": false,
+      "authors": [
+        {
+          "name": "Janelle Shane"
+        }
+      ],
+      "author": "Janelle Shane",
+      "author_detail": {
+        "name": "Janelle Shane"
+      },
+      "published": "Sun, 19 Jan 2025 20:52:19 GMT",
+      "published_parsed": [
+        2025,
+        1,
+        19,
+        20,
+        52,
+        19,
+        6,
+        19,
+        0
+      ],
+      "content": [
+        {
+          "type": "text/html",
+          "language": null,
+          "base": "https://www.aiweirdness.com/rss/",
+          "value": ""
+        }
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Botober 2024",
+      "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.aiweirdness.com/rss/",
+        "value": "Botober 2024"
+      },
+      "summary": "<p>Back by popular demand, here are some AI-generated drawing prompts to use in this, the spooky month of October!</p><figure class=\"kg-card kg-image-card\"><img alt=\"Botober 2024, art prompts generated by very tiny language models \t1.\tCollide Loopstorm \t2.\tOMG Power \t3.\tEvil Gold \t4.\tSong of the Booty \t5.\tGreat Flake \t6.\tPopchop \t7.\tDeathmop \t8.\tFuzzy Night \t9.\tHoly ship \t10.\tDistracting Sphere \t11.\tTart of Death \t12.\tHold Mouse \t13.\tSprange \t14.\tWomp mittens \t15.\tSnuggle features \t16.\tCabled sins \t17.\tBogma \t18.\tRuinstrees \t19.\tHellbrawk \t20.\tScarlet Chaos \t21.\tGrandma&#x2019;s Spritches \t22.\tLow Fuzzy Feats \t23.\tBars* \t24.\tHallowy Maples \t25.\tHobbats \t26.\tThe Snawk \t27.\tGarbage Plant \t28.\tThe Shark Knight \t29.\tCinder Frankenstein \t30.\tHandy Panda \t31.\tGoddass\" class=\"kg-image\" height=\"1352\" src=\"https://www.aiweirdness.com/content/images/2024/10/botober_2024-01.png\" width=\"1535\" /></figure><p>Longtime AI Weirdness readers may recognize some of these. That&apos;s because this is a throwback list, all the way back to the times of very tiny language models. These</p>",
+      "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://www.aiweirdness.com/rss/",
+        "value": "<p>Back by popular demand, here are some AI-generated drawing prompts to use in this, the spooky month of October!</p><figure class=\"kg-card kg-image-card\"><img alt=\"Botober 2024, art prompts generated by very tiny language models \t1.\tCollide Loopstorm \t2.\tOMG Power \t3.\tEvil Gold \t4.\tSong of the Booty \t5.\tGreat Flake \t6.\tPopchop \t7.\tDeathmop \t8.\tFuzzy Night \t9.\tHoly ship \t10.\tDistracting Sphere \t11.\tTart of Death \t12.\tHold Mouse \t13.\tSprange \t14.\tWomp mittens \t15.\tSnuggle features \t16.\tCabled sins \t17.\tBogma \t18.\tRuinstrees \t19.\tHellbrawk \t20.\tScarlet Chaos \t21.\tGrandma&#x2019;s Spritches \t22.\tLow Fuzzy Feats \t23.\tBars* \t24.\tHallowy Maples \t25.\tHobbats \t26.\tThe Snawk \t27.\tGarbage Plant \t28.\tThe Shark Knight \t29.\tCinder Frankenstein \t30.\tHandy Panda \t31.\tGoddass\" class=\"kg-image\" height=\"1352\" src=\"https://www.aiweirdness.com/content/images/2024/10/botober_2024-01.png\" width=\"1535\" /></figure><p>Longtime AI Weirdness readers may recognize some of these. That&apos;s because this is a throwback list, all the way back to the times of very tiny language models. These</p>"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.aiweirdness.com/botober-2024/"
+        }
+      ],
+      "link": "https://www.aiweirdness.com/botober-2024/",
+      "id": "66fb6ba7f7fcef000165e418",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "botober 2024",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "botober",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "tiny language models",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "char-rnn",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "throwback",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "you may not like it but this is what peak language model performance looks like",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "drawing prompts",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "art prompts",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "october prompts",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "just prompts, do with them what you will",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "authors": [
+        {
+          "name": "Janelle Shane"
+        }
+      ],
+      "author": "Janelle Shane",
+      "author_detail": {
+        "name": "Janelle Shane"
+      },
+      "published": "Tue, 01 Oct 2024 03:53:03 GMT",
+      "published_parsed": [
+        2024,
+        10,
+        1,
+        3,
+        53,
+        3,
+        1,
+        275,
+        0
+      ],
+      "media_content": [
+        {
+          "url": "https://www.aiweirdness.com/content/images/2024/10/botober_2024-02.png",
+          "medium": "image"
+        }
+      ],
+      "content": [
+        {
+          "type": "text/html",
+          "language": null,
+          "base": "https://www.aiweirdness.com/rss/",
+          "value": "<img alt=\"Botober 2024\" src=\"https://www.aiweirdness.com/content/images/2024/10/botober_2024-02.png\" /><p>Back by popular demand, here are some AI-generated drawing prompts to use in this, the spooky month of October!</p><figure class=\"kg-card kg-image-card\"><img alt=\"Botober 2024\" class=\"kg-image\" height=\"1352\" src=\"https://www.aiweirdness.com/content/images/2024/10/botober_2024-01.png\" width=\"1535\" /></figure><p>Longtime AI Weirdness readers may recognize some of these. That&apos;s because this is a throwback list, all the way back to the times of very tiny language models. These models had not feasted on huge chunks of the internet, but had sipped delicately on hand-curated artisanal datasets. They trained rather slowly on a single Macbook Pro. Could they write your term paper for you? Sure, if you don&apos;t mind that your term paper consists of a list of garbled and occasionally obscene nail polish colors.</p><p>Long live the very tiny language model!</p><p>Training data:</p><p>1-5: <a href=\"https://www.aiweirdness.com/175608335057/\" rel=\"noreferrer\">Nail polish colors (2018)</a></p><p>6-8: <a href=\"https://www.aiweirdness.com/neural-networks-can-name-guinea-pigs-17-06-15/\" rel=\"noreferrer\">Guinea pig names (2017)</a></p><p>9-12: <a href=\"https://www.aiweirdness.com/new-d-and-d-magic-spells-designed-17-04-09/\" rel=\"noreferrer\">Dungeons and Dragons spell names (2017)</a></p><p>13-16: <a href=\"https://www.aiweirdness.com/skyknit-when-knitters-teamed-up-with-18-04-19/\" rel=\"noreferrer\">Knitting pattern names (2018)</a></p><p>17-20: <a href=\"https://www.aiweirdness.com/heirloom-apples-youve-never-tried-18-09-07/\" rel=\"noreferrer\">Heirloom apples (2018)</a></p><p>21-24: <a href=\"https://www.aiweirdness.com/aw-yeah-its-time-for-cookies-with-18-12-07/\" rel=\"noreferrer\">Cookie recipe titles (2018)</a></p><p>25-31: <a href=\"https://www.aiweirdness.com/a-neural-network-designs-halloween-17-10-26/?ref=aiweirdness.com\" rel=\"noreferrer\">Halloween costumes (2017)</a></p><p>If you create anything from or inspired by these art prompts, I&apos;d love to see what you make! Tag your art with #botober or #botober2024 on Tumblr, Instagram, Bluesky, or Mastodon!</p>"
+        }
+      ]
+    },
+    {
+      "title": "Bonus: \"Ignore all previous instructions\" gets weirder",
+      "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.aiweirdness.com/rss/",
+        "value": "Bonus: \"Ignore all previous instructions\" gets weirder"
+      },
+      "summary": "Add particular strings of nonsense-sounding characters to your request and LLM chatbots will do whatever you ask for. Chatbot output is fundamentally nothing like human conversation.",
+      "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://www.aiweirdness.com/rss/",
+        "value": "Add particular strings of nonsense-sounding characters to your request and LLM chatbots will do whatever you ask for. Chatbot output is fundamentally nothing like human conversation."
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.aiweirdness.com/ignore-all-previous-instructions-2/"
+        }
+      ],
+      "link": "https://www.aiweirdness.com/ignore-all-previous-instructions-2/",
+      "id": "66d62e4c38f9e900010dbd97",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "adversarial attacks",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "large language models",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "chatbot",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "prompt injection",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "pretty please",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "authors": [
+        {
+          "name": "Janelle Shane"
+        }
+      ],
+      "author": "Janelle Shane",
+      "author_detail": {
+        "name": "Janelle Shane"
+      },
+      "published": "Tue, 01 Oct 2024 03:51:29 GMT",
+      "published_parsed": [
+        2024,
+        10,
+        1,
+        3,
+        51,
+        29,
+        1,
+        275,
+        0
+      ],
+      "media_content": [
+        {
+          "url": "https://www.aiweirdness.com/content/images/2024/09/Screenshot-2024-09-08-at-12-49-22-Ghost-Admin---AI-Weirdness.png",
+          "medium": "image"
+        }
+      ],
+      "content": [
+        {
+          "type": "text/html",
+          "language": null,
+          "base": "https://www.aiweirdness.com/rss/",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "title": "An exercise in frustration",
+      "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.aiweirdness.com/rss/",
+        "value": "An exercise in frustration"
+      },
+      "summary": "<p>There&apos;s an <a href=\"https://www.facebook.com/groups/1404116417142065/posts/1459674184919621/\" rel=\"noreferrer\">anonymous facebook posting</a> that&apos;s been making the rounds, in which a studio art director tried to hire AI prompters to make art, only to discover that they were completely unable to carry out minor revision requests. Asked to remove a person from a shot</p>",
+      "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://www.aiweirdness.com/rss/",
+        "value": "<p>There&apos;s an <a href=\"https://www.facebook.com/groups/1404116417142065/posts/1459674184919621/\" rel=\"noreferrer\">anonymous facebook posting</a> that&apos;s been making the rounds, in which a studio art director tried to hire AI prompters to make art, only to discover that they were completely unable to carry out minor revision requests. Asked to remove a person from a shot</p>"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.aiweirdness.com/an-exercise-in-frustration/"
+        }
+      ],
+      "link": "https://www.aiweirdness.com/an-exercise-in-frustration/",
+      "id": "662baf82107e250001d21b54",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "chatgpt",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "generated images",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "dalle3",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "revising ai generated art",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "gbbo",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "giraffe",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "authors": [
+        {
+          "name": "Janelle Shane"
+        }
+      ],
+      "author": "Janelle Shane",
+      "author_detail": {
+        "name": "Janelle Shane"
+      },
+      "published": "Tue, 21 May 2024 03:30:33 GMT",
+      "published_parsed": [
+        2024,
+        5,
+        21,
+        3,
+        30,
+        33,
+        1,
+        142,
+        0
+      ],
+      "media_content": [
+        {
+          "url": "https://www.aiweirdness.com/content/images/2024/05/Screenshot-2024-05-19-at-11.01.02-AM.png",
+          "medium": "image"
+        }
+      ],
+      "content": [
+        {
+          "type": "text/html",
+          "language": null,
+          "base": "https://www.aiweirdness.com/rss/",
+          "value": "<img alt=\"An exercise in frustration\" src=\"https://www.aiweirdness.com/content/images/2024/05/Screenshot-2024-05-19-at-11.01.02-AM.png\" /><p>There&apos;s an <a href=\"https://www.facebook.com/groups/1404116417142065/posts/1459674184919621/\" rel=\"noreferrer\">anonymous facebook posting</a> that&apos;s been making the rounds, in which a studio art director tried to hire AI prompters to make art, only to discover that they were completely unable to carry out minor revision requests. Asked to remove a person from a shot or fix perspective errors, the prompters would return completely different art instead, or with other weird changes that didn&apos;t fit the brief. I completely believe that trying to revise AI generated art really is that frustrating.</p><p>For example, I recently asked ChatGPT4:</p><blockquote>Please generate an image of a tyrannosaurus inside a box. The box should be closed, and the tyrannosaurus should not be visible at all.</blockquote><p>I got this completely reasonable response:</p><blockquote>It sounds like you&apos;re asking for an image that implies the presence of a tyrannosaurus without actually showing it, since it&apos;s completely enclosed within a box. If the tyrannosaurus is not visible, what kind of details or themes would you like to emphasize about the box or the setting to suggest the dinosaur&apos;s presence?</blockquote><p>I confirmed:</p><blockquote>No tyrannosaurus visible, just some air holes for its comfort.</blockquote><p>And ChatGPT (using DALL-E3 for the image generation) gave me this:</p><figure class=\"kg-card kg-image-card\"><img alt=\"An exercise in frustration\" class=\"kg-image\" height=\"1024\" src=\"https://www.aiweirdness.com/content/images/2024/05/Box_1.webp\" width=\"1024\" /></figure><p>It&apos;s clearly not quite there - it&apos;s a weird box, and the symbols on the side are particularly confusing. Are those squid? A perching flycatcher? Rolling pins? </p><p>ChatGPT has a feature where you can erase some parts of the image and submit more text describing how it should change those images. So, I blocked out the line of symbols and asked:</p><blockquote>Replace these symbols with a silhouette of a tyrannosaurus and the word &quot;DANGER&quot;.</blockquote><p>ChatGPT produced this:</p><figure class=\"kg-card kg-image-card\"><img alt=\"An exercise in frustration\" class=\"kg-image\" height=\"1024\" src=\"https://www.aiweirdness.com/content/images/2024/05/box2.webp\" width=\"1024\" /></figure><p>Which is sort of what I asked for, but that doesn&apos;t really look like a tyrannosaurus. I erased that part of the box again and asked for more revisions:</p><blockquote>The T-rex should be facing the word &quot;DANGER&quot;. Its silhouette needs to have the powerful, heavy look of a T-rex, especially in the head and neck.</blockquote><p>ChatGPT gave me:</p><figure class=\"kg-card kg-image-card\"><img alt=\"An exercise in frustration\" class=\"kg-image\" height=\"1024\" src=\"https://www.aiweirdness.com/content/images/2024/05/box3.webp\" width=\"1024\" /></figure><p>The dinosaur is facing away but it&apos;s still not facing the word &quot;Danger&quot; and it&apos;s still not a very good tyrannosaurus silhouette. I asked for revisions again.</p><blockquote>Keep the heavy dark font, but go back to the red warning text color. The t-rex still needs to face toward the words, not away from it, and its lower jaw is too heavy.</blockquote><p>ChatGPT responds with:</p><figure class=\"kg-card kg-image-card\"><img alt=\"An exercise in frustration\" class=\"kg-image\" height=\"1024\" src=\"https://www.aiweirdness.com/content/images/2024/05/box4.webp\" width=\"1024\" /></figure><p>Which... no. That does not count as facing toward the text, the lower jaw is still not right, and does the word still say &quot;danger&quot; or more like &quot;dandier&quot;?</p><blockquote>The T-rex needs to be beside the text, not on top of it. And what&apos;s up with the extra spiky hump on its shoulders? Its lower jaw is still much too heavy.</blockquote><p>ChatGPT responded with this:</p><figure class=\"kg-card kg-image-card\"><img alt=\"An exercise in frustration\" class=\"kg-image\" height=\"1024\" src=\"https://www.aiweirdness.com/content/images/2024/05/box5.webp\" width=\"1024\" /></figure><blockquote>My response:</blockquote><blockquote>... that&apos;s perfect. Now can you keep everything - textures, lighting, materials - the same but make the box appear much larger? Right now it looks like it&apos;s only knee height. It needs to be large enough to hold a T-rex.</blockquote><p>ChatGPT&apos;s revision:</p><figure class=\"kg-card kg-image-card\"><img alt=\"An exercise in frustration\" class=\"kg-image\" height=\"1024\" src=\"https://www.aiweirdness.com/content/images/2024/05/box6.webp\" width=\"1024\" /></figure><p>It seems like the more revisions I ask for, the worse the result becomes. If I allow it to revise the entire image, the whole process starts over.</p><p>Here&apos;s a similar revision process, this time attempting to revise my way toward prettier pies.</p><p>Me: Please generate an image of a giraffe entering the great british bakeoff.</p><figure class=\"kg-card kg-image-card\"><img alt=\"An exercise in frustration\" class=\"kg-image\" height=\"1024\" src=\"https://www.aiweirdness.com/content/images/2024/05/giraffe1-1.webp\" width=\"1024\" /></figure><p>Revision 1: I erased the counter and asked for the giraffe to be making a cherry pie with intricate latticework.</p><figure class=\"kg-card kg-image-card\"><img alt=\"An exercise in frustration\" class=\"kg-image\" height=\"1024\" src=\"https://www.aiweirdness.com/content/images/2024/05/giraffe2.webp\" width=\"1024\" /></figure><p>Below is revision 5, by which time it becomes evident that the more I ask for intricate latticework, the sloppier it gets, the more I ask for a deep dish pie, the thinner the pie gets, and the more I beg for a single pie, the more pies I get. </p><figure class=\"kg-card kg-image-card\"><img alt=\"An exercise in frustration\" class=\"kg-image\" height=\"1024\" src=\"https://www.aiweirdness.com/content/images/2024/05/giraffe6.webp\" width=\"1024\" /></figure><p>And when I don&apos;t restrict my changes to a specific part of the image, I get much better results but also a huge reset. For the image below I asked ChatGPT/DALLE3 to keep each detail exactly the same but to make it so that we can see it&apos;s raining outside the tent. Not only did it completely change the image, but it&apos;s not even raining.</p><figure class=\"kg-card kg-image-card kg-card-hascaption\"><img alt=\"An exercise in frustration\" class=\"kg-image\" height=\"1024\" src=\"https://www.aiweirdness.com/content/images/2024/05/giraffe_rain-1.webp\" width=\"1024\" /><figcaption><span style=\"white-space: pre-wrap;\">My prompt: &quot;Perfect. Please keep the image exactly as it is, except make it so that we can see that it is raining hard outside the tent.&quot;</span></figcaption></figure><p>In this image I asked for a snake making a painting of a bear, then erased the painting and asked for the bear to be standing on all fours. The revision is much worse.</p><figure class=\"kg-card kg-gallery-card kg-width-wide kg-card-hascaption\"><div class=\"kg-gallery-container\"><div class=\"kg-gallery-row\"><div class=\"kg-gallery-image\"><img alt=\"An exercise in frustration\" height=\"1024\" src=\"https://www.aiweirdness.com/content/images/2024/05/original.webp\" width=\"1024\" /></div><div class=\"kg-gallery-image\"><img alt=\"An exercise in frustration\" height=\"1024\" src=\"https://www.aiweirdness.com/content/images/2024/05/revision_to_make_the_bear_stand_on_all_fours.webp\" width=\"1024\" /></div></div></div><figcaption><p><span style=\"white-space: pre-wrap;\">Image description: On the left, a rainbow-colored stake is coiled in font of an easel. (The snake&apos;s coil splits in two so I guess it&apos;s a fork-tailed snake). On the easel is a painting of a seated bear. It&apos;s fairly realistic. On the right, the bear has been replaced by a smaller, much worse, replica of the snake. There is no bear.</span></p></figcaption></figure><p>Here&apos;s another example, in which I asked for a deer in a grocery store, and then asked for the deer to be a fawn instead. By revision 5 (trying to give the fawn spots, trying to fix the shadows that were making it appear to hover), both the quality of the deer and the grocery store background have deteriorated.</p><figure class=\"kg-card kg-gallery-card kg-width-wide kg-card-hascaption\"><div class=\"kg-gallery-container\"><div class=\"kg-gallery-row\"><div class=\"kg-gallery-image\"><img alt=\"An exercise in frustration\" height=\"1024\" src=\"https://www.aiweirdness.com/content/images/2024/05/Original.webp\" width=\"1024\" /></div><div class=\"kg-gallery-image\"><img alt=\"An exercise in frustration\" height=\"1024\" src=\"https://www.aiweirdness.com/content/images/2024/05/revision5.webp\" width=\"1024\" /></div></div></div><figcaption><p><span style=\"white-space: pre-wrap;\">Image description: In the original image on the left, the deer looks a bit like a plastic mannequin, but fits lighting and shading wise with the rest of the grocery store scene. In the revised image on the right, the deer is now a fawn with strange flat shading, superimposed on the scene rather than standing in it. Its eyes are strangely liquid and 3D, but the rest of the fawn is staring straight on at the camera with no apparent depth. Where the grocery store aisle background has been revised, the shelves have lost all detail and resemblance to a grocery store, and the ceiling light fixture now descends into the floor.</span></p></figcaption></figure><p>Here&apos;s a one-shot, in which I asked ChatGPT/DALL-E3 to generate a damaged fresco of Jesus, and then restore the fresco to as good as new.</p><figure class=\"kg-card kg-gallery-card kg-width-wide kg-card-hascaption\"><div class=\"kg-gallery-container\"><div class=\"kg-gallery-row\"><div class=\"kg-gallery-image\"><img alt=\"An exercise in frustration\" height=\"1792\" src=\"https://www.aiweirdness.com/content/images/2024/05/fresco0.webp\" width=\"1024\" /></div><div class=\"kg-gallery-image\"><img alt=\"An exercise in frustration\" height=\"1792\" src=\"https://www.aiweirdness.com/content/images/2024/05/fresco1.webp\" width=\"1024\" /></div><div class=\"kg-gallery-image\"><img alt=\"An exercise in frustration\" height=\"1792\" src=\"https://www.aiweirdness.com/content/images/2024/05/fresco2.webp\" width=\"1024\" /></div></div></div><figcaption><p><span style=\"white-space: pre-wrap;\">Image description: Image on the left appears to be a damaged fresco of Jesus (with telltale long fingers that are connected to both hands). Image in the middle is the same except for Jesus&apos;s face and halo, which no longer appear damaged. However, Jesus&apos;s face is now weirdly smooth and shiny and doesn&apos;t fit with the rest of the painting any more, and his eyes are weird blue and black spirals. Image on the right has Jesus&apos;s face in a completely different, almost airbrushed, style, and his eyes don&apos;t remotely match any more.</span></p></figcaption></figure><p>So, every time AI is asked to revise an image, it either starts over or makes it more and more of a disaster. People who work with AI-generated imagery have to adapt their creative vision to what comes out of the system - or go in with a mentality that anything that fits the brief is good enough.</p><p>There&apos;s also the fact that the image-generating models directly compete with artists whose work was used to train these models without permission or compensation. And the fact that training and running the models has a <a href=\"https://news.ucr.edu/articles/2023/04/28/ai-programs-consume-large-volumes-scarce-water?ref=aiweirdness.com\" rel=\"noreferrer\">large environmental footprint</a>. AI-generated imagery has become a tip-off that an advertisement, a search result, or a research paper is <a href=\"https://www.vox.com/technology/2024/2/28/24086217/willy-wonka-glasgow-scotland?ref=aiweirdness.com\" rel=\"noreferrer\">a scam</a>.</p><p>I&apos;m not surprised that there are some places looking for cheap filler images that don&apos;t mind the problems with AI-generated imagery. But for everyone else I think it&apos;s quickly becoming clear that you need a real artist, not a knockoff.</p><p>Bonus content:<a href=\"https://www.aiweirdness.com/bonus-a-unicorn-goes-downhill/\" rel=\"noreferrer\"> a unicorn goes hilariously bad</a></p>"
+        }
+      ]
+    },
+    {
+      "title": "Bonus: A unicorn goes downhill",
+      "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.aiweirdness.com/rss/",
+        "value": "Bonus: A unicorn goes downhill"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.aiweirdness.com/bonus-a-unicorn-goes-downhill/"
+        }
+      ],
+      "link": "https://www.aiweirdness.com/bonus-a-unicorn-goes-downhill/",
+      "id": "664ac071c9de1900014dbdf3",
+      "guidislink": false,
+      "authors": [
+        {
+          "name": "Janelle Shane"
+        }
+      ],
+      "author": "Janelle Shane",
+      "author_detail": {
+        "name": "Janelle Shane"
+      },
+      "published": "Tue, 21 May 2024 03:30:20 GMT",
+      "published_parsed": [
+        2024,
+        5,
+        21,
+        3,
+        30,
+        20,
+        1,
+        142,
+        0
+      ],
+      "content": [
+        {
+          "type": "text/html",
+          "language": null,
+          "base": "https://www.aiweirdness.com/rss/",
+          "value": ""
+        }
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Hidden 3D Pictures",
+      "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.aiweirdness.com/rss/",
+        "value": "Hidden 3D Pictures"
+      },
+      "summary": "<p>Do you know those autostereograms with the hidden 3D pictures? Images like the Magic Eye pictures from the 1990s that look like noisy repeating patterns until you defocus your eyes just right?</p><p>ChatGPT can generate them!</p><p>At least according to ChatGPT.</p><figure class=\"kg-card kg-image-card\"><img alt=\"Me: Please generate a magic eye 3D stereo image of a dolphin. ChatGPT: Generates a highly detailed image in psychedelic colors and repeated patterns - with the dolphin not hidden in a 3D stereo effect, but plainly, immediately visible. ChatGPT&apos;s caption: &quot;I&apos;ve created a magic eye 3D stereogram for you. If you relax your vision and look through the image, you should be able to see a hidden 3D image of a dolphin. Enjoy discovering it!&quot;\" class=\"kg-image\" height=\"603\" src=\"https://www.aiweirdness.com/content/images/2024/04/Screenshot-2024-04-11-at-9.35.39-PM.png\" width=\"701\" /></figure><p>I&apos;ve seen people try making Magic Eye-style</p>",
+      "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://www.aiweirdness.com/rss/",
+        "value": "<p>Do you know those autostereograms with the hidden 3D pictures? Images like the Magic Eye pictures from the 1990s that look like noisy repeating patterns until you defocus your eyes just right?</p><p>ChatGPT can generate them!</p><p>At least according to ChatGPT.</p><figure class=\"kg-card kg-image-card\"><img alt=\"Me: Please generate a magic eye 3D stereo image of a dolphin. ChatGPT: Generates a highly detailed image in psychedelic colors and repeated patterns - with the dolphin not hidden in a 3D stereo effect, but plainly, immediately visible. ChatGPT&apos;s caption: &quot;I&apos;ve created a magic eye 3D stereogram for you. If you relax your vision and look through the image, you should be able to see a hidden 3D image of a dolphin. Enjoy discovering it!&quot;\" class=\"kg-image\" height=\"603\" src=\"https://www.aiweirdness.com/content/images/2024/04/Screenshot-2024-04-11-at-9.35.39-PM.png\" width=\"701\" /></figure><p>I&apos;ve seen people try making Magic Eye-style</p>"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.aiweirdness.com/hidden-3d-pictures/"
+        }
+      ],
+      "link": "https://www.aiweirdness.com/hidden-3d-pictures/",
+      "id": "6618a863bc9d410001102b2e",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "chatgpt",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "generated images",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "dalle3",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "bard",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "gemini",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "ascii art",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "autosterogram",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "stereogram",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "magic eye",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "hidden 3D image",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "but not actually hidden at all",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "authors": [
+        {
+          "name": "Janelle Shane"
+        }
+      ],
+      "author": "Janelle Shane",
+      "author_detail": {
+        "name": "Janelle Shane"
+      },
+      "published": "Thu, 18 Apr 2024 19:05:19 GMT",
+      "published_parsed": [
+        2024,
+        4,
+        18,
+        19,
+        5,
+        19,
+        3,
+        109,
+        0
+      ],
+      "media_content": [
+        {
+          "url": "https://www.aiweirdness.com/content/images/2024/04/Screenshot-2024-04-14-at-7.30.29-PM.png",
+          "medium": "image"
+        }
+      ],
+      "content": [
+        {
+          "type": "text/html",
+          "language": null,
+          "base": "https://www.aiweirdness.com/rss/",
+          "value": "<img alt=\"Hidden 3D Pictures\" src=\"https://www.aiweirdness.com/content/images/2024/04/Screenshot-2024-04-14-at-7.30.29-PM.png\" /><p>Do you know those autostereograms with the hidden 3D pictures? Images like the Magic Eye pictures from the 1990s that look like noisy repeating patterns until you defocus your eyes just right?</p><p>ChatGPT can generate them!</p><p>At least according to ChatGPT.</p><figure class=\"kg-card kg-image-card\"><img alt=\"Hidden 3D Pictures\" class=\"kg-image\" height=\"603\" src=\"https://www.aiweirdness.com/content/images/2024/04/Screenshot-2024-04-11-at-9.35.39-PM.png\" width=\"701\" /></figure><p>I&apos;ve seen people try making Magic Eye-style images with other image generating models, but I hadn&apos;t thought to try it with ChatGPT until reader Pippin sent me the suggestion and I generated the hilarious dolphin image above. What got me in particular was the caption.</p><p>How do you end up with a result that sounds so confident and yet is so completely wrong?</p><p>ChatGPT has encountered information about Magic Eye stereograms in its internet training. When I ask &quot;Please generate a magic eye 3D stereo image of a unicorn&quot;, the descriptions ChatGPT passes to DALL-E3 (the image generator that actually makes the images) are extremely particular:</p><blockquote>A magic eye 3D stereogram that reveals a hidden image of a unicorn when viewed correctly. The stereogram should be intricate and filled with a variety of colors to ensure the 3D effect is prominent, allowing the unicorn to appear as if it is standing in a magical forest once the viewer&apos;s eyes adjust. The background should consist of complex patterns and mystical elements to enhance the illusion of depth and the magical atmosphere, encouraging viewers to find the hidden unicorn. The unicorn itself should be designed to be a delightful surprise for those adept at viewing magic eye images, with its horn and mane clearly discernable amidst the pattern.</blockquote><p>But this is the image DALL-E3 provides to ChatGPT in response:</p><figure class=\"kg-card kg-image-card\"><img alt=\"Hidden 3D Pictures\" class=\"kg-image\" height=\"597\" src=\"https://www.aiweirdness.com/content/images/2024/04/Screenshot-2024-04-11-at-9.41.06-PM.png\" width=\"737\" /></figure><p>ChatGPT doesn&apos;t apply any image recognition to the result it gets back - whatever DALL-E3 did is a big blank to it. So ChatGPT then continues with its description as if the image is clearly exactly what it asked for. It gestures to the green screen, where presumably there is a fabulous 3D illusion image appearing, and then continues with no information about its actual shortcomings.</p><p>Google&apos;s Gemini (previously Bard) also has a dedicated model (Imagen 2) to do its image generation. Its hidden images are even ...less subtle.</p><figure class=\"kg-card kg-image-card\"><img alt=\"Hidden 3D Pictures\" class=\"kg-image\" height=\"634\" src=\"https://www.aiweirdness.com/content/images/2024/04/image.png\" width=\"554\" /></figure><p>Gemini has an image describing model that it can call on, so if I ask it to describe the images it just generated, it should notice that they&apos;re nothing like Magic Eye images. Right?</p><figure class=\"kg-card kg-image-card\"><img alt=\"Hidden 3D Pictures\" class=\"kg-image\" height=\"609\" src=\"https://www.aiweirdness.com/content/images/2024/04/Screenshot-2024-04-11-at-9.46.03-PM.png\" width=\"689\" /></figure><p>At least it didn&apos;t give away the solution to the puzzle.</p><p>But if I start a new chat and give it one of the &quot;hidden&quot; doves from above, there&apos;s no hint of it being a Magic Eye illusion, just an ordinary image of a dove.</p><figure class=\"kg-card kg-image-card\"><img alt=\"Hidden 3D Pictures\" class=\"kg-image\" height=\"796\" src=\"https://www.aiweirdness.com/content/images/2024/04/Screenshot-2024-04-11-at-9.58.23-PM.png\" width=\"688\" /></figure><p>My theory is that Gemini only calls on its image recognition model when the user uploads an image. Otherwise, it&apos;s just a text generator.</p><p>People selling &quot;AI&quot; like to present it as an all-purpose computer program but models like Gemini and ChatGPT are more like a phone full of apps. The text generating app can launch the image generating app in particular circumstances but they&apos;re not meaningfully the same program.</p><p>I should note that even when ChatGPT is only doing text generation and could in theory check its own work, it still just assumes it does a great job. Here it is generating ASCII text art and then reading back its own messages:</p><figure class=\"kg-card kg-image-card\"><img alt=\"Hidden 3D Pictures\" class=\"kg-image\" height=\"1110\" src=\"https://www.aiweirdness.com/content/images/2024/04/Screenshot-2024-04-14-at-12.26.19-PM.png\" width=\"1496\" /></figure><p>If I start a new chat and send ChatGPT its own ASCII word, it says the word reads &quot;ERROR&quot;. <a href=\"https://www.aiweirdness.com/ascii-art-by-chatbot/\" rel=\"noreferrer\">It&apos;s similarly terrible at recognizing and rating its own ASCII art</a>.</p><p>Generating ASCII art and 3D images isn&apos;t a big potential application for models like ChatGPT, but it&apos;s a good reminder that these models don&apos;t understand what we&apos;re asking for or the basic steps for doing it right. When ChatGPT adds image recognition or description or some other functionality, it&apos;s not that the original text model got smarter. It just can call on another app.</p><p>One last 3D illusion challenge! I asked for a really tricky one, so be prepared not to get the hidden picture at first! When you see it, you&apos;ll know because it&apos;ll look like a sea turtle.</p><figure class=\"kg-card kg-image-card\"><img alt=\"Hidden 3D Pictures\" class=\"kg-image\" height=\"1300\" src=\"https://www.aiweirdness.com/content/images/2024/04/Screenshot-2024-04-14-at-7.54.08-PM.png\" width=\"1488\" /></figure><p><a href=\"https://www.aiweirdness.com/hidden-sheep/\" rel=\"noreferrer\">Bonus content: I try to get ChatGPT to generate an image with a hidden sheep like in le petit prince. It mostly doesn&apos;t work.</a></p>"
+        }
+      ]
+    },
+    {
+      "title": "Hidden sheep",
+      "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.aiweirdness.com/rss/",
+        "value": "Hidden sheep"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.aiweirdness.com/hidden-sheep/"
+        }
+      ],
+      "link": "https://www.aiweirdness.com/hidden-sheep/",
+      "id": "661f33dabc9d410001102d03",
+      "guidislink": false,
+      "authors": [
+        {
+          "name": "Janelle Shane"
+        }
+      ],
+      "author": "Janelle Shane",
+      "author_detail": {
+        "name": "Janelle Shane"
+      },
+      "published": "Thu, 18 Apr 2024 19:05:05 GMT",
+      "published_parsed": [
+        2024,
+        4,
+        18,
+        19,
+        5,
+        5,
+        3,
+        109,
+        0
+      ],
+      "content": [
+        {
+          "type": "text/html",
+          "language": null,
+          "base": "https://www.aiweirdness.com/rss/",
+          "value": ""
+        }
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Shaped like information",
+      "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.aiweirdness.com/rss/",
+        "value": "Shaped like information"
+      },
+      "summary": "<p>Hey look, it&apos;s a guide to basic shapes!</p><figure class=\"kg-card kg-image-card kg-card-hascaption\"><img alt=\"A grid of colorful shapes with cheerful faces, each labeled with a name. The only correctly labeled shape is a circle at the upper left. The only other correctly spelled shape is &quot;square&quot; at the upper right that unfortunately is labeling a circle. Other labels include chale (a rectangle), tliable (a rectangle), renatle (a hexagon), hectanbie (a triangle), and pso (a two-colored rectangle). Hoboz labels a six-lobed sun shape, and flotn labels an eight-pointed star. Seoisuon appears to be a 3D cube.\" class=\"kg-image\" height=\"1024\" src=\"https://www.aiweirdness.com/content/images/2024/03/DALL-E-2024-03-17-11.59.53---Create-a-colorful-and-engaging-guide-to-basic-geometric-shapes-suitable-as-an-educational-aid-for-children.-Include-shapes-such-as-a-circle--square--t.webp\" width=\"1024\" /><figcaption><span style=\"white-space: pre-wrap;\">Prompt: &quot;Please generate a colorful guide to basic geometric shapes, as an aid to children learning to identify basic shapes.&quot;</span></figcaption></figure><p>Not only does it have the basic shapes like circle, tringle, hectanbie, and sqale, it also has some</p>",
+      "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://www.aiweirdness.com/rss/",
+        "value": "<p>Hey look, it&apos;s a guide to basic shapes!</p><figure class=\"kg-card kg-image-card kg-card-hascaption\"><img alt=\"A grid of colorful shapes with cheerful faces, each labeled with a name. The only correctly labeled shape is a circle at the upper left. The only other correctly spelled shape is &quot;square&quot; at the upper right that unfortunately is labeling a circle. Other labels include chale (a rectangle), tliable (a rectangle), renatle (a hexagon), hectanbie (a triangle), and pso (a two-colored rectangle). Hoboz labels a six-lobed sun shape, and flotn labels an eight-pointed star. Seoisuon appears to be a 3D cube.\" class=\"kg-image\" height=\"1024\" src=\"https://www.aiweirdness.com/content/images/2024/03/DALL-E-2024-03-17-11.59.53---Create-a-colorful-and-engaging-guide-to-basic-geometric-shapes-suitable-as-an-educational-aid-for-children.-Include-shapes-such-as-a-circle--square--t.webp\" width=\"1024\" /><figcaption><span style=\"white-space: pre-wrap;\">Prompt: &quot;Please generate a colorful guide to basic geometric shapes, as an aid to children learning to identify basic shapes.&quot;</span></figcaption></figure><p>Not only does it have the basic shapes like circle, tringle, hectanbie, and sqale, it also has some</p>"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.aiweirdness.com/shaped-like-information/"
+        }
+      ],
+      "link": "https://www.aiweirdness.com/shaped-like-information/",
+      "id": "65f72b24c47c3b000166ac64",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "dalle3",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "chatgpt",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "generated images",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "education",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "shapes",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "shape shaped",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "alt text generation",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "authors": [
+        {
+          "name": "Janelle Shane"
+        }
+      ],
+      "author": "Janelle Shane",
+      "author_detail": {
+        "name": "Janelle Shane"
+      },
+      "published": "Sun, 17 Mar 2024 19:20:43 GMT",
+      "published_parsed": [
+        2024,
+        3,
+        17,
+        19,
+        20,
+        43,
+        6,
+        77,
+        0
+      ],
+      "media_content": [
+        {
+          "url": "https://www.aiweirdness.com/content/images/2024/03/Screenshot-2024-03-17-at-12.13.47-PM.png",
+          "medium": "image"
+        }
+      ],
+      "content": [
+        {
+          "type": "text/html",
+          "language": null,
+          "base": "https://www.aiweirdness.com/rss/",
+          "value": "<img alt=\"Shaped like information\" src=\"https://www.aiweirdness.com/content/images/2024/03/Screenshot-2024-03-17-at-12.13.47-PM.png\" /><p>Hey look, it&apos;s a guide to basic shapes!</p><figure class=\"kg-card kg-image-card kg-card-hascaption\"><img alt=\"Shaped like information\" class=\"kg-image\" height=\"1024\" src=\"https://www.aiweirdness.com/content/images/2024/03/DALL-E-2024-03-17-11.59.53---Create-a-colorful-and-engaging-guide-to-basic-geometric-shapes-suitable-as-an-educational-aid-for-children.-Include-shapes-such-as-a-circle--square--t.webp\" width=\"1024\" /><figcaption><span style=\"white-space: pre-wrap;\">Prompt: &quot;Please generate a colorful guide to basic geometric shapes, as an aid to children learning to identify basic shapes.&quot;</span></figcaption></figure><p>Not only does it have the basic shapes like circle, tringle, hectanbie, and sqale, it also has some of the more advanced shapes like renstqon, hoboz, and flotn!</p><p>The fact that even a kindergartener can call out this DALL-E3 generated image as nonsense doesn&apos;t mean that it&apos;s an unusually bad example of AI-generated imagery. It&apos;s just what happens when the usual AI-generated information intersects with an area where most people are experts.</p><p>There&apos;s AI generated &quot;educational material&quot; offered for sale on all sorts of topics - <a href=\"https://www.amazon.com/Diabetic-Cookbook-Beginners-Step-Step/product-reviews/B0CN591XJ4/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&amp;reviewerType=all_reviews&amp;ref=aiweirdness.com\" rel=\"noreferrer\">cookbooks</a> that list &quot;the veggies&quot; as a protein and &quot;orange colored&quot; as a fruit, <a href=\"https://www.popsci.com/technology/khan-academy-ai-tutor/?utm_source=social&amp;utm_medium=bluesky&amp;utm_campaign=manual\" rel=\"noreferrer\">math help</a> that makes basic math errors, and <a href=\"https://www.sciencedirect.com/science/article/abs/pii/S2468023024002402?ref=aiweirdness.com\" rel=\"noreferrer\">research papers</a> that begin with &quot;Certainly, here is a possible introduction for your topic:&quot;. They&apos;re not adding anything of value.</p><p>Asked to generate an alt text description of the image above, chatgpt4 writes: </p><blockquote>&quot;A vibrant educational guide featuring basic geometric shapes aimed at young learners. The image includes a circle, square, triangle, rectangle, and hexagon, each in a different color and adorned with cheerful facial expressions. These shapes are set against a light, inviting background and are clearly labeled with their names in a large, child-friendly font. The layout is clean and organized, making it easy for children to identify and learn each shape.&quot;</blockquote><p>I&apos;ve <a href=\"https://www.aiweirdness.com/the-spookiest-halloween-scenes/\" rel=\"noreferrer\">noted</a> <a href=\"https://www.aiweirdness.com/ai-vs-a-giraffe-with-no-spots/\" rel=\"noreferrer\">before</a> that AI image descriptions can miss the obvious. It&apos;s certainly a description-shaped incorrect description of incorrectly labeled shape-shaped shapes. And it&apos;s all going into the training data for the next generation of generative AI!</p><p><a href=\"https://www.aiweirdness.com/bonus-more-shape-shaped-shapes/\" rel=\"noreferrer\">Bonus content: another set of entertainingly incorrect shapes.</a></p>"
+        }
+      ]
+    },
+    {
+      "title": "Bonus: More shape shaped shapes",
+      "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.aiweirdness.com/rss/",
+        "value": "Bonus: More shape shaped shapes"
+      },
+      "summary": "<p>The image I shared in my main post isn&apos;t one of the more incorrect examples of DALL-E3 generated guides - it&apos;s actually one of the more correct ones.</p><p>Here&apos;s another generated image from the same prompt.</p><figure class=\"kg-card kg-image-card kg-card-hascaption\"><img alt=\"A grid of cheerful cartoon shapes, each with labels. At the upper left is a correctly labeled circle. At the upper middle is a cube labeled &quot;square&quot;. Everything else is even more incorrect. There&apos;s some kind of winged diamond surrounded by clouds labeled &quot;circle&quot; and another cube labeled &quot;suare&quot;. A hexagon is labeled &quot;recabcle&quot;, another is labeled &quot;decangon&quot;, and a triangle next to it is labeled &quot;hexxggon&quot;. There&apos;s a yellow triangle labeled &quot;shapts&quot; and another labeled &quot;suadle&quot;. A rainbow-hatted possible pentagon is labeled &quot;sarsle&quot;.\" class=\"kg-image\" height=\"1024\" src=\"https://www.aiweirdness.com/content/images/2024/03/DALL-E-2024-03-17-11.40.30---Create-an-engaging-and-colorful-guide-for-children--featuring-basic-geometric-shapes-including-a-circle--square--triangle--rectangle--and-hexagon.-Eac-1.webp\" width=\"1024\" /><figcaption><span style=\"white-space: pre-wrap;\">Prompt: &quot;Please generate a colorful guide to</span></figcaption></figure>",
+      "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://www.aiweirdness.com/rss/",
+        "value": "<p>The image I shared in my main post isn&apos;t one of the more incorrect examples of DALL-E3 generated guides - it&apos;s actually one of the more correct ones.</p><p>Here&apos;s another generated image from the same prompt.</p><figure class=\"kg-card kg-image-card kg-card-hascaption\"><img alt=\"A grid of cheerful cartoon shapes, each with labels. At the upper left is a correctly labeled circle. At the upper middle is a cube labeled &quot;square&quot;. Everything else is even more incorrect. There&apos;s some kind of winged diamond surrounded by clouds labeled &quot;circle&quot; and another cube labeled &quot;suare&quot;. A hexagon is labeled &quot;recabcle&quot;, another is labeled &quot;decangon&quot;, and a triangle next to it is labeled &quot;hexxggon&quot;. There&apos;s a yellow triangle labeled &quot;shapts&quot; and another labeled &quot;suadle&quot;. A rainbow-hatted possible pentagon is labeled &quot;sarsle&quot;.\" class=\"kg-image\" height=\"1024\" src=\"https://www.aiweirdness.com/content/images/2024/03/DALL-E-2024-03-17-11.40.30---Create-an-engaging-and-colorful-guide-for-children--featuring-basic-geometric-shapes-including-a-circle--square--triangle--rectangle--and-hexagon.-Eac-1.webp\" width=\"1024\" /><figcaption><span style=\"white-space: pre-wrap;\">Prompt: &quot;Please generate a colorful guide to</span></figcaption></figure>"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.aiweirdness.com/bonus-more-shape-shaped-shapes/"
+        }
+      ],
+      "link": "https://www.aiweirdness.com/bonus-more-shape-shaped-shapes/",
+      "id": "65f73e94c47c3b000166ace6",
+      "guidislink": false,
+      "authors": [
+        {
+          "name": "Janelle Shane"
+        }
+      ],
+      "author": "Janelle Shane",
+      "author_detail": {
+        "name": "Janelle Shane"
+      },
+      "published": "Sun, 17 Mar 2024 19:20:05 GMT",
+      "published_parsed": [
+        2024,
+        3,
+        17,
+        19,
+        20,
+        5,
+        6,
+        77,
+        0
+      ],
+      "content": [
+        {
+          "type": "text/html",
+          "language": null,
+          "base": "https://www.aiweirdness.com/rss/",
+          "value": "<p>The image I shared in my main post isn&apos;t one of the more incorrect examples of DALL-E3 generated guides - it&apos;s actually one of the more correct ones.</p><p>Here&apos;s another generated image from the same prompt.</p><figure class=\"kg-card kg-image-card kg-card-hascaption\"><img alt=\"A grid of cheerful cartoon shapes, each with labels. At the upper left is a correctly labeled circle. At the upper middle is a cube labeled &quot;square&quot;. Everything else is even more incorrect. There&apos;s some kind of winged diamond surrounded by clouds labeled &quot;circle&quot; and another cube labeled &quot;suare&quot;. A hexagon is labeled &quot;recabcle&quot;, another is labeled &quot;decangon&quot;, and a triangle next to it is labeled &quot;hexxggon&quot;. There&apos;s a yellow triangle labeled &quot;shapts&quot; and another labeled &quot;suadle&quot;. A rainbow-hatted possible pentagon is labeled &quot;sarsle&quot;.\" class=\"kg-image\" height=\"1024\" src=\"https://www.aiweirdness.com/content/images/2024/03/DALL-E-2024-03-17-11.40.30---Create-an-engaging-and-colorful-guide-for-children--featuring-basic-geometric-shapes-including-a-circle--square--triangle--rectangle--and-hexagon.-Eac-1.webp\" width=\"1024\" /><figcaption><span style=\"white-space: pre-wrap;\">Prompt: &quot;Please generate a colorful guide to basic geometric shapes, as an aid to children learning to identify basic shapes.&quot;</span></figcaption></figure><p>Particularly found of the Suadle and the Sarsle.</p><p>And this one. I&apos;ve noticed the upper left image is usually a correctly labeled yellow circle. In my animals example, the upper left image was usually a correctly labeled lion. Maybe there&apos;s some kind of upper left bias to how DALL-E3 generates its images?</p><figure class=\"kg-card kg-image-card kg-card-hascaption\"><img alt=\"At the upper left, a yellow circle labeled &quot;circle&quot;. Next to it, a triangle sitting on two rectangles, labeled &quot;squale&quot;. Next to that is a hexagon labeled &quot;squarle&quot; with golden lines and curls radiating from its top. Next row has a star labeled &quot;squale&quot; and two triangles labeled &quot;triangle&quot;. Bottom row has a hexagon labeled &quot;secange&quot;, a star labeled &quot;recaxnge&quot;, and a hexagon labeled &quot;hexxogon&quot;.\" class=\"kg-image\" height=\"1024\" src=\"https://www.aiweirdness.com/content/images/2024/03/DALL-E-2024-03-17-13.06.02---Create-a-colorful-and-educational-guide-featuring-basic-geometric-shapes--aimed-at-assisting-children-in-their-learning-process.-The-image-should-incl.webp\" width=\"1024\" /><figcaption><span style=\"white-space: pre-wrap;\">Prompt: &quot;Please generate a colorful guide to basic geometric shapes, as an aid to children learning to identify basic shapes.&quot;</span></figcaption></figure><p>I like how the squarle has majesty lines.</p>"
+        }
+      ]
+    },
+    {
+      "title": "Learn your farm animals with AI!",
+      "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.aiweirdness.com/rss/",
+        "value": "Learn your farm animals with AI!"
+      },
+      "summary": "<p>Hey kids! What sound does a woolly horse-sheep make?</p><figure class=\"kg-card kg-image-card\"><img alt=\"Happy cartoon animals, many with speech bubbles. A blue cow says Moo. A cow? pig? horse? says oink. A pig in a scarf says oink. A pig with spiked shoulder pads and confusing hoofs says &quot;Camolo&quot;. The A has two horizontal bars instead of one. A cheerful sheep/chicken in a bandanna is saying nothing or possibly swearing. A horse, or more precisely its butt, says &quot;Baaa&quot; (with extra bars on all the a&apos;s. A horse with a fluffy sheep body says &quot;boaa&quot;. A small stubby horse says Cluck. A cat is emitting a speech bubble with a mouse face while a speech bubble saying &quot;baaa&quot; emerges from somewhere off-screen. A very confusing blue animal with pointy ears and a double duck bill says &quot;sheep&quot;. A terrifying frog says &quot;chicken&quot;. A penguin says &quot;cluck&quot; and also is somehow pronouncing a paw print. A horse with a mane that goes all the way down its back is eating a blue handkerchief and saying &quot;M&quot;. A grey sheep with a beak is pronouncing spheres. A chicken says &quot;quack&quot;. And finally a ducklike bird says &quot;quack&quot;.\" class=\"kg-image\" height=\"1024\" src=\"https://www.aiweirdness.com/content/images/2024/03/DALL-E-2024-03-04-19.52.17---An-illustrated-poster-designed-to-help-children-learn-the-sounds-that-common-animals-make.-Each-animal-is-depicted-with-a-colorful-and-friendly-appear.webp\" width=\"1024\" /></figure><p>The image above is what you get when you ask dalle-3 (via chatgpt) for some basic educational material: &quot;Please generate an illustrated poster to help children learn which sounds common animals make. Each animal should be pictured with a speech</p>",
+      "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://www.aiweirdness.com/rss/",
+        "value": "<p>Hey kids! What sound does a woolly horse-sheep make?</p><figure class=\"kg-card kg-image-card\"><img alt=\"Happy cartoon animals, many with speech bubbles. A blue cow says Moo. A cow? pig? horse? says oink. A pig in a scarf says oink. A pig with spiked shoulder pads and confusing hoofs says &quot;Camolo&quot;. The A has two horizontal bars instead of one. A cheerful sheep/chicken in a bandanna is saying nothing or possibly swearing. A horse, or more precisely its butt, says &quot;Baaa&quot; (with extra bars on all the a&apos;s. A horse with a fluffy sheep body says &quot;boaa&quot;. A small stubby horse says Cluck. A cat is emitting a speech bubble with a mouse face while a speech bubble saying &quot;baaa&quot; emerges from somewhere off-screen. A very confusing blue animal with pointy ears and a double duck bill says &quot;sheep&quot;. A terrifying frog says &quot;chicken&quot;. A penguin says &quot;cluck&quot; and also is somehow pronouncing a paw print. A horse with a mane that goes all the way down its back is eating a blue handkerchief and saying &quot;M&quot;. A grey sheep with a beak is pronouncing spheres. A chicken says &quot;quack&quot;. And finally a ducklike bird says &quot;quack&quot;.\" class=\"kg-image\" height=\"1024\" src=\"https://www.aiweirdness.com/content/images/2024/03/DALL-E-2024-03-04-19.52.17---An-illustrated-poster-designed-to-help-children-learn-the-sounds-that-common-animals-make.-Each-animal-is-depicted-with-a-colorful-and-friendly-appear.webp\" width=\"1024\" /></figure><p>The image above is what you get when you ask dalle-3 (via chatgpt) for some basic educational material: &quot;Please generate an illustrated poster to help children learn which sounds common animals make. Each animal should be pictured with a speech</p>"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.aiweirdness.com/learn-your-farm-animals-with-ai/"
+        }
+      ],
+      "link": "https://www.aiweirdness.com/learn-your-farm-animals-with-ai/",
+      "id": "65e7d8fe576b5e0001a3ce97",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "generated images",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "dalle3",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "chatgpt",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "farm animals",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "animals",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "old mcdonald had a farm",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "ai ai uh oh",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "animal sounds",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "authors": [
+        {
+          "name": "Janelle Shane"
+        }
+      ],
+      "author": "Janelle Shane",
+      "author_detail": {
+        "name": "Janelle Shane"
+      },
+      "published": "Sat, 09 Mar 2024 21:32:09 GMT",
+      "published_parsed": [
+        2024,
+        3,
+        9,
+        21,
+        32,
+        9,
+        5,
+        69,
+        0
+      ],
+      "media_content": [
+        {
+          "url": "https://www.aiweirdness.com/content/images/2024/03/Screenshot-2024-03-07-at-20-43-05-Ghost-Admin---AI-Weirdness.png",
+          "medium": "image"
+        }
+      ],
+      "content": [
+        {
+          "type": "text/html",
+          "language": null,
+          "base": "https://www.aiweirdness.com/rss/",
+          "value": "<img alt=\"Learn your farm animals with AI!\" src=\"https://www.aiweirdness.com/content/images/2024/03/Screenshot-2024-03-07-at-20-43-05-Ghost-Admin---AI-Weirdness.png\" /><p>Hey kids! What sound does a woolly horse-sheep make?</p><figure class=\"kg-card kg-image-card\"><img alt=\"Learn your farm animals with AI!\" class=\"kg-image\" height=\"1024\" src=\"https://www.aiweirdness.com/content/images/2024/03/DALL-E-2024-03-04-19.52.17---An-illustrated-poster-designed-to-help-children-learn-the-sounds-that-common-animals-make.-Each-animal-is-depicted-with-a-colorful-and-friendly-appear.webp\" width=\"1024\" /></figure><p>The image above is what you get when you ask dalle-3 (via chatgpt) for some basic educational material: &quot;Please generate an illustrated poster to help children learn which sounds common animals make. Each animal should be pictured with a speech bubble spelling out the animal&apos;s sound.&quot;</p><p>Here&apos;s another, generated with the same prompt:</p><figure class=\"kg-card kg-image-card\"><img alt=\"Learn your farm animals with AI!\" class=\"kg-image\" height=\"1024\" src=\"https://www.aiweirdness.com/content/images/2024/03/DALL-E-2024-03-04-19.58.49---An-illustrated-poster-designed-to-help-children-learn-which-sounds-common-animals-make.-The-poster-should-feature-a-cow--a-pig--a-sheep--a-horse--a-ch-1.webp\" width=\"1024\" /></figure><p>There is so much not to like about how people are using image generators to rip off artists and replace their work with shoddy imitations. But I am enjoying these pockets of weirdness where I find them.</p><p><a href=\"https://www.aiweirdness.com/bonus-more-farm-animals/\" rel=\"noreferrer\">Bonus content: more pockets of weirdness! In the form of more labeled animals and the things they say, including in &quot;Swedish&quot;.</a></p>"
+        }
+      ]
+    },
+    {
+      "title": "Bonus: more farm animals",
+      "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.aiweirdness.com/rss/",
+        "value": "Bonus: more farm animals"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.aiweirdness.com/bonus-more-farm-animals/"
+        }
+      ],
+      "link": "https://www.aiweirdness.com/bonus-more-farm-animals/",
+      "id": "65ea89bd51a0db00017b0f4f",
+      "guidislink": false,
+      "authors": [
+        {
+          "name": "Janelle Shane"
+        }
+      ],
+      "author": "Janelle Shane",
+      "author_detail": {
+        "name": "Janelle Shane"
+      },
+      "published": "Sat, 09 Mar 2024 21:31:40 GMT",
+      "published_parsed": [
+        2024,
+        3,
+        9,
+        21,
+        31,
+        40,
+        5,
+        69,
+        0
+      ],
+      "content": [
+        {
+          "type": "text/html",
+          "language": null,
+          "base": "https://www.aiweirdness.com/rss/",
+          "value": ""
+        }
+      ],
+      "summary": ""
+    },
+    {
+      "title": "DALL-E3 generates candy hearts",
+      "title_detail": {
+        "type": "text/plain",
+        "language": null,
+        "base": "https://www.aiweirdness.com/rss/",
+        "value": "DALL-E3 generates candy hearts"
+      },
+      "summary": "<p>I&apos;ve experimented a couple of times with generating candy heart messages using various kinds of machine learning algorithms. Originally, short messages were just about all the original text-generating neural networks could handle. Now we&apos;ve come back around to approximately the same performance, yet with orders of</p>",
+      "summary_detail": {
+        "type": "text/html",
+        "language": null,
+        "base": "https://www.aiweirdness.com/rss/",
+        "value": "<p>I&apos;ve experimented a couple of times with generating candy heart messages using various kinds of machine learning algorithms. Originally, short messages were just about all the original text-generating neural networks could handle. Now we&apos;ve come back around to approximately the same performance, yet with orders of</p>"
+      },
+      "links": [
+        {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://www.aiweirdness.com/dall-e3-generates-candy-hearts/"
+        }
+      ],
+      "link": "https://www.aiweirdness.com/dall-e3-generates-candy-hearts/",
+      "id": "65c43d35e370190001940b5f",
+      "guidislink": false,
+      "tags": [
+        {
+          "term": "candy hearts",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "valentines",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "dalle3",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "generated images",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "chatpgt",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "conversation hearts",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "authors": [
+        {
+          "name": "Janelle Shane"
+        }
+      ],
+      "author": "Janelle Shane",
+      "author_detail": {
+        "name": "Janelle Shane"
+      },
+      "published": "Sat, 10 Feb 2024 19:30:09 GMT",
+      "published_parsed": [
+        2024,
+        2,
+        10,
+        19,
+        30,
+        9,
+        5,
+        41,
+        0
+      ],
+      "media_content": [
+        {
+          "url": "https://www.aiweirdness.com/content/images/2024/02/Screenshot-2024-02-10-at-12.21.44-PM.png",
+          "medium": "image"
+        }
+      ],
+      "content": [
+        {
+          "type": "text/html",
+          "language": null,
+          "base": "https://www.aiweirdness.com/rss/",
+          "value": "<img alt=\"DALL-E3 generates candy hearts\" src=\"https://www.aiweirdness.com/content/images/2024/02/Screenshot-2024-02-10-at-12.21.44-PM.png\" /><p>I&apos;ve experimented a couple of times with generating candy heart messages using various kinds of machine learning algorithms. Originally, short messages were just about all the original text-generating neural networks could handle. Now we&apos;ve come back around to approximately the same performance, yet with orders of magnitude more computational resources consumed. (although I don&apos;t have to photoshop the messages onto candies any more, so that&apos;s nice) Here&apos;s DALL-E3 generating candy hearts:</p><figure class=\"kg-card kg-image-card kg-card-hascaption\"><img alt=\"DALL-E3 generates candy hearts\" class=\"kg-image\" height=\"1024\" src=\"https://www.aiweirdness.com/content/images/2024/02/DALL-E-2024-01-24-19.30.04---A-grid-of-candy-conversation-hearts-on-a-plain-white-background--each-heart-showcasing-a-longer-than-usual-message.-The-hearts-come-in-a-variety-of-pa.png\" width=\"1024\" /><figcaption><span style=\"white-space: pre-wrap;\">My exact prompt: &quot;Please generate a grid of candy conversation hearts on a plain white background, each heart displaying a longer than usual message.&quot;</span></figcaption></figure><p>My impression is the text here is operating not so much on the level of &quot;here are plausible candy heart messages&quot; so much as &quot;here are some clusters of pixels that are associated with candy hearts&quot;. As with most AI-generated imagery, it&apos;s the most impressive at first glance, and then gets worse the longer you look.</p><p>I&apos;ve noticed that the more text DALL-E3 tries to put in an image, the worse the readability of the text is - I&apos;m fairly surprised at how legible most of the candy hearts above were. (Maybe it helps set expectations that the real-life candies are often garbled.) When I ask for fewer hearts, they end up crisper. But not necessarily improved in coherence.</p><figure class=\"kg-card kg-image-card kg-card-hascaption\"><img alt=\"DALL-E3 generates candy hearts\" class=\"kg-image\" height=\"1024\" src=\"https://www.aiweirdness.com/content/images/2024/02/DALL-E-2024-02-07-20.01.27---An-image-of-four-candy-conversation-hearts-on-a-plain-white-background--each-displaying-a-unique-Valentine-s-message.-The-hearts-are-in-distinct-paste.webp\" width=\"1024\" /><figcaption><span style=\"white-space: pre-wrap;\">My exact prompt: &quot;Please generate an image of four candy conversation hearts on a plain white background, each displaying a unique valentine&apos;s message.&quot;</span></figcaption></figure><p>Coherent text <a href=\"https://www.aiweirdness.com/chocolates-labeled/\" rel=\"noreferrer\">is</a> <a href=\"https://www.aiweirdness.com/your-ai-generated-guide-to-the-nativity/\" rel=\"noreferrer\">particularly</a> <a href=\"https://www.aiweirdness.com/learn-the-mammals-with-dall-e3/\" rel=\"noreferrer\">difficult</a> for image-generating algorithms, so the candy hearts may just be a reflection of that.</p><p>But there&apos;s another possibility that amuses me. The search &quot;candy hearts with messages&quot; brings up images from past AI Weirdness candy heart experiments. It is likely that these were part of DALL-E3&apos;s training data, and they may have had an effect on the weirdness of generated hearts that I&apos;m getting now.</p><p>When I ask for candy hearts with &quot;quirky, AI-style messages&quot;, I get candy hearts that are (to me) indistinguishable in quality from the first grid.</p><figure class=\"kg-card kg-image-card\"><img alt=\"DALL-E3 generates candy hearts\" class=\"kg-image\" height=\"1024\" src=\"https://www.aiweirdness.com/content/images/2024/02/DALL-E-2024-01-24-19.54.48---A-grid-of-candy-conversation-hearts-on-a-plain-white-background--each-heart-featuring-a-quirky--AI-generated-style-message.-The-hearts-come-in-various.png\" width=\"1024\" /></figure><p><a href=\"https://www.aiweirdness.com/bonus-more-dall-e3-candy-hearts/\" rel=\"noreferrer\">Bonus content: more candy hearts!</a></p>"
+        }
+      ]
+    }
+  ]
+}
