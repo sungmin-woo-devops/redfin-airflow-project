@@ -4,7 +4,7 @@ RSS 데이터 정규화 및 처리 로직
 from __future__ import annotations
 from typing import Any, Dict
 
-from .common_utils import sha1, first_nonempty
+from plugins.utils.common_utils import sha1, first_nonempty
 
 
 def _norm_feed(feed: Dict[str, Any]) -> Dict[str, Any]:

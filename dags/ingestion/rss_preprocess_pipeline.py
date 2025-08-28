@@ -54,7 +54,7 @@ def preprocess(**_):
     return {"input": latest, "output": out_file}
 
 with DAG(
-    dag_id="rss_preprocess_pipeline",
+    dag_id="03_rss_preprocess_pipeline",
     description="ISO8601 시간 통일, URL 정규화 등 전처리",
     start_date=pendulum.datetime(2025, 8, 1, tz=KST),
     schedule=[RSS_EXTRACTED],

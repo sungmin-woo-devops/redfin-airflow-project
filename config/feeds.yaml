@@ -6,7 +6,6 @@ feeds:
   - name: Official OpenAI Blog RSS
     url: https://openai.com/blog/rss.xml
     group: frontier_lab
-    group: frontier_lab
   - name: Google AI Blog
     url: https://ai.googleblog.com/feeds/posts/default?alt=rss
     group: frontier_lab
@@ -144,4 +143,91 @@ feeds:
   - name: Towards Data Science
     url: https://towardsdatascience.com/feed
     group: media
+
+  # --- Legacy Feeds (기존 get_rss_feeds.py에서 변환) ---
+  # Machine Learning
+  - name: Cube_dev
+    url: https://blog.statsbot.co/rss
+    group: legacy_ml
+  - name: Machine_Learning_Mastery
+    url: https://machinelearningmastery.com/feed/
+    group: legacy_ml
+  - name: ML_Uber_Engineering
+    url: https://eng.uber.com/feed/
+    group: legacy_ml
+  - name: ML_Reddit
+    url: https://www.reddit.com/r/MachineLearning/.rss
+    group: legacy_ml
+  - name: ML_in_production
+    url: https://mlinproduction.com/feed/
+    group: legacy_ml
+  - name: Jay_Alammar_blog
+    url: http://jalammar.github.io/feed.xml
+    group: legacy_ml
+  - name: JMLR_recent_papers
+    url: http://www.jmlr.org/jmlr.xml
+    group: legacy_ml
+  - name: Distill_blog
+    url: https://distill.pub/rss.xml
+    group: legacy_ml
+  - name: inFERENCe_blog
+    url: https://www.inference.vc/feed/
+    group: legacy_ml
+
+  # Artificial Intelligence
+  - name: AI_Trends
+    url: https://www.aitrends.com/feed/
+    group: legacy_ai
+  - name: AI_Weirdness
+    url: https://aiweirdness.com/feed
+    group: legacy_ai
+  - name: Becoming_Human
+    url: https://becominghuman.ai/feed
+    group: legacy_ai
+  - name: MIT_AI_News
+    url: http://news.mit.edu/rss/topic/artificial-intelligence2
+    group: legacy_ai
+  - name: David_Stutz_AI_Paper_Review
+    url: https://davidstutz.de/feed/
+    group: legacy_ai
+  - name: AI_Reddit
+    url: https://www.reddit.com/r/artificial/.rss
+    group: legacy_ai
+  - name: Reddit_NN_DL
+    url: https://www.reddit.com/r/neuralnetworks/.rss
+    group: legacy_ai
+  - name: ScienceDaily_AI
+    url: https://www.sciencedaily.com/rss/computers_ai.xml
+    group: legacy_ai
+  - name: Daniel_Takeshi_Blog
+    url: https://danieltakeshi.github.io/feed.xml
+    group: legacy_ai
+  - name: Vitalab_LitReview
+    url: https://vitalab.github.io/feed.xml
+    group: legacy_ai
+  - name: Andrej_Karpathy
+    url: https://karpathy.medium.com/feed
+    group: legacy_ai
+  - name: FastAI_Blog
+    url: http://www.fast.ai/feeds/blog.xml
+    group: legacy_ai
+
+  # Reinforcement Learning
+  - name: RL_Reddit
+    url: https://www.reddit.com/r/reinforcementlearning/.rss
+    group: legacy_rl
+  - name: RL_Weekly
+    url: https://www.getrevue.co/profile/seungjaeryanlee?format=rss
+    group: legacy_rl
+  - name: RL_Paper_Review
+    url: https://dtransposed.github.io/feed.xml
+    group: legacy_rl
+
+  # Data Science
+  - name: Data_Science_Central
+    url: https://www.datasciencecentral.com/feed/
+    group: legacy_ds
+  - name: John_Cook_Blog
+    url: https://www.johndcook.com/blog/feed/
+    group: legacy_ds
 

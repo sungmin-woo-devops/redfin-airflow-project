@@ -111,6 +111,15 @@ class MongoConnectionTester(LoggingMixin):
             self.log.error(f"❌ {result['error']}")
         
         return result
+    
+    def _get_client(self):
+        """
+        MongoDB 클라이언트 반환
+        
+        Returns:
+            MongoClient: MongoDB 클라이언트
+        """
+        return MongoClient(self.mongo_uri, serverSelectionTimeoutMS=10000)
 
 
 def test_mongo_connection(mongo_uri: Optional[str] = None, timeout_ms: int = 5000) -> bool:

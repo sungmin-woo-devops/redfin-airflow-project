@@ -4,15 +4,12 @@ x-airflow-common:
   build: .
   environment:
     &airflow-common-env
-    LANG: C.UTF-8
-    LC_ALL: C.UTF-8
-    PYTHONENCODING: UTF-8
-    AIRFLOW__CORE__EXECUTOR: ${AIRFLOW__CORE__EXECUTOR}
+    AIRFLOW__CORE__EXECUTOR: SequentialExecutor
     AIRFLOW__CORE__AUTH_MANAGER: airflow.providers.fab.auth_manager.fab_auth_manager.FabAuthManager
     AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: postgresql+psycopg2://airflow:airflow@postgres/airflow
-    AIRFLOW__CORE__FERNET_KEY: ${AIRFLOW__CORE__FERNET_KEY}
+    AIRFLOW__CORE__FERNET_KEY: 'SyrL4DKkqqNk5M2eijFfPewrDvSvT0cuxKOUYCabfU0='
     AIRFLOW__CORE__DAGS_ARE_PAUSED_AT_CREATION: 'true'
-    AIRFLOW__CORE__LOAD_EXAMPLES: ${AIRFLOW__CORE__LOAD_EXAMPLES:-false}
+    AIRFLOW__CORE__LOAD_EXAMPLES: 'false'
     AIRFLOW__CORE__XCOM_BACKEND: 'airflow.models.xcom.BaseXCom'
     AIRFLOW__SCHEDULER__STANDALONE_DAG_PROCESSOR: 'true'
     AIRFLOW__WEBSERVER__SECRET_KEY: 'u4o1zv5cN6tV4hQyB8XoC2qPLOsQK7FZQpo2yQExY4g='
@@ -21,13 +18,11 @@ x-airflow-common:
     AIRFLOW__WEBSERVER__WORKER_REFRESH_INTERVAL: '60'
     AIRFLOW__WEBSERVER__WORKER_TIMEOUT: '120'
     AIRFLOW__WEBSERVER__WORKER_CONNECTIONS: '1000'
-    AIRFLOW__LOGGING__REMOTE_LOGGING: ${AIRFLOW__LOGGING__REMOTE_LOGGING:-false}
-    AIRFLOW__LOGGING__BASE_LOG_FOLDER: ${AIRFLOW__LOGGING__BASE_LOG_FOLDER}
+    AIRFLOW__LOGGING__REMOTE_LOGGING: 'false'
+    AIRFLOW__LOGGING__BASE_LOG_FOLDER: '/opt/airflow/logs'
     AIRFLOW__SCHEDULER__ENABLE_HEALTH_CHECK: 'true'
     PYTHONPATH: '/opt/airflow'
     AIRFLOW_CONFIG: '/opt/airflow/config/airflow.cfg'
-  user: "${AIRFLOW_UID}:${AIRFLOW_GID}" # non-root
-  group_add: ["${DOCKER_GID}"]
   volumes:
     - ${AIRFLOW_PROJ_DIR:-.}/data:/opt/airflow/data
     - ${AIRFLOW_PROJ_DIR:-.}/dags:/opt/airflow/dags
@@ -35,7 +30,6 @@ x-airflow-common:
     - ${AIRFLOW_PROJ_DIR:-.}/plugins:/opt/airflow/plugins
     - ${AIRFLOW_PROJ_DIR:-.}/config/:/opt/airflow/config/
     - ${AIRFLOW_PROJ_DIR:-.}/app:/opt/airflow/app
-    - /var/run/docker.sock:/var/run/docker.sock
   depends_on:
     &airflow-common-depends-on
     postgres:
@@ -45,34 +39,17 @@ services:
   postgres:
     image: postgres:13
     environment:
-      POSTGRES_USER: ${POSTGRES_USER}
-      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
-      POSTGRES_DB: ${POSTGRES_DB}
+      POSTGRES_USER: airflow
+      POSTGRES_PASSWORD: airflow
+      POSTGRES_DB: airflow
     volumes:
       - postgres-db-volume:/var/lib/postgresql/data
     healthcheck:
-      test: ["CMD", "pg_isready", "-U", "${POSTGRES_USER}"]
+      test: ["CMD", "pg_isready", "-U", "airflow"]
       interval: 10s
       retries: 5
       start_period: 5s
     restart: always
-
-  airflow-webserver:
-    <<: *airflow-common
-    command: webserver
-    ports:
-      - "${AIRFLOW_WEBSERVER_PORT}:8080"
-    healthcheck:
-      test: ["CMD", "curl", "--fail", "http://localhost:8080/health"]
-      interval: 30s
-      timeout: 10s
-      retries: 5
-      start_period: 30s
-    restart: always
-    depends_on:
-      <<: *airflow-common-depends-on
-      airflow-init:
-        condition: service_completed_successfully
 
   airflow-scheduler:
     <<: *airflow-common
@@ -89,19 +66,30 @@ services:
       airflow-init:
         condition: service_completed_successfully
     volumes:
-      - ${AIRFLOW_PROJ_DIR:-.}/data:/opt/airflow/data
-      - ${AIRFLOW_PROJ_DIR:-.}/dags:/opt/airflow/dags
-      - ${AIRFLOW_PROJ_DIR:-.}/logs:/opt/airflow/logs
-      - ${AIRFLOW_PROJ_DIR:-.}/plugins:/opt/airflow/plugins
-      - ${AIRFLOW_PROJ_DIR:-.}/config:/opt/airflow/config/
-      - ${AIRFLOW_PROJ_DIR:-.}/app:/opt/airflow/app
       - /var/run/docker.sock:/var/run/docker.sock
 
   airflow-dag-processor:
     <<: *airflow-common
     command: dag-processor
     healthcheck:
-      test: ["CMD-SHELL", "ps aux | grep '[d]ag-processor' || exit 1"]
+      test: ["CMD-SHELL", 'airflow jobs check --job-type DagProcessorJob --hostname "$${HOSTNAME}"']
+      interval: 30s
+      timeout: 10s
+      retries: 5
+      start_period: 30s
+    restart: always
+    depends_on:
+      <<: *airflow-common-depends-on
+      airflow-init:
+        condition: service_completed_successfully
+
+  airflow-webserver:
+    <<: *airflow-common
+    command: webserver
+    ports:
+      - "18080:8080"
+    healthcheck:
+      test: ["CMD", "curl", "--fail", "http://localhost:8080/health"]
       interval: 30s
       timeout: 10s
       retries: 5
@@ -114,30 +102,25 @@ services:
 
   airflow-init:
     <<: *airflow-common
-    entrypoint: /bin/bash
-    # 단순화된 초기화
-    command:
-      - -c
-      - |
-        echo "Starting Airflow initialization..."
-        mkdir -p /opt/airflow/{logs,dags,plugins,data,config,app}
-        chown -R ${AIRFLOW_UID}:${AIRFLOW_GID} /opt/airflow/{logs,dags,plugins,data,config,app}
-        echo "Running DB migration..."
-        airflow db migrate
-        echo "Creating admin user..."
-        airflow users create \
-          --username ${_AIRFLOW_WWW_USER_USERNAME} \
-          --firstname Admin \
-          --lastname User \
-          --role Admin \
-          --email skybluee0612@gmail.com \
-          --password ${_AIRFLOW_WWW_USER_PASSWORD} \
-          --verbose
-        echo "Initialization complete"
+    command: >
+      bash -c "
+      airflow db migrate &&
+      airflow users create 
+      --username ${_AIRFLOW_WWW_USER_USERNAME:-airflow} 
+      --password ${_AIRFLOW_WWW_USER_PASSWORD:-airflow}
+      --firstname Airflow 
+      --lastname Admin 
+      --role Admin 
+      --email ${_AIRFLOW_WWW_USER_EMAIL:-skybluee0612@gmail.com}
+      "
     environment:
       <<: *airflow-common-env
       _AIRFLOW_DB_MIGRATE: 'true'
       _AIRFLOW_WWW_USER_CREATE: 'true'
+      _AIRFLOW_WWW_USER_USERNAME: ${_AIRFLOW_WWW_USER_USERNAME:-airflow}
+      _AIRFLOW_WWW_USER_PASSWORD: ${_AIRFLOW_WWW_USER_PASSWORD:-airflow}
+    depends_on:
+      <<: *airflow-common-depends-on
     user: "0:0"
 
 volumes:

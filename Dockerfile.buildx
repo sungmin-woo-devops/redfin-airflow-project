@@ -1,0 +1,34 @@
+# syntax=docker/dockerfile:1.4
+# Buildx 최적화된 Dockerfile
+
+FROM apache/airflow:2.9.2
+
+# BuildKit 캐시 마운트를 위한 설정
+ARG BUILDKIT_INLINE_CACHE=1
+
+# Install system dependencies with cache mount
+USER root
+RUN --mount=type=cache,target=/var/cache/apt,sharing=locked \
+    --mount=type=cache,target=/var/lib/apt,sharing=locked \
+    apt-get update && \
+    apt-get install -y curl procps && \
+    apt-get clean
+
+# Switch back to airflow user
+USER airflow
+
+# Copy requirements files first (for better layer caching)
+COPY ./config/requirements.txt /tmp/requirements.txt
+COPY ./app/redfin_scraper/requirements.txt /tmp/scrapy-requirements.txt
+
+# Install Python dependencies with cache mount
+RUN --mount=type=cache,target=/home/airflow/.cache/pip,uid=50000,gid=0 \
+    pip install --no-cache-dir -r /tmp/requirements.txt || echo "No requirements.txt found"
+
+RUN --mount=type=cache,target=/home/airflow/.cache/pip,uid=50000,gid=0 \
+    pip install --no-cache-dir -r /tmp/scrapy-requirements.txt || echo "No scrapy requirements.txt found"
+
+# Add labels for better image management
+LABEL maintainer="redfin-team"
+LABEL version="2.9.2-buildx"
+LABEL description="Redfin Airflow with Buildx optimization"

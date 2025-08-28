@@ -24,6 +24,7 @@ numpy>=1.24.0
 python-dateutil>=2.8.0
 pytz>=2023.3
 PyYAML>=6.0.0
+ulid-py>=1.1.0
 
 # 벡터 저장소
 faiss-cpu>=1.7.0

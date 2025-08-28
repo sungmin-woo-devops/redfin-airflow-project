@@ -18,17 +18,17 @@ from airflow.datasets import Dataset
 # 1. RSS 메타데이터 (피드 원본/요약)
 # Producer: 피드 수집/정규화 태스크
 # Consumer: 기사 본문 추출 DAG(메타가 갱신되면 실행)
-RSS_META      = Dataset("mongo://redfin/articles")        # RSS 피드 메타 계층
+RSS_FEEDS      = Dataset("mongo://redfin/rss_feeds")        # RSS 피드 메타 계층
 
-# 2. RSS 추출 (기사 메타데이터를 근거로 추가 정보 추출)
+# 2. RSS 추천 시스템 학습 데이터 추출
 # Producer: 본문 추출·정제·업서트 태스크
-# Consumer: 임베딩/인덱싱 DAG, 품질검사 DAG
-RSS_EXTRACTED = Dataset("mongo://redfin/articles")   # RSS 피드 추가 정보 계층
+# Consumer: 추천 시스템 학습을 위한 키워드, 태그, 카테고리 (라벨링) 추출 DAG
+RSS_EXTRACTED = Dataset("mongo://redfin/rss_extracted") # 추천 시스템 학습 데이터 추출
 
-# 3. RSS 전처리(URL 정규화, 문자열 데이터 정규화, 날짜 형식 정규화, 결측값 제거, 등)
-# Producer: 전처리 태스크
-# Consumer: 임베딩/인덱싱 DAG, 품질검사 DAG
-RSS_PROCESSED  = Dataset("mongo://redfin/articles")    # RSS 피드 전처리 계층
+# 3. RSS RAG 데이터 추출
+# Producer: 기사 본문 추출·정제·업서트 태스크
+# Consumer: RAG 데이터 추출 DAG
+RSS_ARTICLES_EXTRACTED  = Dataset("mongo://redfin/rss_articles_extracted") # RAG 데이터 추출
 
 # ============================
 # 2. Enrichment Stage
@@ -41,6 +41,6 @@ RSS_LABELED    = Dataset("mongo://redfin/rss_labeld")    # RSS 피드 라벨링 
 
 # 2. RSS 임베딩 데이터
 # Question: 임베딩 vs 인덱싱 ?
-# Producer: 임베딩 태스크
+# Producer: 임베딩 태스크 (기사별 청킹, 일간/주간/월간 트렌드 분석을 위한 RAPTOR용 청킹 + 인덱싱)
 # Consumer: 인덱싱 DAG
 RSS_EMBEDDED   = Dataset("mongo://redfin/rss_embedded")

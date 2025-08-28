@@ -1,12 +1,8 @@
-# Byte-compiled / optimized / DLL files
+# Python
 __pycache__/
 *.py[cod]
 *$py.class
-
-# C extensions
 *.so
-
-# Distribution / packaging
 .Python
 build/
 develop-eggs/
@@ -35,7 +31,7 @@ MANIFEST
 pip-log.txt
 pip-delete-this-directory.txt
 
-# Unit test / coverage reports
+# Testing
 htmlcov/
 .tox/
 .nox/
@@ -49,7 +45,7 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 
-# Environments
+# Virtual environments
 .env
 .venv
 env/
@@ -81,41 +77,116 @@ ipython_config.py
 ehthumbs.db
 Thumbs.db
 
-# Airflow specific
+# ===== AIRFLOW SPECIFIC =====
+
+# Airflow configuration and database
 airflow.cfg
 airflow.db
 airflow-webserver.pid
 airflow-scheduler.pid
+airflow.cfg.template
+
+# Airflow logs
 logs/
+*.log
+
+# Airflow plugins cache
 plugins/__pycache__/
 dags/__pycache__/
 
-# Local development
-.local/
-*.log
-*.tmp
+# Airflow data and temporary files
+**/*data*
+**/data/
+**/raw_data/
+**/processed_data/
+**/temp_data/
 temp/
 tmp/
+*.tmp
 
-# Database
-*.db
-*.sqlite3
+# Airflow DAGs (if you want to exclude certain DAGs)
+# dags/example_dag.py
+# dags/test_*.py
 
-# Secrets and credentials
-*.pem
-*.key
+# Airflow connections and variables (secrets)
+connections.json
+variables.json
 secrets/
 credentials/
 
-# Docker
+# Airflow webserver static files
+static/
+
+# ===== DATABASE =====
+*.db
+*.sqlite3
+*.sqlite
+
+# ===== SECURITY =====
+*.pem
+*.key
+*.crt
+*.p12
+*.pfx
+.env.local
+.env.production
+.env.staging
+
+# ===== DOCKER =====
 .dockerignore
 docker-compose.override.yml
+Dockerfile.dev
 
-# Terraform
+# ===== TERRAFORM =====
 *.tfstate
 *.tfstate.*
 .terraform/
 .terraform.lock.hcl
 
-# Node modules (if any frontend components)
+# ===== NODE MODULES =====
 node_modules/
+
+# ===== LOCAL DEVELOPMENT =====
+.local/
+*.local
+
+# ===== BACKUP FILES =====
+*.bak
+*.backup
+*.old
+
+# ===== COMPRESSED FILES =====
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# ===== LARGE FILES =====
+*.csv
+*.json
+*.parquet
+*.avro
+*.orc
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+
+# ===== MONITORING & METRICS =====
+prometheus.yml
+grafana/
+*.metrics
+
+# ===== CACHE DIRECTORIES =====
+.cache/
+cache/
+__pycache__/
+.pytest_cache/
+
+# ===== TEMPORARY FILES =====
+*.tmp
+*.temp
+temp/
+tmp/
+.tmp/
+.temp/
